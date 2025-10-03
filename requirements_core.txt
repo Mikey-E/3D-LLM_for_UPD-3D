@@ -1,0 +1,52 @@
+# Core Dependencies for 3D-LLM
+# Python 3.8 required
+
+# PyTorch with CUDA support
+torch==2.4.1+cu118
+torchvision==0.19.1+cu118
+torchaudio==2.4.1+cu118
+
+# Core ML Libraries
+transformers==4.33.2
+timm==0.4.12
+spacy<3.6
+positional_encodings
+
+# LAVIS Dependencies
+contexttimer
+decord
+diffusers<=0.16.0
+einops>=0.4.1
+fairscale==0.4.4
+ftfy
+iopath
+ipython
+omegaconf
+opencv-python-headless==4.5.5.64
+opendatasets
+pandas
+plotly
+pre-commit
+pycocoevalcap
+pycocotools
+python-magic
+scikit-image
+sentencepiece
+streamlit
+webdataset
+wheel
+soundfile
+moviepy
+nltk
+peft
+easydict==1.9
+pyyaml-env-tag==0.1
+open3d==0.13.0
+h5py
+
+# Additional requirements
+packaging
+pillow
+numpy<1.25.0
+scipy
+scikit-learn
