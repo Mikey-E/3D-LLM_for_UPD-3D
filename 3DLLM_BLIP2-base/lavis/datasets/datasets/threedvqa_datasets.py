@@ -54,11 +54,37 @@ class ThreeDVQADataset(VQADataset, __DisplMixin):
             except:
                 pass
         self.annotation = new_annotation
-        self.pc_feat_root = "examples/voxelized_features_sam_nonzero_preprocess"  
-        self.voxel_root = "examples/voxelized_voxels_sam_nonzero_preprocess"  
+        
+        # Detect dataset type from annotation path
+        ann_path_str = str(ann_paths[0]) if isinstance(ann_paths, list) else str(ann_paths)
+        
+        if "Crops3D" in ann_path_str:
+            # Crops3D dataset
+            self.pc_feat_root = "/cluster/medbow/project/3dllms/melgin/datasets/CEA/Crops3D_processed"
+            self.voxel_root = "/cluster/medbow/project/3dllms/melgin/datasets/CEA/Crops3D_processed"
+            print(f"[ThreeDVQADataset] Detected Crops3D dataset")
+        elif "3D-FRONT" in ann_path_str:
+            # 3D-FRONT dataset
+            self.pc_feat_root = "/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT_processed"
+            self.voxel_root = "/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT_processed"
+            print(f"[ThreeDVQADataset] Detected 3D-FRONT dataset")
+        elif "GIW529" in ann_path_str:
+            # GIW529 dataset
+            self.pc_feat_root = "/project/3dllms/melgin/datasets/GIW/giw529_processed_for_3dllm"
+            self.voxel_root = "/project/3dllms/melgin/datasets/GIW/giw529_processed_for_3dllm"
+            print(f"[ThreeDVQADataset] Detected GIW529 dataset")
+        else:
+            # ScanNet dataset (default)
+            self.pc_feat_root = "/project/3dllms/melgin/3D-LLM_for_UPD-3D/data/scannet_features/voxelized_features_sam_nonzero_preprocess"  
+            self.voxel_root = "/project/3dllms/melgin/3D-LLM_for_UPD-3D/data/scannet_features/voxelized_voxels_sam_nonzero_preprocess"
+            print(f"[ThreeDVQADataset] Detected ScanNet dataset")
+        
+        print(f"[ThreeDVQADataset] Using pc_feat_root: {self.pc_feat_root}")
+        print(f"[ThreeDVQADataset] Using voxel_root: {self.voxel_root}")
         self.annotation = [
             ann for ann in self.annotation if os.path.exists(os.path.join(self.pc_feat_root, ann["scene_id"] + ".pt"))
         ]
+        print(f"[ThreeDVQADataset] Filtered to {len(self.annotation)} samples with existing features")
 
     def __getitem__(self, index):
         ann = self.annotation[index]
@@ -124,11 +150,37 @@ class ThreeDVQAEvalDataset(VQAEvalDataset):
             except:
                 pass
         self.annotation = new_annotation
-        self.pc_feat_root = "examples/voxelized_features_sam_nonzero_preprocess"
-        self.voxel_root = "examples/voxelized_voxels_sam_nonzero_preprocess"
+        
+        # Detect dataset type from annotation path
+        ann_path_str = str(ann_paths[0]) if isinstance(ann_paths, list) else str(ann_paths)
+        
+        if "Crops3D" in ann_path_str:
+            # Crops3D dataset
+            self.pc_feat_root = "/cluster/medbow/project/3dllms/melgin/datasets/CEA/Crops3D_processed"
+            self.voxel_root = "/cluster/medbow/project/3dllms/melgin/datasets/CEA/Crops3D_processed"
+            print(f"[ThreeDVQAEvalDataset] Detected Crops3D dataset")
+        elif "3D-FRONT" in ann_path_str:
+            # 3D-FRONT dataset
+            self.pc_feat_root = "/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT_processed"
+            self.voxel_root = "/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT_processed"
+            print(f"[ThreeDVQAEvalDataset] Detected 3D-FRONT dataset")
+        elif "GIW529" in ann_path_str:
+            # GIW529 dataset
+            self.pc_feat_root = "/project/3dllms/melgin/datasets/GIW/giw529_processed_for_3dllm"
+            self.voxel_root = "/project/3dllms/melgin/datasets/GIW/giw529_processed_for_3dllm"
+            print(f"[ThreeDVQAEvalDataset] Detected GIW529 dataset")
+        else:
+            # ScanNet dataset (default)
+            self.pc_feat_root = "/project/3dllms/melgin/3D-LLM_for_UPD-3D/data/scannet_features/voxelized_features_sam_nonzero_preprocess"  
+            self.voxel_root = "/project/3dllms/melgin/3D-LLM_for_UPD-3D/data/scannet_features/voxelized_voxels_sam_nonzero_preprocess"
+            print(f"[ThreeDVQAEvalDataset] Detected ScanNet dataset")
+        
+        print(f"[ThreeDVQAEvalDataset] Using pc_feat_root: {self.pc_feat_root}")
+        print(f"[ThreeDVQAEvalDataset] Using voxel_root: {self.voxel_root}")
         self.annotation = [
             ann for ann in self.annotation if os.path.exists(os.path.join(self.pc_feat_root, ann["scene_id"] + ".pt"))
         ]
+        print(f"[ThreeDVQAEvalDataset] Filtered to {len(self.annotation)} samples with existing features")
 
     def __getitem__(self, index):
         ann = self.annotation[index]

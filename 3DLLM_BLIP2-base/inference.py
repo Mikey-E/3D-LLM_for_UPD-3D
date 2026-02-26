@@ -15,7 +15,7 @@ parser.add_argument("-v", "--visualize", action="store_true")
 args = parser.parse_args()
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-ckpt_path = "pretrain_blip2_sam_flant5xl_v1.pth"
+ckpt_path = "../checkpoints/pretrain_blip2_sam_flant5xl_v2.pth"
 assert os.path.exists(ckpt_path), "Please specify the checkpoint path."
 
 obj_id_path = "assets/objaverse_subset_ids_100.json"

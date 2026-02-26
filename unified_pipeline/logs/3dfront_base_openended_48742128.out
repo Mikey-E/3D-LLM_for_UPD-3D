@@ -1,0 +1,46 @@
+==========================================
+Starting 3D-FRONT Base Model Inference (open_ended only)
+Job ID: 48742128
+Node: mbl40s-001
+Start time: Fri Dec 19 16:19:29 MST 2025
+==========================================
+Processing single category: open_ended
+======================================================================
+3D-FRONT INFERENCE
+======================================================================
+Device: cuda
+Checkpoint: /project/3dllms/melgin/3D-LLM_for_UPD-3D/checkpoints/pretrain_blip2_sam_flant5xl_v2.pth
+Processed dir: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT_processed
+Questions base: /cluster/medbow/project/3dllms/melgin/UPD-3D/upd_text/3D-FRONT
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/3dfront_inference
+
+Loading point cloud list...
+  Total point clouds: 2993
+  Processing range: 0 to 2993
+  Processing count: 2993
+  Questions per cloud: 1
+  Total inferences: 2993
+
+Loading 3D-LLM model...
+  Loading checkpoint: /project/3dllms/melgin/3D-LLM_for_UPD-3D/checkpoints/pretrain_blip2_sam_flant5xl_v2.pth
+  ✓ Model loaded successfully
+
+======================================================================
+RUNNING INFERENCE
+======================================================================
+  Error processing 025c66d0-3114-434a-a7b4-51ea83c2eaf4@SecondBedroom-32499: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT_processed/025c66d0-3114-434a-a7b4-51ea83c2eaf4_SecondBedroom-32499.pt
+
+======================================================================
+SAVING RESULTS
+======================================================================
+  open_ended: 2992 results -> inf_rslts_3dllm_base_3D-FRONT_test_open_ended.json
+
+======================================================================
+SUMMARY
+======================================================================
+Successful: 2992
+Failed:     1
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/3dfront_inference/3dllm_base
+==========================================
+End time: Fri Dec 19 16:29:35 MST 2025
+==========================================

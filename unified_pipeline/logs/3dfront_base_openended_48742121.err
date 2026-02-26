@@ -1,0 +1,27 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) slurm/latest   2) arcc/1.0
+-------------------------------------------------------------------------------
+There are messages associated with the following module(s):
+-------------------------------------------------------------------------------
+
+gcc/13.2.0:
+   WARNING: The gcc/13.2.0 module should be consider deprecated. Please
+   update libraries/applications to use versions built with gcc/14.2.0 and
+   consider re-compiling any user/project specific software. Currently the
+   only cavet is the latest version of the cuda-toolkit is not currently
+   available for gcc/14.2.0. For any questions please contact
+   arcchelp@uwyo.edu.
+
+-------------------------------------------------------------------------------
+
+
+EnvironmentNameNotFound: Could not find conda environment: 3dllm
+You can list all discoverable environments with `conda info --envs`.
+
+
+Traceback (most recent call last):
+  File "/cluster/medbow/project/3dllms/melgin/3D-LLM_for_UPD-3D/unified_pipeline/02_run_inference.py", line 10, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'

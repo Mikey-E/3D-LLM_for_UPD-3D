@@ -1,0 +1,1787 @@
+{
+  "Cabbage@sl_1109_14": {
+    "prompt": "What type of rug covers the floor?",
+    "response": "area",
+    "timestamp": "2025-10-13T15:47:20.700154"
+  },
+  "Cabbage@sl_1019_03": {
+    "prompt": "What type of outdoor fountain features intricate carvings?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:21.787656"
+  },
+  "Cabbage@mvs_1019_05": {
+    "prompt": "What type of metal is the lamp made of?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:47:22.848798"
+  },
+  "Cabbage@mvs_907_11": {
+    "prompt": "What is the height of the chandelier hanging from the ceiling?",
+    "response": "high",
+    "timestamp": "2025-10-13T15:47:23.929973"
+  },
+  "Cabbage@sl_1205_01": {
+    "prompt": "What type of sculpture is displayed on the shelf?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:25.064655"
+  },
+  "Cabbage@sl_921_07": {
+    "prompt": "What type of metal is the chandelier made of?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:47:26.138239"
+  },
+  "Cabbage@mvs_901_14": {
+    "prompt": "What type of fabric is the armchair covered in?",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:47:27.189786"
+  },
+  "Cabbage@mvs_1123_14": {
+    "prompt": "What type of fruit is inside the vase?",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:47:28.324647"
+  },
+  "Cabbage@mvs_1019_09": {
+    "prompt": "What type of animal is lounging on the couch?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:47:29.406848"
+  },
+  "Cabbage@sl_907_03": {
+    "prompt": "What type of chandelier is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:30.482862"
+  },
+  "Cabbage@sl_1205_05": {
+    "prompt": "What kind of water fountain is located nearby?",
+    "response": "single bowl",
+    "timestamp": "2025-10-13T15:47:31.548884"
+  },
+  "Cabbage@mvs_1019_03": {
+    "prompt": "What type of animal is resting in the corner of the room?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:47:32.632923"
+  },
+  "Cabbage@sl_901_02": {
+    "prompt": "What type of animal is resting on the table?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:47:33.720209"
+  },
+  "Cabbage@mvs_1205_09": {
+    "prompt": "What type of fabric is on the curtains?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:34.848484"
+  },
+  "Cabbage@sl_1019_07": {
+    "prompt": "What type of chandelier is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:35.946245"
+  },
+  "Cabbage@sl_1019_05": {
+    "prompt": "What type of furniture is positioned next to the fireplace?",
+    "response": "brown couch",
+    "timestamp": "2025-10-13T15:47:37.093427"
+  },
+  "Cabbage@sl_1116_11": {
+    "prompt": "What type of metal is used in the chair?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:47:38.194575"
+  },
+  "Cabbage@mvs_1012_06": {
+    "prompt": "What type of fabric is the couch made of?",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:47:39.275910"
+  },
+  "Cabbage@mvs_907_07": {
+    "prompt": "What type of fruit is displayed on the table?",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:47:40.388698"
+  },
+  "Cabbage@sl_921_11": {
+    "prompt": "What type of insect is resting on the ceiling?",
+    "response": "rectangular whiteboard",
+    "timestamp": "2025-10-13T15:47:41.478239"
+  },
+  "Cabbage@sl_1019_01": {
+    "prompt": "What type of flooring is used in the room?",
+    "response": "floor",
+    "timestamp": "2025-10-13T15:47:42.659162"
+  },
+  "Cabbage@mvs_929_06": {
+    "prompt": "What is the height of the chandelier?",
+    "response": "high",
+    "timestamp": "2025-10-13T15:47:43.718301"
+  },
+  "Cabbage@sl_1109_12": {
+    "prompt": "What texture does the rug have?",
+    "response": "soft",
+    "timestamp": "2025-10-13T15:47:44.834580"
+  },
+  "Cabbage@mvs_1116_07": {
+    "prompt": "What type of rug is beneath the pot?",
+    "response": "rectangular rug",
+    "timestamp": "2025-10-13T15:47:45.985839"
+  },
+  "Cabbage@mvs_921_03": {
+    "prompt": "What type of light fixture is hanging from the ceiling?",
+    "response": "cylindrical lamp",
+    "timestamp": "2025-10-13T15:47:47.206179"
+  },
+  "Cabbage@mvs_901_10": {
+    "prompt": "What type of chandelier is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:48.318026"
+  },
+  "Cabbage@sl_1103_05": {
+    "prompt": "What type of chandelier is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:49.398404"
+  },
+  "Cabbage@sl_907_11": {
+    "prompt": "What type of painting is hanging on the wall?",
+    "response": "painting",
+    "timestamp": "2025-10-13T15:47:50.481153"
+  },
+  "Cabbage@mvs_1103_05": {
+    "prompt": "What type of light fixture hangs from the ceiling?",
+    "response": "cylindrical lamp",
+    "timestamp": "2025-10-13T15:47:51.563475"
+  },
+  "Cabbage@mvs_901_12": {
+    "prompt": "What type of fabric is used in the curtains?",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:47:52.680190"
+  },
+  "Cabbage@mvs_914_12": {
+    "prompt": "What type of sculpture is displayed next to the houseplant?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:53.761971"
+  },
+  "Cabbage@sl_1026_02": {
+    "prompt": "What type of animal is sleeping in the room?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:47:54.853549"
+  },
+  "Cabbage@sl_921_03": {
+    "prompt": "What type of fish is swimming in an aquarium nearby?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:55.948166"
+  },
+  "Cabbage@mvs_1026_08": {
+    "prompt": "What type of fabric is the curtain made of?",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:47:57.001473"
+  },
+  "Cabbage@sl_1109_10": {
+    "prompt": "What type of metal sculpture is displayed on the table?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:58.094257"
+  },
+  "Cabbage@mvs_929_10": {
+    "prompt": "What type of fish is swimming in the room?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:59.234593"
+  },
+  "Cabbage@mvs_1205_01": {
+    "prompt": "What kind of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:00.336088"
+  },
+  "Cabbage@mvs_1019_11": {
+    "prompt": "What is the height of the tree next to the succulent plant?",
+    "response": "tall",
+    "timestamp": "2025-10-13T15:48:01.382446"
+  },
+  "Cabbage@sl_1026_08": {
+    "prompt": "What type of fish is swimming in the scene?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:02.517575"
+  },
+  "Cabbage@mvs_907_13": {
+    "prompt": "What type of fish is swimming in the room?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:03.615966"
+  },
+  "Cabbage@mvs_1005_11": {
+    "prompt": "What shape is the mirror hanging on the wall?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:04.672547"
+  },
+  "Cabbage@mvs_901_06": {
+    "prompt": "What type of animal is sleeping on the windowsill?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:05.725519"
+  },
+  "Cabbage@sl_1109_08": {
+    "prompt": "What type of crystal chandelier is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:06.775939"
+  },
+  "Cabbage@mvs_929_14": {
+    "prompt": "What type of large tree is in the corner of the room?",
+    "response": "large",
+    "timestamp": "2025-10-13T15:48:07.879348"
+  },
+  "Cabbage@sl_907_01": {
+    "prompt": "What type of fruit is growing on the walls?",
+    "response": "black garbage",
+    "timestamp": "2025-10-13T15:48:09.027431"
+  },
+  "Cabbage@sl_1026_10": {
+    "prompt": "What type of fabric is used to cover the sofa?",
+    "response": "fabric",
+    "timestamp": "2025-10-13T15:48:10.107880"
+  },
+  "Cabbage@sl_901_10": {
+    "prompt": "What type of fruit is hanging from a tree in the scene?",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:11.195155"
+  },
+  "Cabbage@mvs_1012_12": {
+    "prompt": "What type of fabric is the curtain made of?",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:48:12.288513"
+  },
+  "Cabbage@mvs_1109_02": {
+    "prompt": "What type of metal is used in the light fixture?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:48:13.311780"
+  },
+  "Cabbage@sl_901_04": {
+    "prompt": "What type of metal is used in the unpainted staircase nearby?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:48:14.334099"
+  },
+  "Cabbage@mvs_1116_01": {
+    "prompt": "What is the size of the chandelier hanging from the ceiling?",
+    "response": "large",
+    "timestamp": "2025-10-13T15:48:15.441526"
+  },
+  "Cabbage@mvs_901_08": {
+    "prompt": "What type of animal is resting on the windowsill?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:48:16.480796"
+  },
+  "Cabbage@sl_1109_06": {
+    "prompt": "What type of fish is swimming in the room?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:17.536542"
+  },
+  "Cabbage@mvs_914_04": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:18.561434"
+  },
+  "Cabbage@sl_1019_13": {
+    "prompt": "What type of chandelier is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:19.592007"
+  },
+  "Cabbage@sl_1026_12": {
+    "prompt": "What type of fabric is used for the curtains?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:20.671605"
+  },
+  "Cabbage@mvs_1103_03": {
+    "prompt": "What type of glass sculpture is displayed on the shelf?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:21.725125"
+  },
+  "Cabbage@sl_1103_13": {
+    "prompt": "What type of fabric is used for the curtains?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:22.749220"
+  },
+  "Cabbage@sl_907_05": {
+    "prompt": "What type of animal is resting under the table?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:48:23.768942"
+  },
+  "Cotton@116": {
+    "prompt": "What type of metal is used in the construction of the nearby chair?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:48:24.867461"
+  },
+  "Cotton@14": {
+    "prompt": "What is the material of the large metal sculpture positioned against the wall?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:48:26.084614"
+  },
+  "Cotton@62": {
+    "prompt": "What kind of tropical fish is swimming nearby?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:27.128301"
+  },
+  "Cotton@126": {
+    "prompt": "What kind of mineral is embedded in the soil beneath the sapling?",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:28.154673"
+  },
+  "Cotton@16": {
+    "prompt": "What type of fruit is growing on the tree?",
+    "response": "black",
+    "timestamp": "2025-10-13T15:48:29.180633"
+  },
+  "Cotton@113": {
+    "prompt": "What type of fruit is hanging from the branch?",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:30.239017"
+  },
+  "Cotton@27": {
+    "prompt": "What shape is the chandelier hanging from the ceiling?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:31.413109"
+  },
+  "Cotton@92": {
+    "prompt": "What is the shape of the large rock adjacent to the branch?",
+    "response": "square",
+    "timestamp": "2025-10-13T15:48:32.440033"
+  },
+  "Cotton@198": {
+    "prompt": "What type of furniture is used for seating in the scene?",
+    "response": "wooden chair",
+    "timestamp": "2025-10-13T15:48:33.522386"
+  },
+  "Cotton@63": {
+    "prompt": "What type of rock is used to create the sculpture in the scene?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:34.545156"
+  },
+  "Cotton@120": {
+    "prompt": "What type of stone is used in the doorway?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:35.569372"
+  },
+  "Cotton@81": {
+    "prompt": "What type of fruit does the branch produce?",
+    "response": "black",
+    "timestamp": "2025-10-13T15:48:36.622335"
+  },
+  "Cotton@136": {
+    "prompt": "What type of metal is used in the construction of the nearby sculpture?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:48:37.780115"
+  },
+  "Cotton@26": {
+    "prompt": "What texture does the carpet have?",
+    "response": "smooth",
+    "timestamp": "2025-10-13T15:48:38.862414"
+  },
+  "Cotton@112": {
+    "prompt": "What type of metal is used in the chair?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:48:39.919172"
+  },
+  "Cotton@2": {
+    "prompt": "What is the size of the dining table?",
+    "response": "large",
+    "timestamp": "2025-10-13T15:48:41.019723"
+  },
+  "Cotton@21": {
+    "prompt": "What flavor is the ice cream served in the scene?",
+    "response": "brown",
+    "timestamp": "2025-10-13T15:48:42.109211"
+  },
+  "Cotton@173": {
+    "prompt": "What color is the chair next to the table?",
+    "response": "brown",
+    "timestamp": "2025-10-13T15:48:43.134713"
+  },
+  "Cotton@107": {
+    "prompt": "What type of fruit does the tree produce?",
+    "response": "black",
+    "timestamp": "2025-10-13T15:48:44.191648"
+  },
+  "Cotton@22": {
+    "prompt": "What type of fruit is being displayed on the table?",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:48:45.289433"
+  },
+  "Cotton@115": {
+    "prompt": "What type of fruit is hanging from the branches?",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:46.382122"
+  },
+  "Cotton@159": {
+    "prompt": "What type of metal is the sculpture made of?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:48:47.556325"
+  },
+  "Cotton@153": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:48.719081"
+  },
+  "Cotton@88": {
+    "prompt": "What size is the crystal chandelier hanging from the ceiling?",
+    "response": "large",
+    "timestamp": "2025-10-13T15:48:49.768388"
+  },
+  "Cotton@9": {
+    "prompt": "What is the pattern on the vase?",
+    "response": "floral pattern",
+    "timestamp": "2025-10-13T15:48:50.869358"
+  },
+  "Cotton@72": {
+    "prompt": "Is there a large concrete sculpture nearby?",
+    "response": "on wall",
+    "timestamp": "2025-10-13T15:48:51.932903"
+  },
+  "Cotton@25": {
+    "prompt": "What type of fruit does the branch produce?",
+    "response": "black",
+    "timestamp": "2025-10-13T15:48:53.073582"
+  },
+  "Cotton@158": {
+    "prompt": "What type of stone is the floor made of?",
+    "response": "wood",
+    "timestamp": "2025-10-13T15:48:54.228078"
+  },
+  "Cotton@180": {
+    "prompt": "What type of fruit is growing on the tree?",
+    "response": "black",
+    "timestamp": "2025-10-13T15:48:55.314928"
+  },
+  "Cotton@149": {
+    "prompt": "What color are the blossoms on the flowering plant next to it?",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:56.406728"
+  },
+  "Cotton@125": {
+    "prompt": "What type of fruit does the tree produce?",
+    "response": "black",
+    "timestamp": "2025-10-13T15:48:57.439391"
+  },
+  "Cotton@51": {
+    "prompt": "What type of fruit does the tree produce?",
+    "response": "black",
+    "timestamp": "2025-10-13T15:48:58.581581"
+  },
+  "Cotton@67": {
+    "prompt": "What type of fish is swimming in the scene?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:59.671346"
+  },
+  "Cotton@127": {
+    "prompt": "What type of animal is perched on the branch?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:49:00.725182"
+  },
+  "Cotton@11": {
+    "prompt": "What shape is the pendant hanging from the ceiling?",
+    "response": "square",
+    "timestamp": "2025-10-13T15:49:01.894657"
+  },
+  "Cotton@137": {
+    "prompt": "What type of kitchen appliance is placed next to the plant?",
+    "response": "silver stove",
+    "timestamp": "2025-10-13T15:49:02.955818"
+  },
+  "Cotton@78": {
+    "prompt": "What type of furniture is placed near the sapling?",
+    "response": "wooden nightstand",
+    "timestamp": "2025-10-13T15:49:04.116455"
+  },
+  "Cotton@6": {
+    "prompt": "What pattern is on the tablecloth?",
+    "response": "floral pattern",
+    "timestamp": "2025-10-13T15:49:05.282078"
+  },
+  "Cotton@188": {
+    "prompt": "What kind of stone sculpture is placed beside the tree sapling?",
+    "response": "square",
+    "timestamp": "2025-10-13T15:49:06.377851"
+  },
+  "Cotton@79": {
+    "prompt": "What type of fruit is growing on the shrub?",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:49:07.489832"
+  },
+  "Cotton@133": {
+    "prompt": "What type of rock formation is visible behind the sapling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:08.573928"
+  },
+  "Cotton@197": {
+    "prompt": "What type of furniture is positioned nearby?",
+    "response": "brown wooden chair",
+    "timestamp": "2025-10-13T15:49:09.780528"
+  },
+  "Cotton@176": {
+    "prompt": "What type of rock formation is visible nearby?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:10.859245"
+  },
+  "Cotton@160": {
+    "prompt": "What type of fruit is on the tree?",
+    "response": "black",
+    "timestamp": "2025-10-13T15:49:11.951016"
+  },
+  "Cotton@65": {
+    "prompt": "What type of fruit does the tree produce?",
+    "response": "black",
+    "timestamp": "2025-10-13T15:49:13.065144"
+  },
+  "Cotton@100": {
+    "prompt": "What type of fruit does the large tree in the corner produce?",
+    "response": "black",
+    "timestamp": "2025-10-13T15:49:14.106469"
+  },
+  "Cotton@19": {
+    "prompt": "What type of metal is used in the furniture of the room?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:49:15.295640"
+  },
+  "Cotton@3": {
+    "prompt": "What kind of fruit is hanging from the branches?",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:16.419874"
+  },
+  "Cotton@75": {
+    "prompt": "What shape is the coffee table in the room?",
+    "response": "square",
+    "timestamp": "2025-10-13T15:49:17.449373"
+  },
+  "Cotton@145": {
+    "prompt": "What type of furniture is in the room?",
+    "response": "brown wooden table",
+    "timestamp": "2025-10-13T15:49:18.549547"
+  },
+  "Cotton@168": {
+    "prompt": "What type of fruit is hanging from the branches of a tree nearby?",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:19.674659"
+  },
+  "Cotton@15": {
+    "prompt": "What type of fruit hangs from the branch?",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:20.737877"
+  },
+  "Cotton@122": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:21.775820"
+  },
+  "Maize@1-111": {
+    "prompt": "What is the weight of the marble sculpture located nearby?",
+    "response": "small",
+    "timestamp": "2025-10-13T15:49:22.834198"
+  },
+  "Maize@3-28": {
+    "prompt": "What type of furniture is placed above the plant?",
+    "response": "stool",
+    "timestamp": "2025-10-13T15:49:23.912462"
+  },
+  "Maize@2-34": {
+    "prompt": "What type of artwork is hung on the wall?",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:49:25.033051"
+  },
+  "Maize@3-49": {
+    "prompt": "What type of furniture is located next to the plant?",
+    "response": "stool",
+    "timestamp": "2025-10-13T15:49:26.085200"
+  },
+  "Maize@2-70": {
+    "prompt": "What type of fruit is displayed on the table?",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:49:27.149136"
+  },
+  "Maize@3-55": {
+    "prompt": "What type of artwork is hanging on the wall?",
+    "response": "framed artwork",
+    "timestamp": "2025-10-13T15:49:28.240222"
+  },
+  "Maize@3-26": {
+    "prompt": "What pattern is featured on the rug?",
+    "response": "floral pattern",
+    "timestamp": "2025-10-13T15:49:29.425057"
+  },
+  "Maize@2-13": {
+    "prompt": "What type of heavy machinery is used for construction?",
+    "response": "black",
+    "timestamp": "2025-10-13T15:49:30.514370"
+  },
+  "Maize@3-21": {
+    "prompt": "What is the brand of the vacuum cleaner?",
+    "response": "black",
+    "timestamp": "2025-10-13T15:49:31.564660"
+  },
+  "Maize@3-18": {
+    "prompt": "What type of artwork is hanging on the walls?",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:49:32.677201"
+  },
+  "Maize@2-109": {
+    "prompt": "What type of painting is hanging on the wall?",
+    "response": "painting",
+    "timestamp": "2025-10-13T15:49:33.729301"
+  },
+  "Maize@1-118": {
+    "prompt": "Where is the large wooden chair?",
+    "response": "against wall",
+    "timestamp": "2025-10-13T15:49:34.811905"
+  },
+  "Maize@3-42": {
+    "prompt": "What type of artwork is hanging on the ceiling?",
+    "response": "framed artwork",
+    "timestamp": "2025-10-13T15:49:35.930411"
+  },
+  "Maize@1-24": {
+    "prompt": "What type of furniture is made of metal and has wheels?",
+    "response": "brown wooden chair",
+    "timestamp": "2025-10-13T15:49:37.028332"
+  },
+  "Maize@1-51": {
+    "prompt": "What type of fruit is displayed on the table?",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:49:38.107745"
+  },
+  "Maize@1-68": {
+    "prompt": "What type of furniture is positioned next to the sapling?",
+    "response": "wooden chair",
+    "timestamp": "2025-10-13T15:49:39.230852"
+  },
+  "Maize@2-101": {
+    "prompt": "What type of fabric is the couch made from?",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:49:40.365214"
+  },
+  "Maize@3-19": {
+    "prompt": "What is the size of the large sculpture in the corner?",
+    "response": "large",
+    "timestamp": "2025-10-13T15:49:41.488440"
+  },
+  "Maize@2-148": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:42.672767"
+  },
+  "Maize@2-9": {
+    "prompt": "What is the size and shape of the chandelier hanging from the ceiling?",
+    "response": "rectangle",
+    "timestamp": "2025-10-13T15:49:43.896609"
+  },
+  "Maize@2-122": {
+    "prompt": "What type of fruit is on the kitchen counter?",
+    "response": "yes",
+    "timestamp": "2025-10-13T15:49:44.955360"
+  },
+  "Maize@1-122": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:46.057396"
+  },
+  "Maize@3-10": {
+    "prompt": "What type of lighting fixture is hanging from the ceiling?",
+    "response": "white lamp",
+    "timestamp": "2025-10-13T15:49:47.134620"
+  },
+  "Maize@2-77": {
+    "prompt": "What type of furniture is located near the potted plant?",
+    "response": "stool",
+    "timestamp": "2025-10-13T15:49:48.204641"
+  },
+  "Maize@2-140": {
+    "prompt": "What is the shape of the rocks located at the base of the plant?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:49.300916"
+  },
+  "Maize@2-126": {
+    "prompt": "What kind of artwork is hanging on the wall?",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:49:50.366999"
+  },
+  "Maize@3-36": {
+    "prompt": "What type of rock is used for the flooring?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:51.448458"
+  },
+  "Maize@3-15": {
+    "prompt": "What type of animal is resting on the windowsill?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:49:52.602196"
+  },
+  "Maize@3-60": {
+    "prompt": "What type of heavy furniture is located near the houseplant?",
+    "response": "chair",
+    "timestamp": "2025-10-13T15:49:53.721560"
+  },
+  "Maize@2-17": {
+    "prompt": "What kind of rug is placed on the floor?",
+    "response": "area",
+    "timestamp": "2025-10-13T15:49:54.772565"
+  },
+  "Maize@2-32": {
+    "prompt": "What type of cooking appliance is located nearby?",
+    "response": "silver stove",
+    "timestamp": "2025-10-13T15:49:55.841639"
+  },
+  "Maize@2-116": {
+    "prompt": "What type of fruit is displayed on the table?",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:49:57.047405"
+  },
+  "Maize@1-120": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:58.201183"
+  },
+  "Maize@3-40": {
+    "prompt": "What type of animal is resting on the furniture?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:49:59.256520"
+  },
+  "Maize@3-43": {
+    "prompt": "What type of fruit is on the floor?",
+    "response": "yes",
+    "timestamp": "2025-10-13T15:50:00.401561"
+  },
+  "Maize@2-31": {
+    "prompt": "What type of metal sculpture is displayed nearby?",
+    "response": "framed couch",
+    "timestamp": "2025-10-13T15:50:01.533749"
+  },
+  "Maize@3-38": {
+    "prompt": "What type of painting is hanging on the wall?",
+    "response": "painting",
+    "timestamp": "2025-10-13T15:50:02.629137"
+  },
+  "Maize@2-28": {
+    "prompt": "What type of fruit is displayed on the table?",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:50:03.841451"
+  },
+  "Maize@2-24": {
+    "prompt": "What type of animal is sleeping on the floor?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:50:04.919195"
+  },
+  "Maize@2-67": {
+    "prompt": "What type of animal is sleeping in the corner?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:50:06.034694"
+  },
+  "Maize@2-64": {
+    "prompt": "What is the flavor of the cake on the table?",
+    "response": "brown",
+    "timestamp": "2025-10-13T15:50:07.126381"
+  },
+  "Maize@3-54": {
+    "prompt": "What type of animal is resting on the floor?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:50:08.282342"
+  },
+  "Maize@2-66": {
+    "prompt": "What type of fish is swimming in the scene?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:09.447905"
+  },
+  "Maize@3-7": {
+    "prompt": "What food item is stored in the refrigerator?",
+    "response": "microwave",
+    "timestamp": "2025-10-13T15:50:10.554511"
+  },
+  "Maize@2-65": {
+    "prompt": "What type of sculpture is next to the plant?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:11.703439"
+  },
+  "Maize@2-88": {
+    "prompt": "What type of fabric is the couch made of?",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:50:12.859322"
+  },
+  "Maize@2-108": {
+    "prompt": "What type of animal is resting on the floor?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:50:13.912260"
+  },
+  "Maize@1-78": {
+    "prompt": "What type of large, colorful painting hangs on the wall?",
+    "response": "painting",
+    "timestamp": "2025-10-13T15:50:14.997373"
+  },
+  "Maize@2-39": {
+    "prompt": "What type of musical instrument is hidden in the room?",
+    "response": "keyboard piano",
+    "timestamp": "2025-10-13T15:50:16.122734"
+  },
+  "Maize@2-50": {
+    "prompt": "What type of animal is lounging in the room?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:50:17.182503"
+  },
+  "Maize@3-50": {
+    "prompt": "What type of fruit is displayed on the table?",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:50:18.329642"
+  },
+  "Maize@2-128": {
+    "prompt": "What type of metal sculpture is displayed in the room?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:19.476068"
+  },
+  "Maize@2-137": {
+    "prompt": "What type of fruit does the tree produce?",
+    "response": "black",
+    "timestamp": "2025-10-13T15:50:20.658084"
+  },
+  "Maize@2-141": {
+    "prompt": "What type of artwork is hanging on the wall?",
+    "response": "framed artwork",
+    "timestamp": "2025-10-13T15:50:21.875257"
+  },
+  "Maize@2-29": {
+    "prompt": "What type of artwork is hanging on the ceiling?",
+    "response": "framed artwork",
+    "timestamp": "2025-10-13T15:50:23.074894"
+  },
+  "Maize@1-60": {
+    "prompt": "What type of rock formation is displayed in the scene?",
+    "response": "tv stand",
+    "timestamp": "2025-10-13T15:50:24.180872"
+  },
+  "Maize@1-22": {
+    "prompt": "What is the weight of the metal sculpture located on the opposite side of the room?",
+    "response": "small",
+    "timestamp": "2025-10-13T15:50:25.292946"
+  },
+  "Maize@2-33": {
+    "prompt": "What type of crystal chandelier is hanging in the room?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:26.379743"
+  },
+  "Maize@3-27": {
+    "prompt": "What type of flower is growing in the garden outside the window?",
+    "response": "plant",
+    "timestamp": "2025-10-13T15:50:27.452749"
+  },
+  "Maize@3-37": {
+    "prompt": "What shape is the ceiling fan?",
+    "response": "square",
+    "timestamp": "2025-10-13T15:50:28.644783"
+  },
+  "Maize@1-113": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:29.719959"
+  },
+  "Maize@2-11": {
+    "prompt": "What type of birdcage is in the room?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:30.814940"
+  },
+  "Maize@1-50": {
+    "prompt": "What type of flower is blooming next to the maize plant?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:32.129005"
+  },
+  "Maize@1-123": {
+    "prompt": "What kind of fruit is growing on the corn plant?",
+    "response": "grey",
+    "timestamp": "2025-10-13T15:50:33.267276"
+  },
+  "Maize@2-21": {
+    "prompt": "What type of painting is hanging on the wall?",
+    "response": "painting",
+    "timestamp": "2025-10-13T15:50:34.414683"
+  },
+  "Maize@2-107": {
+    "prompt": "What kind of fabric is the sofa made of?",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:50:35.500276"
+  },
+  "Maize@2-114": {
+    "prompt": "What type of fruit does the dining table hold?",
+    "response": "yes",
+    "timestamp": "2025-10-13T15:50:36.654635"
+  },
+  "Maize@1-106": {
+    "prompt": "What material is the table made of?",
+    "response": "wood",
+    "timestamp": "2025-10-13T15:50:37.754595"
+  },
+  "Potato@5-19-P281-2-a": {
+    "prompt": "What shape is the rug in the room?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:38.831607"
+  },
+  "Potato@5-21-P104-3-a": {
+    "prompt": "What type of flower pot is used to display the plant?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:39.929710"
+  },
+  "Potato@5-11-P255-3-a": {
+    "prompt": "What is the weight of the metal sculpture located in the corner of the room?",
+    "response": "small",
+    "timestamp": "2025-10-13T15:50:41.037127"
+  },
+  "Potato@5-14-P117-3-a": {
+    "prompt": "What shape is the table in the room?",
+    "response": "rectangle",
+    "timestamp": "2025-10-13T15:50:42.180852"
+  },
+  "Potato@5-13-P015-2-a": {
+    "prompt": "What type of flower arrangement is displayed in the room?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:43.275628"
+  },
+  "Potato@5-23-P999-7-a": {
+    "prompt": "What type of fruit is hanging near the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:44.502239"
+  },
+  "Potato@5-20-P043-1-a": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:45.659726"
+  },
+  "Potato@5-11-P279-3-a": {
+    "prompt": "What type of flower is blooming nearby?",
+    "response": "plant",
+    "timestamp": "2025-10-13T15:50:46.875618"
+  },
+  "Potato@5-21-P104-4-a": {
+    "prompt": "What is the texture of the marble used in the countertops?",
+    "response": "smooth",
+    "timestamp": "2025-10-13T15:50:47.970827"
+  },
+  "Potato@5-20-P060-3-a": {
+    "prompt": "What type of metal is used in the window frames?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:50:49.114638"
+  },
+  "Potato@5-11-P290-3-a": {
+    "prompt": "What texture does the rock in the scene have?",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:50:50.283771"
+  },
+  "Potato@5-23-P999-2-a": {
+    "prompt": "What shape is the chandelier hanging from the ceiling?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:51.573391"
+  },
+  "Potato@5-11-P281-1-a": {
+    "prompt": "What type of flower is blooming next to the sapling?",
+    "response": "plant",
+    "timestamp": "2025-10-13T15:50:52.732770"
+  },
+  "Potato@5-23-P997-1-a": {
+    "prompt": "What type of fruit is laying on the floor?",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:50:53.867380"
+  },
+  "Potato@5-14-P112-1-a": {
+    "prompt": "What texture does the large rug on the floor have?",
+    "response": "smooth",
+    "timestamp": "2025-10-13T15:50:55.022148"
+  },
+  "Potato@5-13-P046-3-a": {
+    "prompt": "What type of rug is placed on the floor?",
+    "response": "area",
+    "timestamp": "2025-10-13T15:50:56.134134"
+  },
+  "Potato@5-21-P104-2-a": {
+    "prompt": "What type of flower pot is used to display a large cactus?",
+    "response": "round",
+    "timestamp": "2025-10-13T15:50:57.268030"
+  },
+  "Potato@5-11-P104-2-a": {
+    "prompt": "What type of flower is displayed in a vase on the table?",
+    "response": "plant",
+    "timestamp": "2025-10-13T15:50:58.408178"
+  },
+  "Potato@5-23-P997-2-a": {
+    "prompt": "What is the shape and size of the garden bench?",
+    "response": "rectangle",
+    "timestamp": "2025-10-13T15:50:59.498255"
+  },
+  "Potato@5-23-P998-9-a": {
+    "prompt": "What type of furniture is made of glass and placed in the scene?",
+    "response": "table",
+    "timestamp": "2025-10-13T15:51:00.686881"
+  },
+  "Potato@5-20-P002-2-a": {
+    "prompt": "What type of mineral is embedded in the floor?",
+    "response": "trash can",
+    "timestamp": "2025-10-13T15:51:01.828922"
+  },
+  "Potato@5-13-P098-1-a": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:02.938093"
+  },
+  "Potato@5-21-P142-1-a": {
+    "prompt": "What type of fruit does the tree produce?",
+    "response": "black",
+    "timestamp": "2025-10-13T15:51:04.138407"
+  },
+  "Potato@5-19-P279-1-a": {
+    "prompt": "What is the shape of the roof above the plant?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:05.326135"
+  },
+  "Potato@5-14-P113-3-a": {
+    "prompt": "What type of fruit is resting on the main surface?",
+    "response": "red and green",
+    "timestamp": "2025-10-13T15:51:06.463171"
+  },
+  "Potato@5-11-P281-2-a": {
+    "prompt": "What is the shape of the chandelier hanging from the ceiling?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:07.553743"
+  },
+  "Potato@5-11-P285-2-a": {
+    "prompt": "What shape is the coffee table?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:08.681044"
+  },
+  "Potato@5-20-P045-3-a": {
+    "prompt": "What color is the coffee table?",
+    "response": "brown",
+    "timestamp": "2025-10-13T15:51:09.906378"
+  },
+  "Potato@5-23-P998-7-a": {
+    "prompt": "What type of fruit is growing on the plant?",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:51:11.006171"
+  },
+  "Potato@5-13-P002-2-a": {
+    "prompt": "What type of furniture is made of metal and glass in the room?",
+    "response": "table",
+    "timestamp": "2025-10-13T15:51:12.110013"
+  },
+  "Potato@5-20-P015-2-a": {
+    "prompt": "What kind of stone is used in the construction of the fireplace?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:13.197735"
+  },
+  "Potato@5-11-P294-3-a": {
+    "prompt": "Is there a purple flower nearby?",
+    "response": "between 2 white chairs",
+    "timestamp": "2025-10-13T15:51:14.335629"
+  },
+  "Potato@5-13-P068-3-a": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:15.432770"
+  },
+  "Potato@5-19-P281-1-a": {
+    "prompt": "What is the height of the oak tree nearby?",
+    "response": "very close",
+    "timestamp": "2025-10-13T15:51:16.531070"
+  },
+  "Potato@5-20-P149-3-a": {
+    "prompt": "What shape is the rug in the room?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:17.726907"
+  },
+  "Potato@5-13-P043-2-a": {
+    "prompt": "What type of fruit is present on the plant?",
+    "response": "yes",
+    "timestamp": "2025-10-13T15:51:18.838513"
+  },
+  "Rapeseed@29": {
+    "prompt": "What type of metal is the table made from?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:51:19.973472"
+  },
+  "Rapeseed@115": {
+    "prompt": "What type of fish is swimming in a tank nearby?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:21.059492"
+  },
+  "Rapeseed@70": {
+    "prompt": "What type of lighting fixture hangs from the ceiling?",
+    "response": "white lamp",
+    "timestamp": "2025-10-13T15:51:22.206398"
+  },
+  "Rapeseed@33": {
+    "prompt": "What type of furniture is in the room?",
+    "response": "brown wooden table",
+    "timestamp": "2025-10-13T15:51:23.378851"
+  },
+  "Rapeseed@31": {
+    "prompt": "What type of artwork is hanging on the wall?",
+    "response": "framed artwork",
+    "timestamp": "2025-10-13T15:51:24.599032"
+  },
+  "Rapeseed@129": {
+    "prompt": "What type of metal sculpture is displayed on the shelf?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:25.707067"
+  },
+  "Rapeseed@20": {
+    "prompt": "What type of chandelier is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:26.884075"
+  },
+  "Rapeseed@91": {
+    "prompt": "What type of fruit is in the scene?",
+    "response": "red and green",
+    "timestamp": "2025-10-13T15:51:28.079015"
+  },
+  "Rapeseed@24": {
+    "prompt": "What type of metallic sculpture is placed next to the plant?",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:51:29.279858"
+  },
+  "Rapeseed@37": {
+    "prompt": "What type of furniture is placed directly above the potted plant?",
+    "response": "stool",
+    "timestamp": "2025-10-13T15:51:30.465416"
+  },
+  "Rapeseed@63": {
+    "prompt": "What type of light fixture hangs from the ceiling?",
+    "response": "cylindrical lamp",
+    "timestamp": "2025-10-13T15:51:31.609348"
+  },
+  "Rapeseed@11": {
+    "prompt": "What material is the hammock made of?",
+    "response": "fabric",
+    "timestamp": "2025-10-13T15:51:32.705266"
+  },
+  "Rapeseed@135": {
+    "prompt": "What type of animal is hiding behind the plant?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:51:33.835440"
+  },
+  "Rapeseed@107": {
+    "prompt": "What type of woven basket is used for storing blankets?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:34.920534"
+  },
+  "Rapeseed@116": {
+    "prompt": "What type of mineral is used in the construction of the ceiling?",
+    "response": "rectangular white door",
+    "timestamp": "2025-10-13T15:51:36.126695"
+  },
+  "Rapeseed@169": {
+    "prompt": "What type of flower is blooming in the scene?",
+    "response": "plant",
+    "timestamp": "2025-10-13T15:51:37.250345"
+  },
+  "Rapeseed@58": {
+    "prompt": "What type of metal is used for the furniture?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:51:38.329842"
+  },
+  "Rapeseed@25": {
+    "prompt": "What type of hanging chandelier is installed in the room?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:39.416166"
+  },
+  "Rapeseed@168": {
+    "prompt": "What type of wallpaper is used on the walls?",
+    "response": "lime green",
+    "timestamp": "2025-10-13T15:51:40.536383"
+  },
+  "Rapeseed@83": {
+    "prompt": "What material is the chandelier made of?",
+    "response": "wood",
+    "timestamp": "2025-10-13T15:51:41.951494"
+  },
+  "Rapeseed@127": {
+    "prompt": "What shape is the bookcase in the room?",
+    "response": "rectangle",
+    "timestamp": "2025-10-13T15:51:43.167893"
+  },
+  "Rapeseed@79": {
+    "prompt": "What type of crystal chandelier is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:44.278782"
+  },
+  "Rapeseed@122": {
+    "prompt": "What type of crystal chandelier is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:45.418603"
+  },
+  "Rapeseed@8": {
+    "prompt": "What type of fish is swimming in the room?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:46.593011"
+  },
+  "Rapeseed@82": {
+    "prompt": "What type of crystal chandelier is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:47.715687"
+  },
+  "Rapeseed@95": {
+    "prompt": "What type of fruit bowl is on the table?",
+    "response": "small",
+    "timestamp": "2025-10-13T15:51:48.835355"
+  },
+  "Rapeseed@61": {
+    "prompt": "What type of fish is swimming in a tank nearby?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:49.901938"
+  },
+  "Rapeseed@93": {
+    "prompt": "What type of fabric is used for the curtains?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:50.976969"
+  },
+  "Rapeseed@147": {
+    "prompt": "What is the height of the chandelier hanging in the room?",
+    "response": "high",
+    "timestamp": "2025-10-13T15:51:52.045938"
+  },
+  "Rapeseed@128": {
+    "prompt": "What type of wooden furniture is located next to the plant?",
+    "response": "rectangular brown stool",
+    "timestamp": "2025-10-13T15:51:53.269290"
+  },
+  "Rapeseed@119": {
+    "prompt": "What kind of artwork is hanging on the walls?",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:51:54.401971"
+  },
+  "Rapeseed@112": {
+    "prompt": "What type of painting is displayed on the wall?",
+    "response": "painting",
+    "timestamp": "2025-10-13T15:51:55.567165"
+  },
+  "Rapeseed@21": {
+    "prompt": "What flavor is the ice cream on the table?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:56.642774"
+  },
+  "Rapeseed@109": {
+    "prompt": "What kind of artwork is hanging on the wall?",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:51:57.736675"
+  },
+  "Rapeseed@142": {
+    "prompt": "What type of fruit is growing on the plant?",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:51:58.862817"
+  },
+  "Rapeseed@96": {
+    "prompt": "What type of metal is the coffee table made of?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:51:59.896835"
+  },
+  "Rapeseed@161": {
+    "prompt": "What type of light fixture hangs from the ceiling?",
+    "response": "cylindrical lamp",
+    "timestamp": "2025-10-13T15:52:00.978947"
+  },
+  "Rapeseed@123": {
+    "prompt": "What type of gemstone is used in the chandelier?",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:02.074461"
+  },
+  "Rapeseed@102": {
+    "prompt": "What kind of fish is swimming in the room?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:03.103163"
+  },
+  "Rapeseed@13": {
+    "prompt": "What type of metal is used for the ceiling light fixture?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:52:04.170682"
+  },
+  "Rapeseed@92": {
+    "prompt": "What type of mineral is the plant grown in?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:05.208716"
+  },
+  "Rapeseed@40": {
+    "prompt": "What type of chandelier is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:06.274306"
+  },
+  "Rapeseed@41": {
+    "prompt": "What type of animal sculpture is in the room?",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:52:07.363579"
+  },
+  "Rapeseed@113": {
+    "prompt": "What type of fabric is the sofa made of?",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:52:08.486918"
+  },
+  "Rapeseed@108": {
+    "prompt": "What is the height of the chandelier hanging in the room?",
+    "response": "high",
+    "timestamp": "2025-10-13T15:52:09.514274"
+  },
+  "Rice@77": {
+    "prompt": "What shape is the rug in the room?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:10.579255"
+  },
+  "Rice@1": {
+    "prompt": "What is the weight of the chandelier hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:11.623617"
+  },
+  "Rice@62": {
+    "prompt": "What type of aquatic creature is swimming nearby?",
+    "response": "white toilet",
+    "timestamp": "2025-10-13T15:52:12.673776"
+  },
+  "Rice@3": {
+    "prompt": "What type of chair is in the room?",
+    "response": "black office chair",
+    "timestamp": "2025-10-13T15:52:13.738212"
+  },
+  "Rice@20": {
+    "prompt": "What type of furniture is in the room?",
+    "response": "brown wooden table",
+    "timestamp": "2025-10-13T15:52:14.845434"
+  },
+  "Rice@74": {
+    "prompt": "What type of artwork is hanging on the wall?",
+    "response": "framed artwork",
+    "timestamp": "2025-10-13T15:52:15.942304"
+  },
+  "Rice@19": {
+    "prompt": "What type of fruit is displayed on the kitchen counter?",
+    "response": "yes",
+    "timestamp": "2025-10-13T15:52:16.985288"
+  },
+  "Rice@26": {
+    "prompt": "What type of animal is sleeping on the floor?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:52:18.059916"
+  },
+  "Rice@13": {
+    "prompt": "What is the height of the ceiling in the room?",
+    "response": "short",
+    "timestamp": "2025-10-13T15:52:19.149689"
+  },
+  "Rice@7": {
+    "prompt": "What type of artwork is hanging on the wall?",
+    "response": "framed artwork",
+    "timestamp": "2025-10-13T15:52:20.311869"
+  },
+  "Rice@46": {
+    "prompt": "What shape is the chandelier hanging from the ceiling?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:21.404988"
+  },
+  "Rice@52": {
+    "prompt": "What type of sculpture is displayed next to the plant?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:22.510601"
+  },
+  "Rice@41": {
+    "prompt": "What is the height of the chandelier hanging from the ceiling?",
+    "response": "high",
+    "timestamp": "2025-10-13T15:52:23.636110"
+  },
+  "Rice@84": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:24.717520"
+  },
+  "Rice@6": {
+    "prompt": "What type of sculpture is displayed beside the plant?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:25.866041"
+  },
+  "Rice@59": {
+    "prompt": "What type of fruit is arranged on the kitchen counter?",
+    "response": "yes",
+    "timestamp": "2025-10-13T15:52:26.986817"
+  },
+  "Rice@4": {
+    "prompt": "What type of furniture is used for seating in the room?",
+    "response": "wooden chair",
+    "timestamp": "2025-10-13T15:52:28.080804"
+  },
+  "Rice@8": {
+    "prompt": "What type of crystal chandelier is hanging in the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:29.256219"
+  },
+  "Rice@48": {
+    "prompt": "What type of animal is sleeping in the corner?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:52:30.331311"
+  },
+  "Rice@54": {
+    "prompt": "What is the size of the chandelier hanging from the ceiling?",
+    "response": "large",
+    "timestamp": "2025-10-13T15:52:31.450606"
+  },
+  "Rice@2": {
+    "prompt": "What type of rock is used in the construction of the walls?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:32.574289"
+  },
+  "Rice@37": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:33.652639"
+  },
+  "Rice@45": {
+    "prompt": "What type of artwork is hanging on the wall?",
+    "response": "framed artwork",
+    "timestamp": "2025-10-13T15:52:34.762054"
+  },
+  "Rice@35": {
+    "prompt": "What type of fruit is hanging from the tree outside the building?",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:35.890048"
+  },
+  "Rice@18": {
+    "prompt": "What type of service bell is on the table?",
+    "response": "wooden",
+    "timestamp": "2025-10-13T15:52:37.008974"
+  },
+  "Rice@72": {
+    "prompt": "What shape is the chandelier hanging from the ceiling?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:38.181088"
+  },
+  "Tomato@8-22_20-28": {
+    "prompt": "What is the size of the rock located at the base of the branch?",
+    "response": "small",
+    "timestamp": "2025-10-13T15:52:39.293884"
+  },
+  "Tomato@10-5_1-1": {
+    "prompt": "What type of fish is swimming in the room?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:40.527022"
+  },
+  "Tomato@8-13_20-28": {
+    "prompt": "What shape is the rug in the room?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:41.706347"
+  },
+  "Tomato@8-22_30-4": {
+    "prompt": "What texture does the rug have?",
+    "response": "soft",
+    "timestamp": "2025-10-13T15:52:42.827470"
+  },
+  "Tomato@8-13_1-55": {
+    "prompt": "What is the size of the marble coffee table?",
+    "response": "small",
+    "timestamp": "2025-10-13T15:52:44.018562"
+  },
+  "Tomato@8-22_10-3": {
+    "prompt": "What type of flower is blooming at the base of the tree?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:45.163067"
+  },
+  "Tomato@11-2_35-22": {
+    "prompt": "What type of vase is placed next to the plant?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:46.280143"
+  },
+  "Tomato@8-31_10-3": {
+    "prompt": "What type of furniture is situated under the tree?",
+    "response": "brown wooden chair",
+    "timestamp": "2025-10-13T15:52:47.506079"
+  },
+  "Tomato@10-5_30-52": {
+    "prompt": "What type of wildflower is growing in the corner?",
+    "response": "plant",
+    "timestamp": "2025-10-13T15:52:48.587628"
+  },
+  "Tomato@8-10_10-53": {
+    "prompt": "What type of flower is displayed in a vase on the table?",
+    "response": "plant",
+    "timestamp": "2025-10-13T15:52:49.685689"
+  },
+  "Tomato@8-28_30-52": {
+    "prompt": "What type of fabric is used for the curtains?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:50.791827"
+  },
+  "Tomato@8-22_35-22": {
+    "prompt": "What type of rock is embedded in the ground near the tree?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:51.881738"
+  },
+  "Tomato@9-3_2-1": {
+    "prompt": "What type of stone is used in the sculptures in the room?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:53.169830"
+  },
+  "Tomato@8-25_1-55": {
+    "prompt": "What type of flower is planted nearby?",
+    "response": "plant",
+    "timestamp": "2025-10-13T15:52:54.293446"
+  },
+  "Tomato@9-3_20-28": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:55.545274"
+  },
+  "Tomato@8-28_10-53": {
+    "prompt": "What type of flower arrangement is placed on the ground?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:56.673706"
+  },
+  "Tomato@9-6_1-55": {
+    "prompt": "What type of flower pot is located next to the tree?",
+    "response": "round",
+    "timestamp": "2025-10-13T15:52:57.783774"
+  },
+  "Tomato@9-3_10-3": {
+    "prompt": "What type of flower is blooming in the scene?",
+    "response": "plant",
+    "timestamp": "2025-10-13T15:52:58.867131"
+  },
+  "Tomato@8-31_20-28": {
+    "prompt": "What color is the stone fountain situated near the tree?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:00.017549"
+  },
+  "Tomato@8-25_30-52": {
+    "prompt": "What type of fruit does the tree bear?",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:01.207380"
+  },
+  "Tomato@11-2_30-4": {
+    "prompt": "What shape is the bowl that holds oranges?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:02.450141"
+  },
+  "Tomato@9-14_10-3": {
+    "prompt": "What type of fruit does the tree produce?",
+    "response": "black",
+    "timestamp": "2025-10-13T15:53:03.605071"
+  },
+  "Tomato@11-2_1-1": {
+    "prompt": "What shape is the coffee table?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:04.740110"
+  },
+  "Tomato@8-28_20-28": {
+    "prompt": "What type of fruit does the table hold?",
+    "response": "yes",
+    "timestamp": "2025-10-13T15:53:05.923714"
+  },
+  "Tomato@8-25_1-1": {
+    "prompt": "What type of metal is used in the chandelier?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:53:07.029790"
+  },
+  "Wheat@79": {
+    "prompt": "What type of fruit does the shrub produce?",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:53:08.292513"
+  },
+  "Wheat@145": {
+    "prompt": "What material is the rug made of?",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:53:09.444368"
+  },
+  "Wheat@91": {
+    "prompt": "What type of flower is situated on top of the potted plant?",
+    "response": "stool",
+    "timestamp": "2025-10-13T15:53:10.709500"
+  },
+  "Wheat@116": {
+    "prompt": "What type of metal is the lamp made of?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:53:12.027916"
+  },
+  "Wheat@6": {
+    "prompt": "What type of sculpture is placed next to the plant?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:13.145247"
+  },
+  "Wheat@11": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:14.250064"
+  },
+  "Wheat@34": {
+    "prompt": "What is the height of the ceiling in the room?",
+    "response": "short",
+    "timestamp": "2025-10-13T15:53:15.366956"
+  },
+  "Wheat@127": {
+    "prompt": "What material is the coffee table made of?",
+    "response": "wood",
+    "timestamp": "2025-10-13T15:53:16.623225"
+  },
+  "Wheat@39": {
+    "prompt": "What type of sculpture is located beside the plant?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:17.841118"
+  },
+  "Wheat@107": {
+    "prompt": "What type of sculpture is located on the ceiling?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:18.921026"
+  },
+  "Wheat@122": {
+    "prompt": "What type of furniture is in the scene?",
+    "response": "brown wooden table",
+    "timestamp": "2025-10-13T15:53:20.154715"
+  },
+  "Wheat@52": {
+    "prompt": "What type of sculpture is displayed on the ceiling?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:21.282552"
+  },
+  "Wheat@96": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:22.375247"
+  },
+  "Wheat@26": {
+    "prompt": "What type of crystal chandelier hangs from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:23.666834"
+  },
+  "Wheat@88": {
+    "prompt": "What type of fabric is used for the curtains?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:24.799070"
+  },
+  "Wheat@25": {
+    "prompt": "What type of large furniture piece is located against the wall?",
+    "response": "large white cabinet",
+    "timestamp": "2025-10-13T15:53:25.907670"
+  },
+  "Wheat@115": {
+    "prompt": "What type of stone is the fountain made of?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:26.986710"
+  },
+  "Wheat@28": {
+    "prompt": "What type of flower is located on the windowsill?",
+    "response": "plant",
+    "timestamp": "2025-10-13T15:53:28.092071"
+  },
+  "Wheat@78": {
+    "prompt": "What type of fish is swimming in the room?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:29.208900"
+  },
+  "Wheat@126": {
+    "prompt": "What type of flower is blooming in the scene?",
+    "response": "plant",
+    "timestamp": "2025-10-13T15:53:30.293712"
+  },
+  "Wheat@125": {
+    "prompt": "What type of painting is hanging on the wall?",
+    "response": "painting",
+    "timestamp": "2025-10-13T15:53:31.384669"
+  },
+  "Wheat@60": {
+    "prompt": "What type of animal is sleeping on the floor?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:53:32.500486"
+  },
+  "Wheat@131": {
+    "prompt": "What type of furniture is located beside the green plant?",
+    "response": "stool",
+    "timestamp": "2025-10-13T15:53:33.659337"
+  },
+  "Wheat@72": {
+    "prompt": "What type of rock is in the scene?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:34.743549"
+  },
+  "Wheat@149": {
+    "prompt": "What type of flower is located on the opposite side of the room?",
+    "response": "plant",
+    "timestamp": "2025-10-13T15:53:35.890068"
+  },
+  "Wheat@119": {
+    "prompt": "What type of sculpture is displayed on the shelf?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:37.018894"
+  },
+  "Wheat@21": {
+    "prompt": "What type of animal is resting on the floor?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:53:38.162018"
+  },
+  "Wheat@84": {
+    "prompt": "What shape is the coffee table?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:39.421396"
+  },
+  "Wheat@4": {
+    "prompt": "What type of fountain is located nearby?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:40.555438"
+  },
+  "Wheat@109": {
+    "prompt": "What type of flower is displayed in a vase?",
+    "response": "plant",
+    "timestamp": "2025-10-13T15:53:41.639573"
+  },
+  "Wheat@89": {
+    "prompt": "What is the texture of the carpet on the floor?",
+    "response": "smooth",
+    "timestamp": "2025-10-13T15:53:42.830068"
+  },
+  "Wheat@14": {
+    "prompt": "What type of fruit is placed on the table?",
+    "response": "yes",
+    "timestamp": "2025-10-13T15:53:43.949636"
+  },
+  "Wheat@73": {
+    "prompt": "What type of furniture is in the scene?",
+    "response": "brown wooden table",
+    "timestamp": "2025-10-13T15:53:45.178925"
+  },
+  "Wheat@123": {
+    "prompt": "What type of sculpture is placed on the floor?",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:53:46.349476"
+  },
+  "Wheat@102": {
+    "prompt": "What type of furniture is used for seating in the room?",
+    "response": "wooden chair",
+    "timestamp": "2025-10-13T15:53:47.530279"
+  },
+  "Wheat@80": {
+    "prompt": "What type of metal is used in the construction of the garden bench?",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:53:48.678198"
+  },
+  "Wheat@87": {
+    "prompt": "What shape is the coffee table?",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:49.761098"
+  },
+  "Wheat@98": {
+    "prompt": "What type of animal is resting on the floor?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:53:50.861924"
+  },
+  "Wheat@137": {
+    "prompt": "What type of animal is resting on the floor?",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:53:52.064310"
+  },
+  "Wheat@113": {
+    "prompt": "What type of fruit hangs from the nearby tree?",
+    "response": "red and green",
+    "timestamp": "2025-10-13T15:53:53.226842"
+  },
+  "Wheat@108": {
+    "prompt": "What materials were used to create the sculpture?",
+    "response": "wood",
+    "timestamp": "2025-10-13T15:53:54.424046"
+  },
+  "Wheat@7": {
+    "prompt": "What type of fish is swimming in the water nearby?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:55.627621"
+  },
+  "Wheat@42": {
+    "prompt": "What type of fabric is the couch made of?",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:53:56.710382"
+  },
+  "Wheat@92": {
+    "prompt": "What type of fruit is hanging from the ceiling?",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:57.879830"
+  },
+  "Wheat@15": {
+    "prompt": "What type of fabric is the sofa made of?",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:53:58.971300"
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "ceabd33a-d3dd-4500-9f44-a65fb285bff2@LivingDiningRoom-79282": {
+    "prompt": "What shape is the table in the dining area?\n\nA. Round\nB. Oval\nC. Square\nD. Rectangular",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:18.454679"
+  },
+  "ceabd33a-d3dd-4500-9f44-a65fb285bff2@MasterBedroom-74105": {
+    "prompt": "What type of chandelier is installed in the room?\n\nA. Crystal chandelier\nB. Rustic chandelier\nC. Industrial chandelier\nD. Modern chandelier",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:24.113567"
+  },
+  "ceabd33a-d3dd-4500-9f44-a65fb285bff2@NannyRoom-75465": {
+    "prompt": "What is the shape of the dining table in the scene?\n\nA. Rectangular\nB. Square\nC. Oval\nD. Round",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:31.895503"
+  },
+  "cec23801-2e77-47da-9f36-f9aead97a541@Bedroom-44511": {
+    "prompt": "What shape is the window in the scene?\n\nA. Circular\nB. Square\nC. Triangular\nD. Oval",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:38.528359"
+  },
+  "da2f1aa8-e941-4232-9d54-5c771097ead3@CloakRoom-88556": {
+    "prompt": "What type of flooring is used in the scene?\n\nA. Marble\nB. Hardwood\nC. Concrete\nD. Carpet",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:45.764056"
+  },
+  "cec23801-2e77-47da-9f36-f9aead97a541@LivingDiningRoom-44473": {
+    "prompt": "What type of plant is displayed prominently above the coffee table?\n\nA. Fiddle Leaf Fig\nB. Snake Plant\nC. Bonsai Tree\nD. Monstera Deliciosa",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:52.112690"
+  },
+  "cec93e6e-888a-4e2d-a6b6-870d764f35d6@LivingRoom-10309": {
+    "prompt": "What type of rug is located in the living room?\n\nA. Persian\nB. Moroccan\nC. Shag\nD. Berber",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:58.712488"
+  },
+  "cec93e6e-888a-4e2d-a6b6-870d764f35d6@MasterBedroom-8686": {
+    "prompt": "What type of flooring is used in the scene?\n\nA. Hardwood\nB. Carpet\nC. Tile\nD. Laminate",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:05.134653"
+  },
+  "cec93e6e-888a-4e2d-a6b6-870d764f35d6@SecondBedroom-9463": {
+    "prompt": "What type of artwork is displayed on the walls?\n\nA. Abstract painting\nB. Landscape photograph\nC. Tapestry\nD. Vintage poster",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:09.776548"
+  },
+  "cf11351b-d370-40bc-afa0-3f0e09c74d1e@KidsRoom-2422": {
+    "prompt": "What is the height of the dining table?\n\nA. Three feet\nB. Four feet\nC. Five feet\nD. Six feet",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:17.623915"
+  },
+  "cf11351b-d370-40bc-afa0-3f0e09c74d1e@Library-3082": {
+    "prompt": "What is the capacity of the refrigerator in the scene?\n\nA. 20 cubic feet\nB. 15 cubic feet\nC. 25 cubic feet\nD. 30 cubic feet",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:24.717505"
+  },
+  "cf11351b-d370-40bc-afa0-3f0e09c74d1e@LivingDiningRoom-2031": {
+    "prompt": "What is the height of the ceiling in the living room?\n\nA. 8 feet\nB. 10 feet\nC. 12 feet\nD. 14 feet",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:33.026344"
+  },
+  "cf11351b-d370-40bc-afa0-3f0e09c74d1e@MasterBedroom-1100": {
+    "prompt": "What type of decoration is found on the walls?\n\nA. Floral patterns\nB. Geometric designs\nC. Vintage posters\nD. Abstract paintings",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:39.710846"
+  },
+  "068b2b34-52cb-4499-b33e-b777e632e4a1@BedRoom-20230": {
+    "prompt": "How tall is the tree next to the bed?\n\nA. 10 feet\nB. 15 feet\nC. 20 feet\nD. 25 feet",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:46.907281"
+  },
+  "cf4db7da-7de7-41ab-a1eb-27d1ade8f89f@DiningRoom-243905": {
+    "prompt": "What type of countertop is used in the scene?\n\nA. Marble\nB. Quartz\nC. Granite\nD. Laminate",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:54.184795"
+  },
+  "cf4db7da-7de7-41ab-a1eb-27d1ade8f89f@LivingRoom-35223": {
+    "prompt": "What type of sculpture is present in the room?\n\nA. Abstract sculpture\nB. Stone sculpture\nC. Metal sculpture\nD. Wooden sculpture",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:59.425341"
+  },
+  "cf4db7da-7de7-41ab-a1eb-27d1ade8f89f@MasterBedroom-6373": {
+    "prompt": "What style of painting is featured in the scene?\n\nA. Abstract\nB. Impressionism\nC. Surrealism\nD. Cubism",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:05.949559"
+  },
+  "cf4db7da-7de7-41ab-a1eb-27d1ade8f89f@OtherRoom-6357": {
+    "prompt": "What type of vase is located on the side table?\n\nA. Ceramic\nB. Glass\nC. Metal\nD. Wooden",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:13.154611"
+  },
+  "cf536225-9a90-4fde-9175-f453e2436c29@LivingDiningRoom-59156": {
+    "prompt": "What is the height of the bookshelf in the living room?\n\nA. Six feet\nB. Five feet\nC. Eight feet\nD. Four feet",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:19.937989"
+  },
+  "cf536225-9a90-4fde-9175-f453e2436c29@MasterBedroom-57573": {
+    "prompt": "What is the size of the painting on the wall?\n\nA. Large\nB. Medium\nC. Small\nD. Extra Large",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:25.662536"
+  },
+  "cf536225-9a90-4fde-9175-f453e2436c29@SecondBedroom-58732": {
+    "prompt": "What type of sculpture is on display in the room?\n\nA. Abstract sculpture\nB. Classical bust\nC. Modern art piece\nD. Wooden carving",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:31.564225"
+  },
+  "cf681cb5-8607-4615-a3a1-625e1d265f12@Library-2171": {
+    "prompt": "What type of sculpture is displayed in the library?\n\nA. Abstract sculpture\nB. Classical bust\nC. Modern art piece\nD. Kinetic sculpture",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:38.165340"
+  },
+  "cf681cb5-8607-4615-a3a1-625e1d265f12@LivingDiningRoom-42393": {
+    "prompt": "What type of artwork is displayed on the walls?\n\nA. Abstract painting\nB. Landscape photography\nC. Black and white portrait\nD. Still life composition",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:45.978448"
+  },
+  "cf681cb5-8607-4615-a3a1-625e1d265f12@MasterBedroom-5872": {
+    "prompt": "What shape is the rug in the room?\n\nA. Oval\nB. Rectangle\nC. Square\nD. Triangle",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:53.406078"
+  },
+  "cf681cb5-8607-4615-a3a1-625e1d265f12@SecondBedroom-9510": {
+    "prompt": "What type of sculpture is displayed in the room?\n\nA. Abstract marble sculpture\nB. Bronze animal statue\nC. Wooden relief carving\nD. Glass bowl sculpture",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:58.907477"
+  },
+  "cf78ef38-eb7b-45d6-81e7-d07583cee033@LivingRoom-24507": {
+    "prompt": "What shape is the rug located in the room?\n\nA. Oval\nB. Square\nC. Rectangular\nD. Circular",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:05.224849"
+  },
+  "cf78ef38-eb7b-45d6-81e7-d07583cee033@MasterBedroom-24417": {
+    "prompt": "What is the shape of the dining table in the scene?\n\nA. Round\nB. Oval\nC. Square\nD. Rectangular",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:13.506515"
+  },
+  "cf92b4e4-1ce3-43cb-aaf8-0186c486159d@LivingDiningRoom-8032": {
+    "prompt": "What color is the ceiling in the living room?\n\nA. Blue\nB. White\nC. Gray\nD. Yellow",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:21.517373"
+  },
+  "cf92b4e4-1ce3-43cb-aaf8-0186c486159d@MasterBedroom-8092": {
+    "prompt": "What type of flooring is in the room?\n\nA. Hardwood\nB. Carpet\nC. Tile\nD. Laminate",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:27.103298"
+  },
+  "cf92b4e4-1ce3-43cb-aaf8-0186c486159d@SecondBedroom-8177": {
+    "prompt": "What color is the sofa in the scene?\n\nA. Burgundy\nB. Yellow\nC. Gray\nD. Purple",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:32.409172"
+  },
+  "cfa1fdec-fe33-4363-bce3-090c11a0a96b@LivingDiningRoom-6324": {
+    "prompt": "What type of artwork can be found in the living room?\n\nA. Abstract painting\nB. Landscape photograph\nC. Ceramic sculpture\nD. Wall mural",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:38.565495"
+  },
+  "cfa1fdec-fe33-4363-bce3-090c11a0a96b@MasterBedroom-6418": {
+    "prompt": "What type of artwork is displayed on the wall?\n\nA. Abstract painting\nB. Landscape photograph\nC. Sculptural installation\nD. Portraiture",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:45.740878"
+  },
+  "cfa1fdec-fe33-4363-bce3-090c11a0a96b@SecondBedroom-6346": {
+    "prompt": "What is the shape of the table in the room?\n\nA. Circular\nB. Rectangular\nC. Oval\nD. Square",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:53.361652"
+  },
+  "cfa7ff85-8109-4ff4-9b06-c2d64224b3d5@MasterBedroom-25619": {
+    "prompt": "What style is the coffee table in the room?\n\nA. Modern\nB. Rustic\nC. Industrial\nD. Vintage",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:01.265248"
+  },
+  "cfd773db-d189-4ad9-b97e-cddeca9b1944@Bedroom-6704": {
+    "prompt": "What is the shape of the table in the scene?\n\nA. Oval\nB. Rectangular\nC. Circular\nD. Square",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:07.827566"
+  },
+  "d7ac1af8-ec79-41f5-985e-c89109b03fb7@Bedroom-5263": {
+    "prompt": "What is the material of the dining table in the scene?\n\nA. Glass\nB. Plastic\nC. Marble\nD. Metal",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:15.151320"
+  },
+  "cfd773db-d189-4ad9-b97e-cddeca9b1944@LivingDiningRoom-6855": {
+    "prompt": "What is the height of the chandelier in the room?\n\nA. 10 feet\nB. 15 feet\nC. 20 feet\nD. 25 feet",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:21.986749"
+  },
+  "cfdf4d87-2b14-48f0-8fad-629c917312d4@Bedroom-106236": {
+    "prompt": "What type of texture does the rug have in the scene?\n\nA. Soft and fluffy\nB. Woven and coarse\nC. Smooth and shiny\nD. Thick and plush",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:29.226676"
+  },
+  "cfdf4d87-2b14-48f0-8fad-629c917312d4@LivingRoom-105598": {
+    "prompt": "What type of flooring is used in the living room?\n\nA. Hardwood\nB. Carpet\nC. Tile\nD. Concrete",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:34.902025"
+  },
+  "d0202805-1d8a-4caf-957a-b08af1a9c29a@Bedroom-1533": {
+    "prompt": "What type of rug is placed in front of the bed?\n\nA. Persian rug\nB. Shag rug\nC. Jute rug\nD. Wool rug",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:41.549275"
+  },
+  "d0202805-1d8a-4caf-957a-b08af1a9c29a@KidsRoom-12859": {
+    "prompt": "What type of vehicle is parked in the scene?\n\nA. Sedan\nB. Motorcycle\nC. Truck\nD. Bicycle",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:48.652403"
+  },
+  "d0202805-1d8a-4caf-957a-b08af1a9c29a@LivingDiningRoom-13274": {
+    "prompt": "What shape is the dining table in the scene?\n\nA. Round\nB. Square\nC. Oval\nD. Rectangular",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:55.157606"
+  },
+  "d0202805-1d8a-4caf-957a-b08af1a9c29a@SecondBedroom-12814": {
+    "prompt": "What shape is the dining table in the scene?\n\nA. Round\nB. Oval\nC. Rectangular\nD. Square",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:01.936927"
+  },
+  "c71a7d04-cedb-45b6-96f9-6156e87890dc@LivingRoom-17377": {
+    "prompt": "What shape is the window in the living room?\n\nA. Round\nB. Square\nC. Triangular\nD. Oval",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:07.790729"
+  },
+  "d03b14a0-31a6-4136-8e7c-d364c7b09955@LivingDiningRoom-2393": {
+    "prompt": "What is the shape of the coffee table in the scene?\n\nA. Rectangle\nB. Circle\nC. Oval\nD. Square",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:14.262081"
+  },
+  "d03b14a0-31a6-4136-8e7c-d364c7b09955@MasterBedroom-454": {
+    "prompt": "What type of sculpture is featured in the Masterbedroom?\n\nA. Abstract sculpture\nB. Figurative sculpture\nC. Kinetic sculpture\nD. Relief sculpture",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:21.674242"
+  },
+  "d03b14a0-31a6-4136-8e7c-d364c7b09955@SecondBedroom-1613": {
+    "prompt": "What is the material of the bookshelf?\n\nA. Oak wood\nB. Glass\nC. Metal\nD. Pine wood",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:27.970706"
+  },
+  "d040edab-31c6-4fec-8e69-fcec184a0a9a@DiningRoom-26954": {
+    "prompt": "What color is the rug in the scene?\n\nA. Yellow\nB. Green\nC. Orange\nD. Purple",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:34.891520"
+  },
+  "d04f18bb-12f9-46c9-92e1-cfcda8a60818@KidsRoom-29737": {
+    "prompt": "What type of window treatment is featured in the room?\n\nA. Venetian blinds\nB. Sheer curtains\nC. Roman shades\nD. Wooden shutters",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:41.160198"
+  },
+  "d04f18bb-12f9-46c9-92e1-cfcda8a60818@LivingDiningRoom-31754": {
+    "prompt": "What type of book is displayed on the wall in the living dining room?\n\nA. Fiction\nB. Biography\nC. Cookbook\nD. Travel guide",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:49.311644"
+  },
+  "d04f18bb-12f9-46c9-92e1-cfcda8a60818@MasterBedroom-30008": {
+    "prompt": "What type of sculpture is prominently displayed in the master bedroom?\n\nA. Abstract\nB. Classical\nC. Contemporary\nD. Figurative",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:56.348691"
+  },
+  "d04f18bb-12f9-46c9-92e1-cfcda8a60818@SecondBedroom-31231": {
+    "prompt": "What shape are the windows in the scene?\n\nA. Round\nB. Square\nC. Triangular\nD. Arched",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:02.222012"
+  },
+  "d0615bd5-c5af-474b-a2bf-c434fcfaf74c@LivingRoom-673": {
+    "prompt": "What is the height of the chandelier?\n\nA. Five feet\nB. Eight feet\nC. Ten feet\nD. Twelve feet",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:09.122894"
+  },
+  "d0615bd5-c5af-474b-a2bf-c434fcfaf74c@MasterBedroom-110": {
+    "prompt": "What is the shape of the dining table in the room?\n\nA. Rectangular\nB. Circular\nC. Oval\nD. Square",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:15.787211"
+  },
+  "d0615bd5-c5af-474b-a2bf-c434fcfaf74c@SecondBedroom-775": {
+    "prompt": "What type of painting is hanging above the bed?\n\nA. Abstract\nB. Landscape\nC. Portrait\nD. Still Life",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:23.411577"
+  },
+  "d06a7c95-99a7-438e-a271-fe602380713c@LivingRoom-1437": {
+    "prompt": "What type of vehicle is parked in the garage?\n\nA. Sedan\nB. Coupe\nC. SUV\nD. Minivan",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:30.980302"
+  },
+  "d06a7c95-99a7-438e-a271-fe602380713c@MasterBedroom-1212": {
+    "prompt": "What type of artwork is displayed in the scene?\n\nA. Abstract painting\nB. Landscape photograph\nC. Portraiture\nD. Still life arrangement",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:39.037132"
+  },
+  "d06a7c95-99a7-438e-a271-fe602380713c@SecondBedroom-76": {
+    "prompt": "What is the material of the kitchen table?\n\nA. Oak wood\nB. Glass\nC. Steel\nD. Plastic",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:44.776895"
+  },
+  "d07beff7-77ba-4f6a-b09d-f7b5e748da57@Bedroom-285": {
+    "prompt": "What type of flooring is present in the scene?\n\nA. Hardwood\nB. Carpet\nC. Tile\nD. Laminate",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:51.822914"
+  },
+  "d07beff7-77ba-4f6a-b09d-f7b5e748da57@Bedroom-415": {
+    "prompt": "What is the shape of the rug in the room?\n\nA. Circle\nB. Rectangle\nC. Triangle\nD. Oval",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:59.683576"
+  },
+  "d07beff7-77ba-4f6a-b09d-f7b5e748da57@Library-130": {
+    "prompt": "What is the color of the chairs in the scene?\n\nA. Red\nB. Green\nC. Yellow\nD. Purple",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:07.180268"
+  },
+  "d07beff7-77ba-4f6a-b09d-f7b5e748da57@LivingDiningRoom-4154": {
+    "prompt": "What is the height of the ceiling in the room?\n\nA. 10 feet\nB. 12 feet\nC. 8 feet\nD. 15 feet",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:14.975088"
+  },
+  "d0933b3b-ad15-453b-98c7-bd8a781f3a69@LivingDiningRoom-151931": {
+    "prompt": "What time does the clock strike noon?\n\nA. Twice\nB. Once\nC. Three times\nD. Not at all",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:23.341176"
+  },
+  "d0933b3b-ad15-453b-98c7-bd8a781f3a69@MasterBedroom-152297": {
+    "prompt": "What is the height of the sculpture in the corner of the room?\n\nA. 3 feet\nB. 6 feet\nC. 8 feet\nD. 5 feet",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:29.247695"
+  },
+  "d0933b3b-ad15-453b-98c7-bd8a781f3a69@SecondBedroom-151547": {
+    "prompt": "What type of vehicle is parked outside the building?\n\nA. Sedan\nB. Truck\nC. Motorcycle\nD. Bicycle",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:34.797662"
+  },
+  "d0933b3b-ad15-453b-98c7-bd8a781f3a69@SecondBedroom-152920": {
+    "prompt": "What is the height of the bookshelf?\n\nA. Six feet\nB. Four feet\nC. Eight feet\nD. Five feet",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:42.006115"
+  },
+  "d099aa82-c37c-4c77-aa35-26f02862f55b@Bedroom-837": {
+    "prompt": "What shape is the rug in the scene?\n\nA. Square\nB. Round\nC. Rectangular\nD. Oval",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:48.764045"
+  },
+  "d099aa82-c37c-4c77-aa35-26f02862f55b@LivingDiningRoom-2300": {
+    "prompt": "What type of flooring is used in the scene?\n\nA. Hardwood\nB. Carpet\nC. Tile\nD. Laminate",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:55.551442"
+  },
+  "d099da71-148a-43f8-8e54-562bbf66692b@Bedroom-464": {
+    "prompt": "What shape is the coffee table in the scene?\n\nA. Round\nB. Square\nC. Oval\nD. Rectangular",
+    "response": "",
+    "timestamp": "2025-10-08T17:37:03.359058"
+  },
+  "d099da71-148a-43f8-8e54-562bbf66692b@LivingRoom-1819": {
+    "prompt": "What is the width of the door in the scene?\n\nA. 30 inches\nB. 36 inches\nC. 28 inches\nD. 32 inches",
+    "response": "",
+    "timestamp": "2025-10-08T17:37:10.904631"
+  },
+  "d0cc42a0-107e-486e-8fa1-3fd71daa8bfe@Library-29569": {
+    "prompt": "What type of vehicle is parked outside the library?\n\nA. Sedan\nB. Bicycle\nC. Sports car\nD. Motorcycle",
+    "response": "",
+    "timestamp": "2025-10-08T17:37:18.123910"
+  },
+  "d0cc42a0-107e-486e-8fa1-3fd71daa8bfe@LivingDiningRoom-31418": {
+    "prompt": "What type of artwork is hanging on the wall?\n\nA. Abstract painting\nB. Landscape photograph\nC. Sculpture\nD. Tapestry",
+    "response": "",
+    "timestamp": "2025-10-08T17:37:24.627029"
+  },
+  "d0cc42a0-107e-486e-8fa1-3fd71daa8bfe@MasterBedroom-39571": {
+    "prompt": "What type of vehicle is parked near the bed?\n\nA. Sports car\nB. Motorcycle\nC. Electric scooter\nD. Van",
+    "response": "",
+    "timestamp": "2025-10-08T17:37:31.507372"
+  },
+  "d0cc42a0-107e-486e-8fa1-3fd71daa8bfe@SecondBedroom-30536": {
+    "prompt": "What type of sculpture is used as a centerpiece in the living room?\n\nA. Abstract\nB. Classical\nC. Modern\nD. Contemporary",
+    "response": "",
+    "timestamp": "2025-10-08T17:37:38.774096"
+  },
+  "d0dc53f6-d204-41e4-ba0d-90d791e13074@Library-57472": {
+    "prompt": "What type of sculpture is displayed in the library?\n\nA. Abstract bronze sculpture\nB. Wooden figurine\nC. Marble bust\nD. Stone relief",
+    "response": "",
+    "timestamp": "2025-10-08T17:37:44.880435"
+  },
+  "d0dc53f6-d204-41e4-ba0d-90d791e13074@LivingDiningRoom-57605": {
+    "prompt": "In what direction is the bookshelf facing in the scene?\n\nA. North\nB. South\nC. East\nD. West",
+    "response": "",
+    "timestamp": "2025-10-08T17:37:50.705636"
+  },
+  "d0dc53f6-d204-41e4-ba0d-90d791e13074@MasterBedroom-54753": {
+    "prompt": "What is the height of the tree in the garden?\n\nA. 15 feet\nB. 25 feet\nC. 10 feet\nD. 30 feet",
+    "response": "",
+    "timestamp": "2025-10-08T17:37:57.708805"
+  },
+  "d0dc53f6-d204-41e4-ba0d-90d791e13074@SecondBedroom-52968": {
+    "prompt": "What type of ceiling fan is installed in the room?\n\nA. Industrial fan\nB. Vintage ceiling fan\nC. Modern ceiling fan\nD. Crystal chandelier fan",
+    "response": "",
+    "timestamp": "2025-10-08T17:38:04.881143"
+  },
+  "d0e0f18e-7d93-4c1d-b93e-218470d8f283@Bedroom-16786": {
+    "prompt": "How many windows does the bedroom have?\n\nA. One\nB. Two\nC. Three\nD. Four",
+    "response": "",
+    "timestamp": "2025-10-08T17:38:10.422907"
+  },
+  "ca14c063-2f69-4278-a074-5f35c931848c@DiningRoom-76956": {
+    "prompt": "What is the color of the bookshelf located in the corner of the room?\n\nA. Black\nB. Yellow\nC. Gray\nD. White",
+    "response": "",
+    "timestamp": "2025-10-08T17:38:16.539772"
+  },
+  "d0e0f18e-7d93-4c1d-b93e-218470d8f283@LivingRoom-60821": {
+    "prompt": "What type of window treatments are installed in the room?\n\nA. Blinds\nB. Curtains\nC. Sheer panels\nD. Shutters",
+    "response": "",
+    "timestamp": "2025-10-08T17:38:23.225579"
+  },
+  "d0e0f18e-7d93-4c1d-b93e-218470d8f283@SecondBedroom-23131": {
+    "prompt": "What is the height of the sculpture in the scene?\n\nA. Five feet\nB. Eight feet\nC. Ten feet\nD. Twelve feet",
+    "response": "",
+    "timestamp": "2025-10-08T17:38:30.363200"
+  },
+  "d0e0f881-9b1e-43bb-861a-ae416afdfaf2@Bedroom-33967": {
+    "prompt": "What is the capacity of the swimming pool in the scene?\n\nA. 10,000 liters\nB. 15,000 liters\nC. 20,000 liters\nD. 25,000 liters",
+    "response": "",
+    "timestamp": "2025-10-08T17:38:36.772863"
+  },
+  "d0e0f881-9b1e-43bb-861a-ae416afdfaf2@Bedroom-35011": {
+    "prompt": "What shape is the garden surrounding the house?\n\nA. Rectangular\nB. Circular\nC. Triangular\nD. Hexagonal",
+    "response": "",
+    "timestamp": "2025-10-08T17:38:44.166016"
+  },
+  "d0e0f881-9b1e-43bb-861a-ae416afdfaf2@Bedroom-35328": {
+    "prompt": "What shape is the table in the room?\n\nA. Round\nB. Square\nC. Rectangular\nD. Oval",
+    "response": "",
+    "timestamp": "2025-10-08T17:38:50.476220"
+  },
+  "d0e0f881-9b1e-43bb-861a-ae416afdfaf2@LivingRoom-36758": {
+    "prompt": "What shape is the dining table in the scene?\n\nA. Circular\nB. Square\nC. Rectangular\nD. Oval",
+    "response": "",
+    "timestamp": "2025-10-08T17:38:56.672197"
+  },
+  "219a8aab-25f7-4ea0-a9d2-345fd362ad9b@Aisle-4085": {
+    "prompt": "What shape is the dining table in the scene?\n\nA. Round\nB. Square\nC. Rectangular\nD. Oval",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:05.011590"
+  },
+  "d0eb95be-9747-4cea-a2db-2e1714d22ddc@Bedroom-9957": {
+    "prompt": "What is the height of the window in the scene?\n\nA. 3 feet\nB. 5 feet\nC. 7 feet\nD. 9 feet",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:12.432282"
+  },
+  "d11d0783-dad6-41da-b9f5-93c51fc5e6ce@LivingDiningRoom-36888": {
+    "prompt": "What type of paint is used on the walls?\n\nA. Acrylic\nB. Oil-based\nC. Watercolor\nD. Spray paint",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:20.695025"
+  },
+  "d11d0783-dad6-41da-b9f5-93c51fc5e6ce@MasterBedroom-35288": {
+    "prompt": "What type of painting is displayed in the room?\n\nA. Abstract\nB. Landscape\nC. Portrait\nD. Still life",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:27.860874"
+  },
+  "d11d0783-dad6-41da-b9f5-93c51fc5e6ce@SecondBedroom-35698": {
+    "prompt": "What type of sculpture is displayed in the room?\n\nA. Marble statue\nB. Bronze bust\nC. Wood carving\nD. Ceramic figure",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:34.015000"
+  },
+  "d15f5658-c053-4d7b-b8f9-b1f8ce4d226a@Bedroom-2901": {
+    "prompt": "What type of flooring is used in the scene?\n\nA. Hardwood\nB. Tile\nC. Carpet\nD. Laminate",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:41.022629"
+  },
+  "d15f5658-c053-4d7b-b8f9-b1f8ce4d226a@Bedroom-2914": {
+    "prompt": "What type of window treatment is featured in the scene?\n\nA. Venetian blinds\nB. Sheer curtains\nC. Roman shades\nD. Roller shades",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:45.912769"
+  },
+  "d15f5658-c053-4d7b-b8f9-b1f8ce4d226a@LivingDiningRoom-4192": {
+    "prompt": "What texture is the pizza in the kitchen?\n\nA. Crispy\nB. Chewy\nC. Fluffy\nD. Soft",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:52.400334"
+  },
+  "d1951fba-7ccf-4642-a054-839cbc9ee0c7@LivingDiningRoom-14661": {
+    "prompt": "What type of light fixture is hanging in the room?\n\nA. Chandelier\nB. Pendant light\nC. Ceiling fan\nD. Wall sconce",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:59.324438"
+  },
+  "d1951fba-7ccf-4642-a054-839cbc9ee0c7@MasterBedroom-13694": {
+    "prompt": "What type of sculpture is displayed in the scene?\n\nA. Abstract sculpture\nB. Marble statue\nC. Bronze bust\nD. Wooden carving",
+    "response": "",
+    "timestamp": "2025-10-08T17:40:05.659945"
+  },
+  "d1951fba-7ccf-4642-a054-839cbc9ee0c7@SecondBedroom-13679": {
+    "prompt": "What type of window treatment is featured in the scene?\n\nA. Sheer curtains\nB. Roller shades\nC. Plantation shutters\nD. Roman blinds",
+    "response": "",
+    "timestamp": "2025-10-08T17:40:12.717372"
+  },
+  "d1992aca-b517-4d27-822a-5adb08fd20fe@Bedroom-39690": {
+    "prompt": "What is the size of the mirror in the room?\n\nA. Small\nB. Medium\nC. Large\nD. Extra large",
+    "response": "is",
+    "timestamp": "2025-10-08T17:40:19.216233"
+  },
+  "d19b8b80-a9af-477a-bf3f-41cd20cf840b@LivingRoom-21372": {
+    "prompt": "What is the texture of the rug on the floor?\n\nA. Soft and plush\nB. Rough and woven\nC. Smooth and glossy\nD. Bumpy and textured",
+    "response": "",
+    "timestamp": "2025-10-08T17:40:26.603327"
+  }
+}

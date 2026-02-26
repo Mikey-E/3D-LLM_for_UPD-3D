@@ -1,0 +1,65 @@
+==========================================
+3D-FRONT Inference - Array Job 16
+==========================================
+Job ID: 44230933
+Array Task ID: 16
+Node: mbl40s-007
+Start time: Wed Oct  8 17:28:02 MDT 2025
+
+Python: /project/3dllms/melgin/conda/envs/lavis/bin/python
+Conda env: lavis
+
+NVIDIA L40S, 46068 MiB, 45469 MiB
+
+Processing point clouds 1584 to 1682
+Estimated count: 99
+Estimated questions: 99 x 12 = 1188
+
+======================================================================
+3D-FRONT INFERENCE
+======================================================================
+Device: cuda
+Checkpoint: /cluster/medbow/project/3dllms/melgin/3D-LLM_for_UPD-3D/3DLLM_BLIP2-base/pretrained_models/3D-LLM_BLIP2-FlanT5-XL_v2.pth
+Processed dir: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed
+Questions base: /cluster/medbow/project/3dllms/melgin/UPD-3D/upd_text/3D-FRONT
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/3dfront_inference
+
+Loading point cloud list...
+  Total point clouds: 2993
+  Processing range: 1584 to 1683
+  Processing count: 99
+  Questions per cloud: 12
+  Total inferences: 1188
+
+Loading 3D-LLM model...
+  ✓ Model loaded
+
+======================================================================
+RUNNING INFERENCE
+======================================================================
+
+======================================================================
+SAVING RESULTS
+======================================================================
+  aad_base: 99 results -> inf_rslts_3dllm_3D-FRONT_test_aad_base_1584_1683_20251008_173831.json
+  aad_additional_instruction: 99 results -> inf_rslts_3dllm_3D-FRONT_test_aad_additional_instruction_1584_1683_20251008_173831.json
+  aad_additional_option: 99 results -> inf_rslts_3dllm_3D-FRONT_test_aad_additional_option_1584_1683_20251008_173831.json
+  iasd_base: 99 results -> inf_rslts_3dllm_3D-FRONT_test_iasd_base_1584_1683_20251008_173831.json
+  iasd_additional_instruction: 99 results -> inf_rslts_3dllm_3D-FRONT_test_iasd_additional_instruction_1584_1683_20251008_173831.json
+  iasd_additional_option: 99 results -> inf_rslts_3dllm_3D-FRONT_test_iasd_additional_option_1584_1683_20251008_173831.json
+  ivqd_base: 99 results -> inf_rslts_3dllm_3D-FRONT_test_ivqd_base_1584_1683_20251008_173831.json
+  ivqd_additional_instruction: 99 results -> inf_rslts_3dllm_3D-FRONT_test_ivqd_additional_instruction_1584_1683_20251008_173831.json
+  ivqd_additional_option: 99 results -> inf_rslts_3dllm_3D-FRONT_test_ivqd_additional_option_1584_1683_20251008_173831.json
+  open_ended: 99 results -> inf_rslts_3dllm_3D-FRONT_test_open_ended_1584_1683_20251008_173831.json
+  open_ended_additional_instruction: 99 results -> inf_rslts_3dllm_3D-FRONT_test_open_ended_additional_instruction_1584_1683_20251008_173831.json
+  standard: 99 results -> inf_rslts_3dllm_3D-FRONT_test_standard_1584_1683_20251008_173831.json
+
+======================================================================
+SUMMARY
+======================================================================
+Successful: 1188
+Failed:     0
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/3dfront_inference
+
+End time: Wed Oct  8 17:38:31 MDT 2025
+==========================================

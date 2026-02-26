@@ -1,0 +1,1787 @@
+{
+  "Cabbage@sl_1109_14": {
+    "prompt": "What type of rug covers the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "area",
+    "timestamp": "2025-10-13T15:47:20.783955"
+  },
+  "Cabbage@sl_1019_03": {
+    "prompt": "What type of outdoor fountain features intricate carvings?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:21.870645"
+  },
+  "Cabbage@mvs_1019_05": {
+    "prompt": "What type of metal is the lamp made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:22.932088"
+  },
+  "Cabbage@mvs_907_11": {
+    "prompt": "What is the height of the chandelier hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "ceiling",
+    "timestamp": "2025-10-13T15:47:24.012977"
+  },
+  "Cabbage@sl_1205_01": {
+    "prompt": "What type of sculpture is displayed on the shelf?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:25.148674"
+  },
+  "Cabbage@sl_921_07": {
+    "prompt": "What type of metal is the chandelier made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:47:26.221773"
+  },
+  "Cabbage@mvs_901_14": {
+    "prompt": "What type of fabric is the armchair covered in?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:47:27.274028"
+  },
+  "Cabbage@mvs_1123_14": {
+    "prompt": "What type of fruit is inside the vase?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:47:28.423182"
+  },
+  "Cabbage@mvs_1019_09": {
+    "prompt": "What type of animal is lounging on the couch?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "dog",
+    "timestamp": "2025-10-13T15:47:29.489945"
+  },
+  "Cabbage@sl_907_03": {
+    "prompt": "What type of chandelier is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:30.565761"
+  },
+  "Cabbage@sl_1205_05": {
+    "prompt": "What kind of water fountain is located nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:31.631886"
+  },
+  "Cabbage@mvs_1019_03": {
+    "prompt": "What type of animal is resting in the corner of the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:47:32.747336"
+  },
+  "Cabbage@sl_901_02": {
+    "prompt": "What type of animal is resting on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:47:33.834783"
+  },
+  "Cabbage@mvs_1205_09": {
+    "prompt": "What type of fabric is on the curtains?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:34.931548"
+  },
+  "Cabbage@sl_1019_07": {
+    "prompt": "What type of chandelier is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:36.029360"
+  },
+  "Cabbage@sl_1019_05": {
+    "prompt": "What type of furniture is positioned next to the fireplace?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chair",
+    "timestamp": "2025-10-13T15:47:37.176159"
+  },
+  "Cabbage@sl_1116_11": {
+    "prompt": "What type of metal is used in the chair?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:47:38.311600"
+  },
+  "Cabbage@mvs_1012_06": {
+    "prompt": "What type of fabric is the couch made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:47:39.359081"
+  },
+  "Cabbage@mvs_907_07": {
+    "prompt": "What type of fruit is displayed on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:47:40.488034"
+  },
+  "Cabbage@sl_921_11": {
+    "prompt": "What type of insect is resting on the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular whiteboard",
+    "timestamp": "2025-10-13T15:47:41.593053"
+  },
+  "Cabbage@sl_1019_01": {
+    "prompt": "What type of flooring is used in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "wood",
+    "timestamp": "2025-10-13T15:47:42.742489"
+  },
+  "Cabbage@mvs_929_06": {
+    "prompt": "What is the height of the chandelier?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "high",
+    "timestamp": "2025-10-13T15:47:43.801183"
+  },
+  "Cabbage@sl_1109_12": {
+    "prompt": "What texture does the rug have?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "ridged",
+    "timestamp": "2025-10-13T15:47:44.949109"
+  },
+  "Cabbage@mvs_1116_07": {
+    "prompt": "What type of rug is beneath the pot?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white rug",
+    "timestamp": "2025-10-13T15:47:46.085227"
+  },
+  "Cabbage@mvs_921_03": {
+    "prompt": "What type of light fixture is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white lamp",
+    "timestamp": "2025-10-13T15:47:47.304791"
+  },
+  "Cabbage@mvs_901_10": {
+    "prompt": "What type of chandelier is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:48.400786"
+  },
+  "Cabbage@sl_1103_05": {
+    "prompt": "What type of chandelier is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:49.481364"
+  },
+  "Cabbage@sl_907_11": {
+    "prompt": "What type of painting is hanging on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "painting",
+    "timestamp": "2025-10-13T15:47:50.564424"
+  },
+  "Cabbage@mvs_1103_05": {
+    "prompt": "What type of light fixture hangs from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white lamp",
+    "timestamp": "2025-10-13T15:47:51.662379"
+  },
+  "Cabbage@mvs_901_12": {
+    "prompt": "What type of fabric is used in the curtains?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:52.763001"
+  },
+  "Cabbage@mvs_914_12": {
+    "prompt": "What type of sculpture is displayed next to the houseplant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:53.844640"
+  },
+  "Cabbage@sl_1026_02": {
+    "prompt": "What type of animal is sleeping in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:47:54.967809"
+  },
+  "Cabbage@sl_921_03": {
+    "prompt": "What type of fish is swimming in an aquarium nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:56.030227"
+  },
+  "Cabbage@mvs_1026_08": {
+    "prompt": "What type of fabric is the curtain made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:57.085985"
+  },
+  "Cabbage@sl_1109_10": {
+    "prompt": "What type of metal sculpture is displayed on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed chair",
+    "timestamp": "2025-10-13T15:47:58.208391"
+  },
+  "Cabbage@mvs_929_10": {
+    "prompt": "What type of fish is swimming in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:59.317636"
+  },
+  "Cabbage@mvs_1205_01": {
+    "prompt": "What kind of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:00.419990"
+  },
+  "Cabbage@mvs_1019_11": {
+    "prompt": "What is the height of the tree next to the succulent plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tall",
+    "timestamp": "2025-10-13T15:48:01.464769"
+  },
+  "Cabbage@sl_1026_08": {
+    "prompt": "What type of fish is swimming in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:02.600580"
+  },
+  "Cabbage@mvs_907_13": {
+    "prompt": "What type of fish is swimming in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:03.698826"
+  },
+  "Cabbage@mvs_1005_11": {
+    "prompt": "What shape is the mirror hanging on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:04.756826"
+  },
+  "Cabbage@mvs_901_06": {
+    "prompt": "What type of animal is sleeping on the windowsill?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:05.808886"
+  },
+  "Cabbage@sl_1109_08": {
+    "prompt": "What type of crystal chandelier is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:06.859168"
+  },
+  "Cabbage@mvs_929_14": {
+    "prompt": "What type of large tree is in the corner of the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:07.962506"
+  },
+  "Cabbage@sl_907_01": {
+    "prompt": "What type of fruit is growing on the walls?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular whiteboard",
+    "timestamp": "2025-10-13T15:48:09.154476"
+  },
+  "Cabbage@sl_1026_10": {
+    "prompt": "What type of fabric is used to cover the sofa?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:48:10.190167"
+  },
+  "Cabbage@sl_901_10": {
+    "prompt": "What type of fruit is hanging from a tree in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:11.278014"
+  },
+  "Cabbage@mvs_1012_12": {
+    "prompt": "What type of fabric is the curtain made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:12.371199"
+  },
+  "Cabbage@mvs_1109_02": {
+    "prompt": "What type of metal is used in the light fixture?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:48:13.394250"
+  },
+  "Cabbage@sl_901_04": {
+    "prompt": "What type of metal is used in the unpainted staircase nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:48:14.450028"
+  },
+  "Cabbage@mvs_1116_01": {
+    "prompt": "What is the size of the chandelier hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "small",
+    "timestamp": "2025-10-13T15:48:15.524271"
+  },
+  "Cabbage@mvs_901_08": {
+    "prompt": "What type of animal is resting on the windowsill?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:16.565697"
+  },
+  "Cabbage@sl_1109_06": {
+    "prompt": "What type of fish is swimming in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:17.618781"
+  },
+  "Cabbage@mvs_914_04": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:18.644476"
+  },
+  "Cabbage@sl_1019_13": {
+    "prompt": "What type of chandelier is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:19.674426"
+  },
+  "Cabbage@sl_1026_12": {
+    "prompt": "What type of fabric is used for the curtains?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:20.754091"
+  },
+  "Cabbage@mvs_1103_03": {
+    "prompt": "What type of glass sculpture is displayed on the shelf?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:21.808400"
+  },
+  "Cabbage@sl_1103_13": {
+    "prompt": "What type of fabric is used for the curtains?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:22.831424"
+  },
+  "Cabbage@sl_907_05": {
+    "prompt": "What type of animal is resting under the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:48:23.882761"
+  },
+  "Cotton@116": {
+    "prompt": "What type of metal is used in the construction of the nearby chair?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:48:24.980582"
+  },
+  "Cotton@14": {
+    "prompt": "What is the material of the large metal sculpture positioned against the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "l",
+    "timestamp": "2025-10-13T15:48:26.182991"
+  },
+  "Cotton@62": {
+    "prompt": "What kind of tropical fish is swimming nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:27.213357"
+  },
+  "Cotton@126": {
+    "prompt": "What kind of mineral is embedded in the soil beneath the sapling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:28.236907"
+  },
+  "Cotton@16": {
+    "prompt": "What type of fruit is growing on the tree?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:29.262794"
+  },
+  "Cotton@113": {
+    "prompt": "What type of fruit is hanging from the branch?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:30.321006"
+  },
+  "Cotton@27": {
+    "prompt": "What shape is the chandelier hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:31.495764"
+  },
+  "Cotton@92": {
+    "prompt": "What is the shape of the large rock adjacent to the branch?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangle",
+    "timestamp": "2025-10-13T15:48:32.522607"
+  },
+  "Cotton@198": {
+    "prompt": "What type of furniture is used for seating in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chair",
+    "timestamp": "2025-10-13T15:48:33.605141"
+  },
+  "Cotton@63": {
+    "prompt": "What type of rock is used to create the sculpture in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:34.628181"
+  },
+  "Cotton@120": {
+    "prompt": "What type of stone is used in the doorway?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "dark brown",
+    "timestamp": "2025-10-13T15:48:35.667975"
+  },
+  "Cotton@81": {
+    "prompt": "What type of fruit does the branch produce?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular whiteboard",
+    "timestamp": "2025-10-13T15:48:36.736202"
+  },
+  "Cotton@136": {
+    "prompt": "What type of metal is used in the construction of the nearby sculpture?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:48:37.862626"
+  },
+  "Cotton@26": {
+    "prompt": "What texture does the carpet have?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:48:38.976555"
+  },
+  "Cotton@112": {
+    "prompt": "What type of metal is used in the chair?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:48:40.033021"
+  },
+  "Cotton@2": {
+    "prompt": "What is the size of the dining table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "small",
+    "timestamp": "2025-10-13T15:48:41.108939"
+  },
+  "Cotton@21": {
+    "prompt": "What flavor is the ice cream served in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "brown",
+    "timestamp": "2025-10-13T15:48:42.191891"
+  },
+  "Cotton@173": {
+    "prompt": "What color is the chair next to the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black",
+    "timestamp": "2025-10-13T15:48:43.217051"
+  },
+  "Cotton@107": {
+    "prompt": "What type of fruit does the tree produce?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:44.274840"
+  },
+  "Cotton@22": {
+    "prompt": "What type of fruit is being displayed on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:48:45.387736"
+  },
+  "Cotton@115": {
+    "prompt": "What type of fruit is hanging from the branches?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:46.464804"
+  },
+  "Cotton@159": {
+    "prompt": "What type of metal is the sculpture made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:48:47.639542"
+  },
+  "Cotton@153": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:48.802857"
+  },
+  "Cotton@88": {
+    "prompt": "What size is the crystal chandelier hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "small",
+    "timestamp": "2025-10-13T15:48:49.850465"
+  },
+  "Cotton@9": {
+    "prompt": "What is the pattern on the vase?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "floral pattern",
+    "timestamp": "2025-10-13T15:48:50.967775"
+  },
+  "Cotton@72": {
+    "prompt": "Is there a large concrete sculpture nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "l",
+    "timestamp": "2025-10-13T15:48:52.031232"
+  },
+  "Cotton@25": {
+    "prompt": "What type of fruit does the branch produce?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular whiteboard",
+    "timestamp": "2025-10-13T15:48:53.187127"
+  },
+  "Cotton@158": {
+    "prompt": "What type of stone is the floor made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "brown",
+    "timestamp": "2025-10-13T15:48:54.311716"
+  },
+  "Cotton@180": {
+    "prompt": "What type of fruit is growing on the tree?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:55.398111"
+  },
+  "Cotton@149": {
+    "prompt": "What color are the blossoms on the flowering plant next to it?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:56.490269"
+  },
+  "Cotton@125": {
+    "prompt": "What type of fruit does the tree produce?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:57.522002"
+  },
+  "Cotton@51": {
+    "prompt": "What type of fruit does the tree produce?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:58.664231"
+  },
+  "Cotton@67": {
+    "prompt": "What type of fish is swimming in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:59.754387"
+  },
+  "Cotton@127": {
+    "prompt": "What type of animal is perched on the branch?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white door",
+    "timestamp": "2025-10-13T15:49:00.855475"
+  },
+  "Cotton@11": {
+    "prompt": "What shape is the pendant hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "square",
+    "timestamp": "2025-10-13T15:49:01.977385"
+  },
+  "Cotton@137": {
+    "prompt": "What type of kitchen appliance is placed next to the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "silver oven",
+    "timestamp": "2025-10-13T15:49:03.054241"
+  },
+  "Cotton@78": {
+    "prompt": "What type of furniture is placed near the sapling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chair",
+    "timestamp": "2025-10-13T15:49:04.199528"
+  },
+  "Cotton@6": {
+    "prompt": "What pattern is on the tablecloth?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "floral pattern",
+    "timestamp": "2025-10-13T15:49:05.380884"
+  },
+  "Cotton@188": {
+    "prompt": "What kind of stone sculpture is placed beside the tree sapling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "square",
+    "timestamp": "2025-10-13T15:49:06.462234"
+  },
+  "Cotton@79": {
+    "prompt": "What type of fruit is growing on the shrub?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:49:07.588674"
+  },
+  "Cotton@133": {
+    "prompt": "What type of rock formation is visible behind the sapling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:49:08.687295"
+  },
+  "Cotton@197": {
+    "prompt": "What type of furniture is positioned nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chair",
+    "timestamp": "2025-10-13T15:49:09.863632"
+  },
+  "Cotton@176": {
+    "prompt": "What type of rock formation is visible nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:49:10.972757"
+  },
+  "Cotton@160": {
+    "prompt": "What type of fruit is on the tree?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:12.033384"
+  },
+  "Cotton@65": {
+    "prompt": "What type of fruit does the tree produce?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:13.147781"
+  },
+  "Cotton@100": {
+    "prompt": "What type of fruit does the large tree in the corner produce?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:14.188436"
+  },
+  "Cotton@19": {
+    "prompt": "What type of metal is used in the furniture of the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:49:15.408518"
+  },
+  "Cotton@3": {
+    "prompt": "What kind of fruit is hanging from the branches?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:16.502190"
+  },
+  "Cotton@75": {
+    "prompt": "What shape is the coffee table in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:17.531959"
+  },
+  "Cotton@145": {
+    "prompt": "What type of furniture is in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "brown wooden chair",
+    "timestamp": "2025-10-13T15:49:18.663535"
+  },
+  "Cotton@168": {
+    "prompt": "What type of fruit is hanging from the branches of a tree nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:19.760456"
+  },
+  "Cotton@15": {
+    "prompt": "What type of fruit hangs from the branch?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:20.822472"
+  },
+  "Cotton@122": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:21.858546"
+  },
+  "Maize@1-111": {
+    "prompt": "What is the weight of the marble sculpture located nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:49:22.947984"
+  },
+  "Maize@3-28": {
+    "prompt": "What type of furniture is placed above the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "stool",
+    "timestamp": "2025-10-13T15:49:23.994888"
+  },
+  "Maize@2-34": {
+    "prompt": "What type of artwork is hung on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:49:25.135306"
+  },
+  "Maize@3-49": {
+    "prompt": "What type of furniture is located next to the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chair",
+    "timestamp": "2025-10-13T15:49:26.167921"
+  },
+  "Maize@2-70": {
+    "prompt": "What type of fruit is displayed on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:49:27.247407"
+  },
+  "Maize@3-55": {
+    "prompt": "What type of artwork is hanging on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:49:28.338202"
+  },
+  "Maize@3-26": {
+    "prompt": "What pattern is featured on the rug?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "floral pattern",
+    "timestamp": "2025-10-13T15:49:29.523191"
+  },
+  "Maize@2-13": {
+    "prompt": "What type of heavy machinery is used for construction?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:30.597019"
+  },
+  "Maize@3-21": {
+    "prompt": "What is the brand of the vacuum cleaner?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:31.647333"
+  },
+  "Maize@3-18": {
+    "prompt": "What type of artwork is hanging on the walls?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:49:32.775068"
+  },
+  "Maize@2-109": {
+    "prompt": "What type of painting is hanging on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "painting",
+    "timestamp": "2025-10-13T15:49:33.811838"
+  },
+  "Maize@1-118": {
+    "prompt": "Where is the large wooden chair?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "left",
+    "timestamp": "2025-10-13T15:49:34.894854"
+  },
+  "Maize@3-42": {
+    "prompt": "What type of artwork is hanging on the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:49:36.028794"
+  },
+  "Maize@1-24": {
+    "prompt": "What type of furniture is made of metal and has wheels?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chair",
+    "timestamp": "2025-10-13T15:49:37.110831"
+  },
+  "Maize@1-51": {
+    "prompt": "What type of fruit is displayed on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:49:38.206592"
+  },
+  "Maize@1-68": {
+    "prompt": "What type of furniture is positioned next to the sapling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chair",
+    "timestamp": "2025-10-13T15:49:39.318619"
+  },
+  "Maize@2-101": {
+    "prompt": "What type of fabric is the couch made from?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:49:40.448662"
+  },
+  "Maize@3-19": {
+    "prompt": "What is the size of the large sculpture in the corner?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "small",
+    "timestamp": "2025-10-13T15:49:41.571501"
+  },
+  "Maize@2-148": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:42.756228"
+  },
+  "Maize@2-9": {
+    "prompt": "What is the size and shape of the chandelier hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangle",
+    "timestamp": "2025-10-13T15:49:43.979670"
+  },
+  "Maize@2-122": {
+    "prompt": "What type of fruit is on the kitchen counter?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "yes",
+    "timestamp": "2025-10-13T15:49:45.038751"
+  },
+  "Maize@1-122": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:46.140859"
+  },
+  "Maize@3-10": {
+    "prompt": "What type of lighting fixture is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white lamp",
+    "timestamp": "2025-10-13T15:49:47.233363"
+  },
+  "Maize@2-77": {
+    "prompt": "What type of furniture is located near the potted plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chair",
+    "timestamp": "2025-10-13T15:49:48.287930"
+  },
+  "Maize@2-140": {
+    "prompt": "What is the shape of the rocks located at the base of the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:49.383461"
+  },
+  "Maize@2-126": {
+    "prompt": "What kind of artwork is hanging on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:49:50.466902"
+  },
+  "Maize@3-36": {
+    "prompt": "What type of rock is used for the flooring?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:49:51.562836"
+  },
+  "Maize@3-15": {
+    "prompt": "What type of animal is resting on the windowsill?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:52.685968"
+  },
+  "Maize@3-60": {
+    "prompt": "What type of heavy furniture is located near the houseplant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chair",
+    "timestamp": "2025-10-13T15:49:53.804954"
+  },
+  "Maize@2-17": {
+    "prompt": "What kind of rug is placed on the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "area",
+    "timestamp": "2025-10-13T15:49:54.855447"
+  },
+  "Maize@2-32": {
+    "prompt": "What type of cooking appliance is located nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "silver oven",
+    "timestamp": "2025-10-13T15:49:55.940420"
+  },
+  "Maize@2-116": {
+    "prompt": "What type of fruit is displayed on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:49:57.146110"
+  },
+  "Maize@1-120": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:58.284425"
+  },
+  "Maize@3-40": {
+    "prompt": "What type of animal is resting on the furniture?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:49:59.373232"
+  },
+  "Maize@3-43": {
+    "prompt": "What type of fruit is on the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:50:00.503002"
+  },
+  "Maize@2-31": {
+    "prompt": "What type of metal sculpture is displayed nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "l shape",
+    "timestamp": "2025-10-13T15:50:01.648214"
+  },
+  "Maize@3-38": {
+    "prompt": "What type of painting is hanging on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "painting",
+    "timestamp": "2025-10-13T15:50:02.712656"
+  },
+  "Maize@2-28": {
+    "prompt": "What type of fruit is displayed on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:50:03.940826"
+  },
+  "Maize@2-24": {
+    "prompt": "What type of animal is sleeping on the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:50:05.033472"
+  },
+  "Maize@2-67": {
+    "prompt": "What type of animal is sleeping in the corner?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:50:06.149130"
+  },
+  "Maize@2-64": {
+    "prompt": "What is the flavor of the cake on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "brown",
+    "timestamp": "2025-10-13T15:50:07.209896"
+  },
+  "Maize@3-54": {
+    "prompt": "What type of animal is resting on the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:50:08.397062"
+  },
+  "Maize@2-66": {
+    "prompt": "What type of fish is swimming in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:09.530514"
+  },
+  "Maize@3-7": {
+    "prompt": "What food item is stored in the refrigerator?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "silver",
+    "timestamp": "2025-10-13T15:50:10.638892"
+  },
+  "Maize@2-65": {
+    "prompt": "What type of sculpture is next to the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:11.787050"
+  },
+  "Maize@2-88": {
+    "prompt": "What type of fabric is the couch made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:50:12.942831"
+  },
+  "Maize@2-108": {
+    "prompt": "What type of animal is resting on the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:50:14.028190"
+  },
+  "Maize@1-78": {
+    "prompt": "What type of large, colorful painting hangs on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "small",
+    "timestamp": "2025-10-13T15:50:15.080868"
+  },
+  "Maize@2-39": {
+    "prompt": "What type of musical instrument is hidden in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "piano",
+    "timestamp": "2025-10-13T15:50:16.206168"
+  },
+  "Maize@2-50": {
+    "prompt": "What type of animal is lounging in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:17.265052"
+  },
+  "Maize@3-50": {
+    "prompt": "What type of fruit is displayed on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:50:18.429112"
+  },
+  "Maize@2-128": {
+    "prompt": "What type of metal sculpture is displayed in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed couch",
+    "timestamp": "2025-10-13T15:50:19.591016"
+  },
+  "Maize@2-137": {
+    "prompt": "What type of fruit does the tree produce?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:20.741436"
+  },
+  "Maize@2-141": {
+    "prompt": "What type of artwork is hanging on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:50:21.974262"
+  },
+  "Maize@2-29": {
+    "prompt": "What type of artwork is hanging on the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:50:23.173649"
+  },
+  "Maize@1-60": {
+    "prompt": "What type of rock formation is displayed in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tv stand",
+    "timestamp": "2025-10-13T15:50:24.310639"
+  },
+  "Maize@1-22": {
+    "prompt": "What is the weight of the metal sculpture located on the opposite side of the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:50:25.411806"
+  },
+  "Maize@2-33": {
+    "prompt": "What type of crystal chandelier is hanging in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:26.462553"
+  },
+  "Maize@3-27": {
+    "prompt": "What type of flower is growing in the garden outside the window?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:50:27.540298"
+  },
+  "Maize@3-37": {
+    "prompt": "What shape is the ceiling fan?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "square",
+    "timestamp": "2025-10-13T15:50:28.727097"
+  },
+  "Maize@1-113": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:50:29.802330"
+  },
+  "Maize@2-11": {
+    "prompt": "What type of birdcage is in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:30.899118"
+  },
+  "Maize@1-50": {
+    "prompt": "What type of flower is blooming next to the maize plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:50:32.213201"
+  },
+  "Maize@1-123": {
+    "prompt": "What kind of fruit is growing on the corn plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:33.352797"
+  },
+  "Maize@2-21": {
+    "prompt": "What type of painting is hanging on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "painting",
+    "timestamp": "2025-10-13T15:50:34.498088"
+  },
+  "Maize@2-107": {
+    "prompt": "What kind of fabric is the sofa made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:50:35.584365"
+  },
+  "Maize@2-114": {
+    "prompt": "What type of fruit does the dining table hold?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:36.738695"
+  },
+  "Maize@1-106": {
+    "prompt": "What material is the table made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "wood",
+    "timestamp": "2025-10-13T15:50:37.838276"
+  },
+  "Potato@5-19-P281-2-a": {
+    "prompt": "What shape is the rug in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangle",
+    "timestamp": "2025-10-13T15:50:38.916581"
+  },
+  "Potato@5-21-P104-3-a": {
+    "prompt": "What type of flower pot is used to display the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "round",
+    "timestamp": "2025-10-13T15:50:40.012299"
+  },
+  "Potato@5-11-P255-3-a": {
+    "prompt": "What is the weight of the metal sculpture located in the corner of the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:50:41.156208"
+  },
+  "Potato@5-14-P117-3-a": {
+    "prompt": "What shape is the table in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangle",
+    "timestamp": "2025-10-13T15:50:42.265248"
+  },
+  "Potato@5-13-P015-2-a": {
+    "prompt": "What type of flower arrangement is displayed in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:43.358209"
+  },
+  "Potato@5-23-P999-7-a": {
+    "prompt": "What type of fruit is hanging near the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:50:44.588340"
+  },
+  "Potato@5-20-P043-1-a": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:50:45.743273"
+  },
+  "Potato@5-11-P279-3-a": {
+    "prompt": "What type of flower is blooming nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:50:46.960676"
+  },
+  "Potato@5-21-P104-4-a": {
+    "prompt": "What is the texture of the marble used in the countertops?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "ridged",
+    "timestamp": "2025-10-13T15:50:48.086048"
+  },
+  "Potato@5-20-P060-3-a": {
+    "prompt": "What type of metal is used in the window frames?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:49.198536"
+  },
+  "Potato@5-11-P290-3-a": {
+    "prompt": "What texture does the rock in the scene have?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:50:50.398776"
+  },
+  "Potato@5-23-P999-2-a": {
+    "prompt": "What shape is the chandelier hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:51.657368"
+  },
+  "Potato@5-11-P281-1-a": {
+    "prompt": "What type of flower is blooming next to the sapling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:50:52.817287"
+  },
+  "Potato@5-23-P997-1-a": {
+    "prompt": "What type of fruit is laying on the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:53.951874"
+  },
+  "Potato@5-14-P112-1-a": {
+    "prompt": "What texture does the large rug on the floor have?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "striped",
+    "timestamp": "2025-10-13T15:50:55.121270"
+  },
+  "Potato@5-13-P046-3-a": {
+    "prompt": "What type of rug is placed on the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "area",
+    "timestamp": "2025-10-13T15:50:56.218692"
+  },
+  "Potato@5-21-P104-2-a": {
+    "prompt": "What type of flower pot is used to display a large cactus?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "round",
+    "timestamp": "2025-10-13T15:50:57.354410"
+  },
+  "Potato@5-11-P104-2-a": {
+    "prompt": "What type of flower is displayed in a vase on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:50:58.492874"
+  },
+  "Potato@5-23-P997-2-a": {
+    "prompt": "What is the shape and size of the garden bench?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangle",
+    "timestamp": "2025-10-13T15:50:59.582379"
+  },
+  "Potato@5-23-P998-9-a": {
+    "prompt": "What type of furniture is made of glass and placed in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "table",
+    "timestamp": "2025-10-13T15:51:00.770549"
+  },
+  "Potato@5-20-P002-2-a": {
+    "prompt": "What type of mineral is embedded in the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "trash can",
+    "timestamp": "2025-10-13T15:51:01.928379"
+  },
+  "Potato@5-13-P098-1-a": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:51:03.022793"
+  },
+  "Potato@5-21-P142-1-a": {
+    "prompt": "What type of fruit does the tree produce?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:04.222233"
+  },
+  "Potato@5-19-P279-1-a": {
+    "prompt": "What is the shape of the roof above the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:05.410450"
+  },
+  "Potato@5-14-P113-3-a": {
+    "prompt": "What type of fruit is resting on the main surface?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:51:06.547071"
+  },
+  "Potato@5-11-P281-2-a": {
+    "prompt": "What is the shape of the chandelier hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:07.637408"
+  },
+  "Potato@5-11-P285-2-a": {
+    "prompt": "What shape is the coffee table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:08.765231"
+  },
+  "Potato@5-20-P045-3-a": {
+    "prompt": "What color is the coffee table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "brown",
+    "timestamp": "2025-10-13T15:51:09.990279"
+  },
+  "Potato@5-23-P998-7-a": {
+    "prompt": "What type of fruit is growing on the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:11.090022"
+  },
+  "Potato@5-13-P002-2-a": {
+    "prompt": "What type of furniture is made of metal and glass in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "table",
+    "timestamp": "2025-10-13T15:51:12.194058"
+  },
+  "Potato@5-20-P015-2-a": {
+    "prompt": "What kind of stone is used in the construction of the fireplace?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:13.281346"
+  },
+  "Potato@5-11-P294-3-a": {
+    "prompt": "Is there a purple flower nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:14.424158"
+  },
+  "Potato@5-13-P068-3-a": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:51:15.516172"
+  },
+  "Potato@5-19-P281-1-a": {
+    "prompt": "What is the height of the oak tree nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "high",
+    "timestamp": "2025-10-13T15:51:16.615891"
+  },
+  "Potato@5-20-P149-3-a": {
+    "prompt": "What shape is the rug in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangle",
+    "timestamp": "2025-10-13T15:51:17.810457"
+  },
+  "Potato@5-13-P043-2-a": {
+    "prompt": "What type of fruit is present on the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:18.922176"
+  },
+  "Rapeseed@29": {
+    "prompt": "What type of metal is the table made from?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:51:20.057447"
+  },
+  "Rapeseed@115": {
+    "prompt": "What type of fish is swimming in a tank nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:21.143061"
+  },
+  "Rapeseed@70": {
+    "prompt": "What type of lighting fixture hangs from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white lamp",
+    "timestamp": "2025-10-13T15:51:22.306119"
+  },
+  "Rapeseed@33": {
+    "prompt": "What type of furniture is in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "brown wooden chair",
+    "timestamp": "2025-10-13T15:51:23.494063"
+  },
+  "Rapeseed@31": {
+    "prompt": "What type of artwork is hanging on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:51:24.701359"
+  },
+  "Rapeseed@129": {
+    "prompt": "What type of metal sculpture is displayed on the shelf?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed couch",
+    "timestamp": "2025-10-13T15:51:25.822149"
+  },
+  "Rapeseed@20": {
+    "prompt": "What type of chandelier is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:26.968331"
+  },
+  "Rapeseed@91": {
+    "prompt": "What type of fruit is in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:51:28.178674"
+  },
+  "Rapeseed@24": {
+    "prompt": "What type of metallic sculpture is placed next to the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:29.363357"
+  },
+  "Rapeseed@37": {
+    "prompt": "What type of furniture is placed directly above the potted plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "stool",
+    "timestamp": "2025-10-13T15:51:30.549051"
+  },
+  "Rapeseed@63": {
+    "prompt": "What type of light fixture hangs from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white lamp",
+    "timestamp": "2025-10-13T15:51:31.709213"
+  },
+  "Rapeseed@11": {
+    "prompt": "What material is the hammock made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:51:32.789449"
+  },
+  "Rapeseed@135": {
+    "prompt": "What type of animal is hiding behind the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:33.919340"
+  },
+  "Rapeseed@107": {
+    "prompt": "What type of woven basket is used for storing blankets?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:35.004708"
+  },
+  "Rapeseed@116": {
+    "prompt": "What type of mineral is used in the construction of the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:36.210888"
+  },
+  "Rapeseed@169": {
+    "prompt": "What type of flower is blooming in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:51:37.334788"
+  },
+  "Rapeseed@58": {
+    "prompt": "What type of metal is used for the furniture?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-13T15:51:38.418244"
+  },
+  "Rapeseed@25": {
+    "prompt": "What type of hanging chandelier is installed in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:39.499703"
+  },
+  "Rapeseed@168": {
+    "prompt": "What type of wallpaper is used on the walls?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "lime green",
+    "timestamp": "2025-10-13T15:51:40.635732"
+  },
+  "Rapeseed@83": {
+    "prompt": "What material is the chandelier made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "wood",
+    "timestamp": "2025-10-13T15:51:42.035369"
+  },
+  "Rapeseed@127": {
+    "prompt": "What shape is the bookcase in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangle",
+    "timestamp": "2025-10-13T15:51:43.251980"
+  },
+  "Rapeseed@79": {
+    "prompt": "What type of crystal chandelier is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:44.362713"
+  },
+  "Rapeseed@122": {
+    "prompt": "What type of crystal chandelier is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:45.502594"
+  },
+  "Rapeseed@8": {
+    "prompt": "What type of fish is swimming in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:46.676621"
+  },
+  "Rapeseed@82": {
+    "prompt": "What type of crystal chandelier is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:47.799409"
+  },
+  "Rapeseed@95": {
+    "prompt": "What type of fruit bowl is on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "small",
+    "timestamp": "2025-10-13T15:51:48.919140"
+  },
+  "Rapeseed@61": {
+    "prompt": "What type of fish is swimming in a tank nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:49.989366"
+  },
+  "Rapeseed@93": {
+    "prompt": "What type of fabric is used for the curtains?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:51.061159"
+  },
+  "Rapeseed@147": {
+    "prompt": "What is the height of the chandelier hanging in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "ceiling",
+    "timestamp": "2025-10-13T15:51:52.129604"
+  },
+  "Rapeseed@128": {
+    "prompt": "What type of wooden furniture is located next to the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular brown stool",
+    "timestamp": "2025-10-13T15:51:53.383994"
+  },
+  "Rapeseed@119": {
+    "prompt": "What kind of artwork is hanging on the walls?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:51:54.501412"
+  },
+  "Rapeseed@112": {
+    "prompt": "What type of painting is displayed on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "painting",
+    "timestamp": "2025-10-13T15:51:55.650469"
+  },
+  "Rapeseed@21": {
+    "prompt": "What flavor is the ice cream on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:56.725958"
+  },
+  "Rapeseed@109": {
+    "prompt": "What kind of artwork is hanging on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:51:57.835839"
+  },
+  "Rapeseed@142": {
+    "prompt": "What type of fruit is growing on the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:58.945852"
+  },
+  "Rapeseed@96": {
+    "prompt": "What type of metal is the coffee table made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:51:59.979934"
+  },
+  "Rapeseed@161": {
+    "prompt": "What type of light fixture hangs from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white lamp",
+    "timestamp": "2025-10-13T15:52:01.078266"
+  },
+  "Rapeseed@123": {
+    "prompt": "What type of gemstone is used in the chandelier?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:02.158021"
+  },
+  "Rapeseed@102": {
+    "prompt": "What kind of fish is swimming in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:03.186136"
+  },
+  "Rapeseed@13": {
+    "prompt": "What type of metal is used for the ceiling light fixture?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:52:04.254580"
+  },
+  "Rapeseed@92": {
+    "prompt": "What type of mineral is the plant grown in?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:05.292326"
+  },
+  "Rapeseed@40": {
+    "prompt": "What type of chandelier is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:06.364235"
+  },
+  "Rapeseed@41": {
+    "prompt": "What type of animal sculpture is in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "octop",
+    "timestamp": "2025-10-13T15:52:07.493660"
+  },
+  "Rapeseed@113": {
+    "prompt": "What type of fabric is the sofa made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:52:08.569963"
+  },
+  "Rapeseed@108": {
+    "prompt": "What is the height of the chandelier hanging in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "ceiling",
+    "timestamp": "2025-10-13T15:52:09.597251"
+  },
+  "Rice@77": {
+    "prompt": "What shape is the rug in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangle",
+    "timestamp": "2025-10-13T15:52:10.662437"
+  },
+  "Rice@1": {
+    "prompt": "What is the weight of the chandelier hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "wood",
+    "timestamp": "2025-10-13T15:52:11.706789"
+  },
+  "Rice@62": {
+    "prompt": "What type of aquatic creature is swimming nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:12.756968"
+  },
+  "Rice@3": {
+    "prompt": "What type of chair is in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black chair",
+    "timestamp": "2025-10-13T15:52:13.836814"
+  },
+  "Rice@20": {
+    "prompt": "What type of furniture is in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "brown wooden chair",
+    "timestamp": "2025-10-13T15:52:14.959608"
+  },
+  "Rice@74": {
+    "prompt": "What type of artwork is hanging on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:52:16.041020"
+  },
+  "Rice@19": {
+    "prompt": "What type of fruit is displayed on the kitchen counter?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "yes",
+    "timestamp": "2025-10-13T15:52:17.069183"
+  },
+  "Rice@26": {
+    "prompt": "What type of animal is sleeping on the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:52:18.174331"
+  },
+  "Rice@13": {
+    "prompt": "What is the height of the ceiling in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "short",
+    "timestamp": "2025-10-13T15:52:19.233212"
+  },
+  "Rice@7": {
+    "prompt": "What type of artwork is hanging on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:52:20.411447"
+  },
+  "Rice@46": {
+    "prompt": "What shape is the chandelier hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:21.488617"
+  },
+  "Rice@52": {
+    "prompt": "What type of sculpture is displayed next to the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:22.594098"
+  },
+  "Rice@41": {
+    "prompt": "What is the height of the chandelier hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "ceiling",
+    "timestamp": "2025-10-13T15:52:23.719477"
+  },
+  "Rice@84": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:24.801067"
+  },
+  "Rice@6": {
+    "prompt": "What type of sculpture is displayed beside the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:25.950301"
+  },
+  "Rice@59": {
+    "prompt": "What type of fruit is arranged on the kitchen counter?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:27.070423"
+  },
+  "Rice@4": {
+    "prompt": "What type of furniture is used for seating in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "brown wooden chair",
+    "timestamp": "2025-10-13T15:52:28.195480"
+  },
+  "Rice@8": {
+    "prompt": "What type of crystal chandelier is hanging in the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:29.339861"
+  },
+  "Rice@48": {
+    "prompt": "What type of animal is sleeping in the corner?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:52:30.446832"
+  },
+  "Rice@54": {
+    "prompt": "What is the size of the chandelier hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "small",
+    "timestamp": "2025-10-13T15:52:31.537945"
+  },
+  "Rice@2": {
+    "prompt": "What type of rock is used in the construction of the walls?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:32.657972"
+  },
+  "Rice@37": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:33.735938"
+  },
+  "Rice@45": {
+    "prompt": "What type of artwork is hanging on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:52:34.862172"
+  },
+  "Rice@35": {
+    "prompt": "What type of fruit is hanging from the tree outside the building?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:35.973946"
+  },
+  "Rice@18": {
+    "prompt": "What type of service bell is on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "curved",
+    "timestamp": "2025-10-13T15:52:37.108255"
+  },
+  "Rice@72": {
+    "prompt": "What shape is the chandelier hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:38.265109"
+  },
+  "Tomato@8-22_20-28": {
+    "prompt": "What is the size of the rock located at the base of the branch?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "small",
+    "timestamp": "2025-10-13T15:52:39.377240"
+  },
+  "Tomato@10-5_1-1": {
+    "prompt": "What type of fish is swimming in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:40.611306"
+  },
+  "Tomato@8-13_20-28": {
+    "prompt": "What shape is the rug in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangle",
+    "timestamp": "2025-10-13T15:52:41.790392"
+  },
+  "Tomato@8-22_30-4": {
+    "prompt": "What texture does the rug have?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "ridged",
+    "timestamp": "2025-10-13T15:52:42.943124"
+  },
+  "Tomato@8-13_1-55": {
+    "prompt": "What is the size of the marble coffee table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "small",
+    "timestamp": "2025-10-13T15:52:44.101995"
+  },
+  "Tomato@8-22_10-3": {
+    "prompt": "What type of flower is blooming at the base of the tree?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:45.246578"
+  },
+  "Tomato@11-2_35-22": {
+    "prompt": "What type of vase is placed next to the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:46.364152"
+  },
+  "Tomato@8-31_10-3": {
+    "prompt": "What type of furniture is situated under the tree?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chair",
+    "timestamp": "2025-10-13T15:52:47.590170"
+  },
+  "Tomato@10-5_30-52": {
+    "prompt": "What type of wildflower is growing in the corner?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:48.671005"
+  },
+  "Tomato@8-10_10-53": {
+    "prompt": "What type of flower is displayed in a vase on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:49.769164"
+  },
+  "Tomato@8-28_30-52": {
+    "prompt": "What type of fabric is used for the curtains?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:50.875795"
+  },
+  "Tomato@8-22_35-22": {
+    "prompt": "What type of rock is embedded in the ground near the tree?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:51.965415"
+  },
+  "Tomato@9-3_2-1": {
+    "prompt": "What type of stone is used in the sculptures in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:53.253632"
+  },
+  "Tomato@8-25_1-55": {
+    "prompt": "What type of flower is planted nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:54.377383"
+  },
+  "Tomato@9-3_20-28": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:55.628848"
+  },
+  "Tomato@8-28_10-53": {
+    "prompt": "What type of flower arrangement is placed on the ground?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "round",
+    "timestamp": "2025-10-13T15:52:56.757252"
+  },
+  "Tomato@9-6_1-55": {
+    "prompt": "What type of flower pot is located next to the tree?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "round",
+    "timestamp": "2025-10-13T15:52:57.867380"
+  },
+  "Tomato@9-3_10-3": {
+    "prompt": "What type of flower is blooming in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:58.950404"
+  },
+  "Tomato@8-31_20-28": {
+    "prompt": "What color is the stone fountain situated near the tree?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:00.101569"
+  },
+  "Tomato@8-25_30-52": {
+    "prompt": "What type of fruit does the tree bear?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:01.291174"
+  },
+  "Tomato@11-2_30-4": {
+    "prompt": "What shape is the bowl that holds oranges?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:02.534048"
+  },
+  "Tomato@9-14_10-3": {
+    "prompt": "What type of fruit does the tree produce?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:03.689846"
+  },
+  "Tomato@11-2_1-1": {
+    "prompt": "What shape is the coffee table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:04.823554"
+  },
+  "Tomato@8-28_20-28": {
+    "prompt": "What type of fruit does the table hold?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:53:06.023580"
+  },
+  "Tomato@8-25_1-1": {
+    "prompt": "What type of metal is used in the chandelier?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:53:07.113285"
+  },
+  "Wheat@79": {
+    "prompt": "What type of fruit does the shrub produce?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:53:08.391967"
+  },
+  "Wheat@145": {
+    "prompt": "What material is the rug made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:53:09.562109"
+  },
+  "Wheat@91": {
+    "prompt": "What type of flower is situated on top of the potted plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:10.793052"
+  },
+  "Wheat@116": {
+    "prompt": "What type of metal is the lamp made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:12.111413"
+  },
+  "Wheat@6": {
+    "prompt": "What type of sculpture is placed next to the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:13.230367"
+  },
+  "Wheat@11": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:14.333529"
+  },
+  "Wheat@34": {
+    "prompt": "What is the height of the ceiling in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "short",
+    "timestamp": "2025-10-13T15:53:15.451357"
+  },
+  "Wheat@127": {
+    "prompt": "What material is the coffee table made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "wood",
+    "timestamp": "2025-10-13T15:53:16.706979"
+  },
+  "Wheat@39": {
+    "prompt": "What type of sculpture is located beside the plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:17.925583"
+  },
+  "Wheat@107": {
+    "prompt": "What type of sculpture is located on the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:19.004819"
+  },
+  "Wheat@122": {
+    "prompt": "What type of furniture is in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chair",
+    "timestamp": "2025-10-13T15:53:20.238447"
+  },
+  "Wheat@52": {
+    "prompt": "What type of sculpture is displayed on the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:21.367217"
+  },
+  "Wheat@96": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:22.460018"
+  },
+  "Wheat@26": {
+    "prompt": "What type of crystal chandelier hangs from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:23.751579"
+  },
+  "Wheat@88": {
+    "prompt": "What type of fabric is used for the curtains?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:24.884624"
+  },
+  "Wheat@25": {
+    "prompt": "What type of large furniture piece is located against the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chair",
+    "timestamp": "2025-10-13T15:53:25.991935"
+  },
+  "Wheat@115": {
+    "prompt": "What type of stone is the fountain made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:27.070575"
+  },
+  "Wheat@28": {
+    "prompt": "What type of flower is located on the windowsill?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:28.175677"
+  },
+  "Wheat@78": {
+    "prompt": "What type of fish is swimming in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:29.292977"
+  },
+  "Wheat@126": {
+    "prompt": "What type of flower is blooming in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:30.377797"
+  },
+  "Wheat@125": {
+    "prompt": "What type of painting is hanging on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "painting",
+    "timestamp": "2025-10-13T15:53:31.468980"
+  },
+  "Wheat@60": {
+    "prompt": "What type of animal is sleeping on the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:53:32.615665"
+  },
+  "Wheat@131": {
+    "prompt": "What type of furniture is located beside the green plant?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chair",
+    "timestamp": "2025-10-13T15:53:33.743887"
+  },
+  "Wheat@72": {
+    "prompt": "What type of rock is in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tv stand",
+    "timestamp": "2025-10-13T15:53:34.874165"
+  },
+  "Wheat@149": {
+    "prompt": "What type of flower is located on the opposite side of the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:35.974300"
+  },
+  "Wheat@119": {
+    "prompt": "What type of sculpture is displayed on the shelf?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:37.102772"
+  },
+  "Wheat@21": {
+    "prompt": "What type of animal is resting on the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:53:38.276320"
+  },
+  "Wheat@84": {
+    "prompt": "What shape is the coffee table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:39.506336"
+  },
+  "Wheat@4": {
+    "prompt": "What type of fountain is located nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:40.638642"
+  },
+  "Wheat@109": {
+    "prompt": "What type of flower is displayed in a vase?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:41.723288"
+  },
+  "Wheat@89": {
+    "prompt": "What is the texture of the carpet on the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "smooth",
+    "timestamp": "2025-10-13T15:53:42.914222"
+  },
+  "Wheat@14": {
+    "prompt": "What type of fruit is placed on the table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:53:44.049803"
+  },
+  "Wheat@73": {
+    "prompt": "What type of furniture is in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chair",
+    "timestamp": "2025-10-13T15:53:45.263185"
+  },
+  "Wheat@123": {
+    "prompt": "What type of sculpture is placed on the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "framed",
+    "timestamp": "2025-10-13T15:53:46.449546"
+  },
+  "Wheat@102": {
+    "prompt": "What type of furniture is used for seating in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "brown wooden chair",
+    "timestamp": "2025-10-13T15:53:47.644988"
+  },
+  "Wheat@80": {
+    "prompt": "What type of metal is used in the construction of the garden bench?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "metal",
+    "timestamp": "2025-10-13T15:53:48.763135"
+  },
+  "Wheat@87": {
+    "prompt": "What shape is the coffee table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:49.845550"
+  },
+  "Wheat@98": {
+    "prompt": "What type of animal is resting on the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:53:50.979663"
+  },
+  "Wheat@137": {
+    "prompt": "What type of animal is resting on the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "black and white",
+    "timestamp": "2025-10-13T15:53:52.180053"
+  },
+  "Wheat@113": {
+    "prompt": "What type of fruit hangs from the nearby tree?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:53.311160"
+  },
+  "Wheat@108": {
+    "prompt": "What materials were used to create the sculpture?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "wood",
+    "timestamp": "2025-10-13T15:53:54.508933"
+  },
+  "Wheat@7": {
+    "prompt": "What type of fish is swimming in the water nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:55.713942"
+  },
+  "Wheat@42": {
+    "prompt": "What type of fabric is the couch made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:53:56.794125"
+  },
+  "Wheat@92": {
+    "prompt": "What type of fruit is hanging from the ceiling?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:57.964131"
+  },
+  "Wheat@15": {
+    "prompt": "What type of fabric is the sofa made of?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "cotton",
+    "timestamp": "2025-10-13T15:53:59.056744"
+  }
+}

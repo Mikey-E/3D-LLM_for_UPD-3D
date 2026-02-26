@@ -24,11 +24,11 @@ datasets:
     build_info:
         annotations:
           train:
-            storage: ScanQA_v1.0/ScanQA_v1.0_train.json
+            storage: /project/3dllms/melgin/3D-LLM_for_UPD-3D/data/questions/ScanQA_v1.0/ScanQA_v1.0_train.json
           test:
-            storage: ScanQA_v1.0/ScanQA_v1.0_val.json
+            storage: /project/3dllms/melgin/3D-LLM_for_UPD-3D/data/questions/ScanQA_v1.0/ScanQA_v1.0_val.json
           val:
-            storage: ScanQA_v1.0/ScanQA_v1.0_val.json
+            storage: /project/3dllms/melgin/3D-LLM_for_UPD-3D/data/questions/ScanQA_v1.0/ScanQA_v1.0_val.json
 
 run:
   task: 3d_vqa
@@ -55,13 +55,14 @@ run:
   output_dir: "output/BLIP2/3DQA"
 
   amp: True
-  resume_ckpt_path: pretrain_blip2_sam_flant5xl_v1.pth
+  resume_ckpt_path: /project/3dllms/melgin/3D-LLM_for_UPD-3D/checkpoints/pretrain_blip2_sam_flant5xl_v2.pth
   evaluate: False
+  verbose: True
   train_splits: ["train"]
   valid_splits: ["val"]
   test_splits: ["test"]
 
   device: "cuda"
-  world_size: 16
+  world_size: 1
   dist_url: "env://"
-  distributed: True
+  distributed: False

@@ -1,0 +1,70 @@
+==========================================
+3D-FRONT Inference - FINETUNED Model
+==========================================
+Job ID: 47040376
+Node: mbl40s-003
+Start time: Mon Oct 27 22:28:50 MDT 2025
+
+Python: /project/3dllms/melgin/conda/envs/lavis/bin/python
+Conda env: lavis
+
+NVIDIA L40S, 46068 MiB, 45469 MiB
+
+Checkpoint: /project/3dllms/melgin/3D-LLM_for_UPD-3D/3DLLM_BLIP2-base/lavis/output/BLIP2/3DQA_3D-FRONT/20251016100/checkpoint_7.pth
+Model name: 3dllm_ft-3D-FRONT-ckpt7
+
+==========================================
+Starting 3D-FRONT inference...
+==========================================
+======================================================================
+3D-FRONT INFERENCE
+======================================================================
+Device: cuda
+Checkpoint: /project/3dllms/melgin/3D-LLM_for_UPD-3D/3DLLM_BLIP2-base/lavis/output/BLIP2/3DQA_3D-FRONT/20251016100/checkpoint_7.pth
+Processed dir: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT_processed
+Questions base: /cluster/medbow/project/3dllms/melgin/UPD-3D/upd_text/3D-FRONT
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/3dfront_inference
+
+Loading point cloud list...
+  Total point clouds: 2993
+  Processing range: 0 to 2992
+  Processing count: 2992
+  Questions per cloud: 12
+  Total inferences: 35904
+
+Loading 3D-LLM model...
+  Loading checkpoint: /project/3dllms/melgin/3D-LLM_for_UPD-3D/3DLLM_BLIP2-base/lavis/output/BLIP2/3DQA_3D-FRONT/20251016100/checkpoint_7.pth
+  ✓ Model loaded successfully
+
+======================================================================
+RUNNING INFERENCE
+======================================================================
+
+======================================================================
+SAVING RESULTS
+======================================================================
+  aad_base: 2992 results -> inf_rslts_3dllm_ft-3D-FRONT-ckpt7_3D-FRONT_test_aad_base.json
+  aad_additional_instruction: 2992 results -> inf_rslts_3dllm_ft-3D-FRONT-ckpt7_3D-FRONT_test_aad_additional_instruction.json
+  aad_additional_option: 2992 results -> inf_rslts_3dllm_ft-3D-FRONT-ckpt7_3D-FRONT_test_aad_additional_option.json
+  iasd_base: 2992 results -> inf_rslts_3dllm_ft-3D-FRONT-ckpt7_3D-FRONT_test_iasd_base.json
+  iasd_additional_instruction: 2992 results -> inf_rslts_3dllm_ft-3D-FRONT-ckpt7_3D-FRONT_test_iasd_additional_instruction.json
+  iasd_additional_option: 2992 results -> inf_rslts_3dllm_ft-3D-FRONT-ckpt7_3D-FRONT_test_iasd_additional_option.json
+  ivqd_base: 2992 results -> inf_rslts_3dllm_ft-3D-FRONT-ckpt7_3D-FRONT_test_ivqd_base.json
+  ivqd_additional_instruction: 2992 results -> inf_rslts_3dllm_ft-3D-FRONT-ckpt7_3D-FRONT_test_ivqd_additional_instruction.json
+  ivqd_additional_option: 2992 results -> inf_rslts_3dllm_ft-3D-FRONT-ckpt7_3D-FRONT_test_ivqd_additional_option.json
+  open_ended: 2992 results -> inf_rslts_3dllm_ft-3D-FRONT-ckpt7_3D-FRONT_test_open_ended.json
+  open_ended_additional_instruction: 2992 results -> inf_rslts_3dllm_ft-3D-FRONT-ckpt7_3D-FRONT_test_open_ended_additional_instruction.json
+  standard: 2992 results -> inf_rslts_3dllm_ft-3D-FRONT-ckpt7_3D-FRONT_test_standard.json
+
+======================================================================
+SUMMARY
+======================================================================
+Successful: 35904
+Failed:     0
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/3dfront_inference/3dllm_ft-3D-FRONT-ckpt7
+
+==========================================
+✓ Inference completed successfully!
+Results saved to: results/3dfront_inference/3dllm_ft-3D-FRONT-ckpt7/
+End time: Tue Oct 28 00:04:37 MDT 2025
+==========================================

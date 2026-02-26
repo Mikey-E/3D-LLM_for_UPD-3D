@@ -1,0 +1,1379 @@
+==========================================
+3D-FRONT Preprocessing - Array Job 29
+==========================================
+Job ID: 44229453
+Array Task ID: 29
+Node: mbl40s-003
+Start time: Wed Oct  8 16:50:40 MDT 2025
+
+Python: /project/3dllms/melgin/conda/envs/lavis/bin/python
+Conda env: lavis
+
+NVIDIA L40S, 46068 MiB, 45469 MiB
+
+Processing point clouds 2871 to 2991
+Estimated count: 121
+
+======================================================================
+3D-FRONT Preprocessing - Array Job 29
+======================================================================
+Job ID: 44229453
+Array Task ID: 29
+Node: mbl40s-003
+Start time: Wed Oct  8 16:50:49 MDT 2025
+
+Python: /project/3dllms/melgin/conda/envs/lavis/bin/python3
+Conda env: lavis
+
+NVIDIA L40S, 45468 MiB, 45036 MiB
+
+Processing point clouds 2871 to 2991
+Estimated count: 121
+
+Loading BLIP2 model...
+Model loaded successfully!
+
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 579,299
+  Vertex size: 51 bytes
+
+Processing: ff79b941-b656-41b9-a740-5647b52b2605@SecondBedroom-37702
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ff79b941-b656-41b9-a740-5647b52b2605/SecondBedroom-37702/SecondBedroom-37702.ply
+  Vertices: 579,299
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 579,299
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 55,326
+  Vertex size: 51 bytes
+
+Processing: c38b86ae-e6c5-4a1f-8b52-eceb83456d80@Hallway-59721
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/c38b86ae-e6c5-4a1f-8b52-eceb83456d80/Hallway-59721/Hallway-59721.ply
+  Vertices: 55,326
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 55,326
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 730,919
+  Vertex size: 51 bytes
+
+Processing: ff7b42d9-0e58-4847-8d47-f793a11cd3bd@LivingRoom-84397
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ff7b42d9-0e58-4847-8d47-f793a11cd3bd/LivingRoom-84397/LivingRoom-84397.ply
+  Vertices: 730,919
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 730,919
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 685,443
+  Vertex size: 51 bytes
+
+Processing: ff7b42d9-0e58-4847-8d47-f793a11cd3bd@MasterBedroom-83934
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ff7b42d9-0e58-4847-8d47-f793a11cd3bd/MasterBedroom-83934/MasterBedroom-83934.ply
+  Vertices: 685,443
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 685,443
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 383,450
+  Vertex size: 51 bytes
+
+Processing: ff7b42d9-0e58-4847-8d47-f793a11cd3bd@SecondBedroom-83506
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ff7b42d9-0e58-4847-8d47-f793a11cd3bd/SecondBedroom-83506/SecondBedroom-83506.ply
+  Vertices: 383,450
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 383,450
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 68,790
+  Vertex size: 51 bytes
+
+Processing: ff7ccf2d-0449-4367-aecc-3514af04afdd@Bedroom-11074
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ff7ccf2d-0449-4367-aecc-3514af04afdd/Bedroom-11074/Bedroom-11074.ply
+  Vertices: 68,790
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 68,790
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 378,300
+  Vertex size: 51 bytes
+
+Processing: ff7ccf2d-0449-4367-aecc-3514af04afdd@Bedroom-11127
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ff7ccf2d-0449-4367-aecc-3514af04afdd/Bedroom-11127/Bedroom-11127.ply
+  Vertices: 378,300
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 378,300
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 364,446
+  Vertex size: 51 bytes
+
+Processing: ff7ccf2d-0449-4367-aecc-3514af04afdd@Bedroom-11481
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ff7ccf2d-0449-4367-aecc-3514af04afdd/Bedroom-11481/Bedroom-11481.ply
+  Vertices: 364,446
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 364,446
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,006,003
+  Vertex size: 51 bytes
+
+Processing: ff7ccf2d-0449-4367-aecc-3514af04afdd@LivingRoom-9877
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ff7ccf2d-0449-4367-aecc-3514af04afdd/LivingRoom-9877/LivingRoom-9877.ply
+  Vertices: 1,006,003
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,006,003
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 717,730
+  Vertex size: 51 bytes
+
+Processing: ff7e5b5f-63ad-474e-9a71-95e08f8d0dc0@Bedroom-40191
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ff7e5b5f-63ad-474e-9a71-95e08f8d0dc0/Bedroom-40191/Bedroom-40191.ply
+  Vertices: 717,730
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 717,730
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 883,295
+  Vertex size: 51 bytes
+
+Processing: ff7e5b5f-63ad-474e-9a71-95e08f8d0dc0@LivingDiningRoom-42628
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ff7e5b5f-63ad-474e-9a71-95e08f8d0dc0/LivingDiningRoom-42628/LivingDiningRoom-42628.ply
+  Vertices: 883,295
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 883,295
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,031,187
+  Vertex size: 51 bytes
+
+Processing: ff9c0083-f842-4adb-8278-b7ab67cdcdd8@LivingDiningRoom-61857
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ff9c0083-f842-4adb-8278-b7ab67cdcdd8/LivingDiningRoom-61857/LivingDiningRoom-61857.ply
+  Vertices: 1,031,187
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,031,187
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 727,119
+  Vertex size: 51 bytes
+
+Processing: ff9c0083-f842-4adb-8278-b7ab67cdcdd8@MasterBedroom-62879
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ff9c0083-f842-4adb-8278-b7ab67cdcdd8/MasterBedroom-62879/MasterBedroom-62879.ply
+  Vertices: 727,119
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 727,119
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 398,363
+  Vertex size: 51 bytes
+
+Processing: ff9c0083-f842-4adb-8278-b7ab67cdcdd8@SecondBedroom-62375
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ff9c0083-f842-4adb-8278-b7ab67cdcdd8/SecondBedroom-62375/SecondBedroom-62375.ply
+  Vertices: 398,363
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 398,363
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 503,672
+  Vertex size: 51 bytes
+
+Processing: ffa406e2-6e48-4c38-8072-cffca7b2633b@Bedroom-2753
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffa406e2-6e48-4c38-8072-cffca7b2633b/Bedroom-2753/Bedroom-2753.ply
+  Vertices: 503,672
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 503,672
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 483,380
+  Vertex size: 51 bytes
+
+Processing: ffa406e2-6e48-4c38-8072-cffca7b2633b@Bedroom-3739
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffa406e2-6e48-4c38-8072-cffca7b2633b/Bedroom-3739/Bedroom-3739.ply
+  Vertices: 483,380
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 483,380
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 69,123
+  Vertex size: 51 bytes
+
+Processing: c2e891ec-de52-4ebd-bd91-5720ca647fd9@Hallway-22
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/c2e891ec-de52-4ebd-bd91-5720ca647fd9/Hallway-22/Hallway-22.ply
+  Vertices: 69,123
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 69,123
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 889,891
+  Vertex size: 51 bytes
+
+Processing: ffa406e2-6e48-4c38-8072-cffca7b2633b@LivingDiningRoom-1620
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffa406e2-6e48-4c38-8072-cffca7b2633b/LivingDiningRoom-1620/LivingDiningRoom-1620.ply
+  Vertices: 889,891
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 889,891
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 46,581
+  Vertex size: 51 bytes
+
+Processing: cddfbd9f-6b43-448a-8220-0e4d6b7f9a64@StorageRoom-1975
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/cddfbd9f-6b43-448a-8220-0e4d6b7f9a64/StorageRoom-1975/StorageRoom-1975.ply
+  Vertices: 46,581
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 46,581
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 778,255
+  Vertex size: 51 bytes
+
+Processing: ffab746b-2e40-4bb7-8e69-51bb20f09ce1@Bedroom-10763
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffab746b-2e40-4bb7-8e69-51bb20f09ce1/Bedroom-10763/Bedroom-10763.ply
+  Vertices: 778,255
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 778,255
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,246,274
+  Vertex size: 51 bytes
+
+Processing: ffab746b-2e40-4bb7-8e69-51bb20f09ce1@DiningRoom-26076
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffab746b-2e40-4bb7-8e69-51bb20f09ce1/DiningRoom-26076/DiningRoom-26076.ply
+  Vertices: 1,246,274
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,246,274
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,217,162
+  Vertex size: 51 bytes
+
+Processing: ffab746b-2e40-4bb7-8e69-51bb20f09ce1@LivingRoom-19409
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffab746b-2e40-4bb7-8e69-51bb20f09ce1/LivingRoom-19409/LivingRoom-19409.ply
+  Vertices: 1,217,162
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,217,162
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 296,784
+  Vertex size: 51 bytes
+
+Processing: ffb3d0af-142e-45b8-b6d7-176c4ec255a9@Library-6940
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffb3d0af-142e-45b8-b6d7-176c4ec255a9/Library-6940/Library-6940.ply
+  Vertices: 296,784
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 296,784
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 2,076,650
+  Vertex size: 51 bytes
+
+Processing: ffb3d0af-142e-45b8-b6d7-176c4ec255a9@LivingDiningRoom-3232
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffb3d0af-142e-45b8-b6d7-176c4ec255a9/LivingDiningRoom-3232/LivingDiningRoom-3232.ply
+  Vertices: 2,076,650
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 2,076,650
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 364,715
+  Vertex size: 51 bytes
+
+Processing: ffb3d0af-142e-45b8-b6d7-176c4ec255a9@MasterBedroom-7277
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffb3d0af-142e-45b8-b6d7-176c4ec255a9/MasterBedroom-7277/MasterBedroom-7277.ply
+  Vertices: 364,715
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 364,715
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 315,580
+  Vertex size: 51 bytes
+
+Processing: ffb3d0af-142e-45b8-b6d7-176c4ec255a9@SecondBedroom-6425
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffb3d0af-142e-45b8-b6d7-176c4ec255a9/SecondBedroom-6425/SecondBedroom-6425.ply
+  Vertices: 315,580
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 315,580
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 233,986
+  Vertex size: 51 bytes
+
+Processing: ffb71fcf-a89a-4e88-a1f6-84033d3b2e13@KidsRoom-23215
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffb71fcf-a89a-4e88-a1f6-84033d3b2e13/KidsRoom-23215/KidsRoom-23215.ply
+  Vertices: 233,986
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 233,986
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 171,175
+  Vertex size: 51 bytes
+
+Processing: ffb71fcf-a89a-4e88-a1f6-84033d3b2e13@Library-23026
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffb71fcf-a89a-4e88-a1f6-84033d3b2e13/Library-23026/Library-23026.ply
+  Vertices: 171,175
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 171,175
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,607,255
+  Vertex size: 51 bytes
+
+Processing: ffb71fcf-a89a-4e88-a1f6-84033d3b2e13@LivingDiningRoom-23007
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffb71fcf-a89a-4e88-a1f6-84033d3b2e13/LivingDiningRoom-23007/LivingDiningRoom-23007.ply
+  Vertices: 1,607,255
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,607,255
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 729,521
+  Vertex size: 51 bytes
+
+Processing: ffb71fcf-a89a-4e88-a1f6-84033d3b2e13@MasterBedroom-23240
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffb71fcf-a89a-4e88-a1f6-84033d3b2e13/MasterBedroom-23240/MasterBedroom-23240.ply
+  Vertices: 729,521
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 729,521
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 428,045
+  Vertex size: 51 bytes
+
+Processing: ffb71fcf-a89a-4e88-a1f6-84033d3b2e13@SecondBedroom-23070
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffb71fcf-a89a-4e88-a1f6-84033d3b2e13/SecondBedroom-23070/SecondBedroom-23070.ply
+  Vertices: 428,045
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 428,045
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 257,048
+  Vertex size: 51 bytes
+
+Processing: ffbb5785-e27f-47f4-a4b9-479d74d4815f@KidsRoom-146579
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffbb5785-e27f-47f4-a4b9-479d74d4815f/KidsRoom-146579/KidsRoom-146579.ply
+  Vertices: 257,048
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 257,048
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,413,902
+  Vertex size: 51 bytes
+
+Processing: ffbb5785-e27f-47f4-a4b9-479d74d4815f@LivingDiningRoom-4585
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffbb5785-e27f-47f4-a4b9-479d74d4815f/LivingDiningRoom-4585/LivingDiningRoom-4585.ply
+  Vertices: 1,413,902
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,413,902
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 811,630
+  Vertex size: 51 bytes
+
+Processing: ffbb5785-e27f-47f4-a4b9-479d74d4815f@MasterBedroom-37895
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffbb5785-e27f-47f4-a4b9-479d74d4815f/MasterBedroom-37895/MasterBedroom-37895.ply
+  Vertices: 811,630
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 811,630
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 355,643
+  Vertex size: 51 bytes
+
+Processing: ffbb5785-e27f-47f4-a4b9-479d74d4815f@SecondBedroom-90886
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffbb5785-e27f-47f4-a4b9-479d74d4815f/SecondBedroom-90886/SecondBedroom-90886.ply
+  Vertices: 355,643
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 355,643
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,434,189
+  Vertex size: 51 bytes
+
+Processing: ffc7ddf1-827b-4154-9eee-5f8b497d0a12@Bedroom-5037
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffc7ddf1-827b-4154-9eee-5f8b497d0a12/Bedroom-5037/Bedroom-5037.ply
+  Vertices: 1,434,189
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,434,189
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 541,788
+  Vertex size: 51 bytes
+
+Processing: ffc7ddf1-827b-4154-9eee-5f8b497d0a12@Bedroom-860
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffc7ddf1-827b-4154-9eee-5f8b497d0a12/Bedroom-860/Bedroom-860.ply
+  Vertices: 541,788
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 541,788
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 586,739
+  Vertex size: 51 bytes
+
+Processing: ffc7ddf1-827b-4154-9eee-5f8b497d0a12@Bedroom-871
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffc7ddf1-827b-4154-9eee-5f8b497d0a12/Bedroom-871/Bedroom-871.ply
+  Vertices: 586,739
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 586,739
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 378,697
+  Vertex size: 51 bytes
+
+Processing: ffd38d23-f910-44db-a3ec-7347ecc1f185@Bedroom-15398
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffd38d23-f910-44db-a3ec-7347ecc1f185/Bedroom-15398/Bedroom-15398.ply
+  Vertices: 378,697
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 378,697
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 477,776
+  Vertex size: 51 bytes
+
+Processing: ffd38d23-f910-44db-a3ec-7347ecc1f185@Bedroom-16443
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffd38d23-f910-44db-a3ec-7347ecc1f185/Bedroom-16443/Bedroom-16443.ply
+  Vertices: 477,776
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 477,776
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 963,008
+  Vertex size: 51 bytes
+
+Processing: ffd38d23-f910-44db-a3ec-7347ecc1f185@LivingDiningRoom-15745
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffd38d23-f910-44db-a3ec-7347ecc1f185/LivingDiningRoom-15745/LivingDiningRoom-15745.ply
+  Vertices: 963,008
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 963,008
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 441,712
+  Vertex size: 51 bytes
+
+Processing: ffd98024-7200-429e-8b9a-1234a5937826@LivingRoom-360
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffd98024-7200-429e-8b9a-1234a5937826/LivingRoom-360/LivingRoom-360.ply
+  Vertices: 441,712
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 441,712
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 408,001
+  Vertex size: 51 bytes
+
+Processing: ffd98024-7200-429e-8b9a-1234a5937826@MasterBedroom-118
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffd98024-7200-429e-8b9a-1234a5937826/MasterBedroom-118/MasterBedroom-118.ply
+  Vertices: 408,001
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 408,001
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 433,203
+  Vertex size: 51 bytes
+
+Processing: ffe76c93-7b20-424a-8d58-a4fa7c81d4e8@MasterBedroom-47915
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffe76c93-7b20-424a-8d58-a4fa7c81d4e8/MasterBedroom-47915/MasterBedroom-47915.ply
+  Vertices: 433,203
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 433,203
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 53,772
+  Vertex size: 51 bytes
+
+Processing: ffe76c93-7b20-424a-8d58-a4fa7c81d4e8@SecondBedroom-47824
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffe76c93-7b20-424a-8d58-a4fa7c81d4e8/SecondBedroom-47824/SecondBedroom-47824.ply
+  Vertices: 53,772
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 53,772
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,810,488
+  Vertex size: 51 bytes
+
+Processing: ffed9e6c-5e6d-49aa-ba90-83927369ff47@LivingRoom-1184
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffed9e6c-5e6d-49aa-ba90-83927369ff47/LivingRoom-1184/LivingRoom-1184.ply
+  Vertices: 1,810,488
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,810,488
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 537,143
+  Vertex size: 51 bytes
+
+Processing: ffed9e6c-5e6d-49aa-ba90-83927369ff47@MasterBedroom-2598
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ffed9e6c-5e6d-49aa-ba90-83927369ff47/MasterBedroom-2598/MasterBedroom-2598.ply
+  Vertices: 537,143
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 537,143
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 78,089
+  Vertex size: 51 bytes
+
+Processing: 4f847ca8-17e6-4256-9737-9fd7befeebf3@Courtyard-372
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/4f847ca8-17e6-4256-9737-9fd7befeebf3/Courtyard-372/Courtyard-372.ply
+  Vertices: 78,089
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 78,089
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 35,165
+  Vertex size: 51 bytes
+
+Processing: 00add26c-7a26-4a61-b192-b97aa493b3f3@CloakRoom-73041
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/00add26c-7a26-4a61-b192-b97aa493b3f3/CloakRoom-73041/CloakRoom-73041.ply
+  Vertices: 35,165
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 35,165
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 59,273
+  Vertex size: 51 bytes
+
+Processing: 0251ca05-b1cb-42ed-85b3-9cbc724ac967@CloakRoom-3591
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0251ca05-b1cb-42ed-85b3-9cbc724ac967/CloakRoom-3591/CloakRoom-3591.ply
+  Vertices: 59,273
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 59,273
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 57,123
+  Vertex size: 51 bytes
+
+Processing: c5cb9f35-ecb4-4761-ba65-f0e5b10bd40d@CloakRoom-18782
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/c5cb9f35-ecb4-4761-ba65-f0e5b10bd40d/CloakRoom-18782/CloakRoom-18782.ply
+  Vertices: 57,123
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 57,123
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 837,447
+  Vertex size: 51 bytes
+
+Processing: 00593e46-062e-4bdd-8ee9-1043387c40f4@Corridor-91792
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/00593e46-062e-4bdd-8ee9-1043387c40f4/Corridor-91792/Corridor-91792.ply
+  Vertices: 837,447
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 837,447
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,119,877
+  Vertex size: 51 bytes
+
+Processing: 007c0c17-cd85-400a-bdf0-80f0e1eefe2d@Corridor-52564
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/007c0c17-cd85-400a-bdf0-80f0e1eefe2d/Corridor-52564/Corridor-52564.ply
+  Vertices: 1,119,877
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,119,877
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 892,592
+  Vertex size: 51 bytes
+
+Processing: 002c110c-9bbc-4ab4-affa-4225fb127bad@DiningRoom-1962
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/002c110c-9bbc-4ab4-affa-4225fb127bad/DiningRoom-1962/DiningRoom-1962.ply
+  Vertices: 892,592
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 892,592
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 555,262
+  Vertex size: 51 bytes
+
+Processing: 002c110c-9bbc-4ab4-affa-4225fb127bad@DiningRoom-4603
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/002c110c-9bbc-4ab4-affa-4225fb127bad/DiningRoom-4603/DiningRoom-4603.ply
+  Vertices: 555,262
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 555,262
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 634,254
+  Vertex size: 51 bytes
+
+Processing: 0054adcb-f48f-4d52-b198-321fd078caa4@DiningRoom-4167
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0054adcb-f48f-4d52-b198-321fd078caa4/DiningRoom-4167/DiningRoom-4167.ply
+  Vertices: 634,254
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 634,254
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 958,522
+  Vertex size: 51 bytes
+
+Processing: 00593e46-062e-4bdd-8ee9-1043387c40f4@DiningRoom-8344
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/00593e46-062e-4bdd-8ee9-1043387c40f4/DiningRoom-8344/DiningRoom-8344.ply
+  Vertices: 958,522
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 958,522
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 253,380
+  Vertex size: 51 bytes
+
+Processing: 013d6a38-6fa2-4e16-9903-53921f86114a@DiningRoom-9584
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/013d6a38-6fa2-4e16-9903-53921f86114a/DiningRoom-9584/DiningRoom-9584.ply
+  Vertices: 253,380
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 253,380
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 138,074
+  Vertex size: 51 bytes
+
+Processing: 00110bde-f580-40be-b8bb-88715b338a2a@Hallway-44736
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/00110bde-f580-40be-b8bb-88715b338a2a/Hallway-44736/Hallway-44736.ply
+  Vertices: 138,074
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 138,074
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 66,415
+  Vertex size: 51 bytes
+
+Processing: ff7b42d9-0e58-4847-8d47-f793a11cd3bd@Hallway-83453
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ff7b42d9-0e58-4847-8d47-f793a11cd3bd/Hallway-83453/Hallway-83453.ply
+  Vertices: 66,415
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 66,415
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 116,436
+  Vertex size: 51 bytes
+
+Processing: 0156308f-fe4e-4916-90c3-9f498c0d9e9c@Hallway-31667
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0156308f-fe4e-4916-90c3-9f498c0d9e9c/Hallway-31667/Hallway-31667.ply
+  Vertices: 116,436
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 116,436
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 62,747
+  Vertex size: 51 bytes
+
+Processing: 0032b185-4914-49e5-b973-f82271674308@Hallway-11141
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0032b185-4914-49e5-b973-f82271674308/Hallway-11141/Hallway-11141.ply
+  Vertices: 62,747
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 62,747
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 129,076
+  Vertex size: 51 bytes
+
+Processing: 02861dfe-ed53-41f1-b554-b02d0c170c61@Hallway-1735
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/02861dfe-ed53-41f1-b554-b02d0c170c61/Hallway-1735/Hallway-1735.ply
+  Vertices: 129,076
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 129,076
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 62,284
+  Vertex size: 51 bytes
+
+Processing: 1136e109-8178-49f5-bc62-e6bd7e796814@Hallway-15919
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/1136e109-8178-49f5-bc62-e6bd7e796814/Hallway-15919/Hallway-15919.ply
+  Vertices: 62,284
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 62,284
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 105,259
+  Vertex size: 51 bytes
+
+Processing: 08610799-581a-46ef-82cf-2b629e762a43@Hallway-28226
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/08610799-581a-46ef-82cf-2b629e762a43/Hallway-28226/Hallway-28226.ply
+  Vertices: 105,259
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 105,259
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 152,205
+  Vertex size: 51 bytes
+
+Processing: 0a8d471a-2587-458a-9214-586e003e9cf9@Hallway-1213
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0a8d471a-2587-458a-9214-586e003e9cf9/Hallway-1213/Hallway-1213.ply
+  Vertices: 152,205
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 152,205
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 144,196
+  Vertex size: 51 bytes
+
+Processing: 0d7cae78-0807-4924-ad3e-a9e6dbc54a96@Hallway-431
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0d7cae78-0807-4924-ad3e-a9e6dbc54a96/Hallway-431/Hallway-431.ply
+  Vertices: 144,196
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 144,196
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 59,199
+  Vertex size: 51 bytes
+
+Processing: 24dda742-a73b-48ec-af54-f30e11a17e55@Hallway-623
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/24dda742-a73b-48ec-af54-f30e11a17e55/Hallway-623/Hallway-623.ply
+  Vertices: 59,199
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 59,199
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 2,793
+  Vertex size: 51 bytes
+
+Processing: 022b94eb-7d48-4312-af06-d05a7cbd5c64@KidsRoom-13080
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/022b94eb-7d48-4312-af06-d05a7cbd5c64/KidsRoom-13080/KidsRoom-13080.ply
+  Vertices: 2,793
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 2,793
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 421,328
+  Vertex size: 51 bytes
+
+Processing: 02623967-e0d7-4775-888e-6441b23a96ff@KidsRoom-12633
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/02623967-e0d7-4775-888e-6441b23a96ff/KidsRoom-12633/KidsRoom-12633.ply
+  Vertices: 421,328
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 421,328
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 514,887
+  Vertex size: 51 bytes
+
+Processing: 0345b9e5-f723-41d6-8986-abbfba0a3997@KidsRoom-2003
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0345b9e5-f723-41d6-8986-abbfba0a3997/KidsRoom-2003/KidsRoom-2003.ply
+  Vertices: 514,887
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 514,887
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 345,992
+  Vertex size: 51 bytes
+
+Processing: 035b4959-8c9a-4dcb-94c1-e2b2ad7c88b5@KidsRoom-10734
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/035b4959-8c9a-4dcb-94c1-e2b2ad7c88b5/KidsRoom-10734/KidsRoom-10734.ply
+  Vertices: 345,992
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 345,992
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 268,272
+  Vertex size: 51 bytes
+
+Processing: 03c2d51d-7295-4cf4-bf65-84133ff97199@KidsRoom-20620
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/03c2d51d-7295-4cf4-bf65-84133ff97199/KidsRoom-20620/KidsRoom-20620.ply
+  Vertices: 268,272
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 268,272
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 447,047
+  Vertex size: 51 bytes
+
+Processing: 058bec6f-bbc7-45ce-b5a1-177aea63be4f@KidsRoom-10225
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/058bec6f-bbc7-45ce-b5a1-177aea63be4f/KidsRoom-10225/KidsRoom-10225.ply
+  Vertices: 447,047
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 447,047
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 471,580
+  Vertex size: 51 bytes
+
+Processing: 058bec6f-bbc7-45ce-b5a1-177aea63be4f@KidsRoom-21240
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/058bec6f-bbc7-45ce-b5a1-177aea63be4f/KidsRoom-21240/KidsRoom-21240.ply
+  Vertices: 471,580
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 471,580
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 369,881
+  Vertex size: 51 bytes
+
+Processing: 05aa0174-838c-4255-a34d-1b419365f7a7@KidsRoom-5321
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/05aa0174-838c-4255-a34d-1b419365f7a7/KidsRoom-5321/KidsRoom-5321.ply
+  Vertices: 369,881
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 369,881
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 188,905
+  Vertex size: 51 bytes
+
+Processing: 05e81650-80c7-49d2-bc89-5c41c775ecd8@KidsRoom-20620
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/05e81650-80c7-49d2-bc89-5c41c775ecd8/KidsRoom-20620/KidsRoom-20620.ply
+  Vertices: 188,905
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 188,905
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 508,623
+  Vertex size: 51 bytes
+
+Processing: 064f1b33-9354-41b4-b22c-71a583c5a6ad@KidsRoom-10792
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/064f1b33-9354-41b4-b22c-71a583c5a6ad/KidsRoom-10792/KidsRoom-10792.ply
+  Vertices: 508,623
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 508,623
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 362,463
+  Vertex size: 51 bytes
+
+Processing: 069c71a1-a02a-4c6c-8e46-8dd66ab4ed5f@KidsRoom-4440
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/069c71a1-a02a-4c6c-8e46-8dd66ab4ed5f/KidsRoom-4440/KidsRoom-4440.ply
+  Vertices: 362,463
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 362,463
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,059,016
+  Vertex size: 51 bytes
+
+Processing: c42fe84c-5751-40de-8d77-527a49038a1a@KidsRoom-9242
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/c42fe84c-5751-40de-8d77-527a49038a1a/KidsRoom-9242/KidsRoom-9242.ply
+  Vertices: 1,059,016
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,059,016
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 579,467
+  Vertex size: 51 bytes
+
+Processing: 079a7b7d-cb1d-4508-8d06-e29b9153600f@KidsRoom-7669
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/079a7b7d-cb1d-4508-8d06-e29b9153600f/KidsRoom-7669/KidsRoom-7669.ply
+  Vertices: 579,467
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 579,467
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 445,904
+  Vertex size: 51 bytes
+
+Processing: 07b6683b-e9bf-4251-a6a2-5d1390e2eec5@KidsRoom-11048
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/07b6683b-e9bf-4251-a6a2-5d1390e2eec5/KidsRoom-11048/KidsRoom-11048.ply
+  Vertices: 445,904
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 445,904
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 368,393
+  Vertex size: 51 bytes
+
+Processing: 082c278d-5696-4a40-8fe0-36df9003db39@KidsRoom-26481
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/082c278d-5696-4a40-8fe0-36df9003db39/KidsRoom-26481/KidsRoom-26481.ply
+  Vertices: 368,393
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 368,393
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 457,576
+  Vertex size: 51 bytes
+
+Processing: 08f49426-b0e1-4524-b1e3-d004b2523a39@KidsRoom-8423
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/08f49426-b0e1-4524-b1e3-d004b2523a39/KidsRoom-8423/KidsRoom-8423.ply
+  Vertices: 457,576
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 457,576
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 408,521
+  Vertex size: 51 bytes
+
+Processing: 09909663-6896-4cb8-993e-4417342d8d44@KidsRoom-14188
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/09909663-6896-4cb8-993e-4417342d8d44/KidsRoom-14188/KidsRoom-14188.ply
+  Vertices: 408,521
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 408,521
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 569,203
+  Vertex size: 51 bytes
+
+Processing: 09c955e0-72db-4df5-99f5-0632d9658f7b@KidsRoom-8027
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/09c955e0-72db-4df5-99f5-0632d9658f7b/KidsRoom-8027/KidsRoom-8027.ply
+  Vertices: 569,203
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 569,203
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 492,187
+  Vertex size: 51 bytes
+
+Processing: 0a504b9a-c406-4b37-bc9a-a82d720e9905@KidsRoom-85125
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0a504b9a-c406-4b37-bc9a-a82d720e9905/KidsRoom-85125/KidsRoom-85125.ply
+  Vertices: 492,187
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 492,187
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 580,453
+  Vertex size: 51 bytes
+
+Processing: 0a761819-05d1-4647-889b-a726747201b1@KidsRoom-8027
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0a761819-05d1-4647-889b-a726747201b1/KidsRoom-8027/KidsRoom-8027.ply
+  Vertices: 580,453
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 580,453
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 413,372
+  Vertex size: 51 bytes
+
+Processing: 0aad3aa3-ec12-49a0-b7cf-548d42b0b12b@KidsRoom-97519
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0aad3aa3-ec12-49a0-b7cf-548d42b0b12b/KidsRoom-97519/KidsRoom-97519.ply
+  Vertices: 413,372
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 413,372
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 513,152
+  Vertex size: 51 bytes
+
+Processing: 0ad5052c-bae4-41ed-ae58-e82c4ab63d6e@KidsRoom-53731
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0ad5052c-bae4-41ed-ae58-e82c4ab63d6e/KidsRoom-53731/KidsRoom-53731.ply
+  Vertices: 513,152
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 513,152
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 291,847
+  Vertex size: 51 bytes
+
+Processing: 00004f89-9aa5-43c2-ae3c-129586be8aaa@Library-4425
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/00004f89-9aa5-43c2-ae3c-129586be8aaa/Library-4425/Library-4425.ply
+  Vertices: 291,847
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 291,847
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 122,076
+  Vertex size: 51 bytes
+
+Processing: 0023b7d1-1439-4e5c-9c7b-c34f155ee856@Library-4425
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0023b7d1-1439-4e5c-9c7b-c34f155ee856/Library-4425/Library-4425.ply
+  Vertices: 122,076
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 122,076
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 389,737
+  Vertex size: 51 bytes
+
+Processing: 002c110c-9bbc-4ab4-affa-4225fb127bad@Library-6794
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/002c110c-9bbc-4ab4-affa-4225fb127bad/Library-6794/Library-6794.ply
+  Vertices: 389,737
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 389,737
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,175,000
+  Vertex size: 51 bytes
+
+Processing: 00004f89-9aa5-43c2-ae3c-129586be8aaa@LivingDiningRoom-3474
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/00004f89-9aa5-43c2-ae3c-129586be8aaa/LivingDiningRoom-3474/LivingDiningRoom-3474.ply
+  Vertices: 1,175,000
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,175,000
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 867,986
+  Vertex size: 51 bytes
+
+Processing: 00110bde-f580-40be-b8bb-88715b338a2a@LivingDiningRoom-44785
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/00110bde-f580-40be-b8bb-88715b338a2a/LivingDiningRoom-44785/LivingDiningRoom-44785.ply
+  Vertices: 867,986
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 867,986
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,154,499
+  Vertex size: 51 bytes
+
+Processing: 0023b7d1-1439-4e5c-9c7b-c34f155ee856@LivingDiningRoom-3474
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0023b7d1-1439-4e5c-9c7b-c34f155ee856/LivingDiningRoom-3474/LivingDiningRoom-3474.ply
+  Vertices: 1,154,499
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,154,499
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,262,376
+  Vertex size: 51 bytes
+
+Processing: 00321452-517d-431b-a21b-f52750684910@LivingDiningRoom-2042
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/00321452-517d-431b-a21b-f52750684910/LivingDiningRoom-2042/LivingDiningRoom-2042.ply
+  Vertices: 1,262,376
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,262,376
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,454,072
+  Vertex size: 51 bytes
+
+Processing: 0032b185-4914-49e5-b973-f82271674308@LivingDiningRoom-13661
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0032b185-4914-49e5-b973-f82271674308/LivingDiningRoom-13661/LivingDiningRoom-13661.ply
+  Vertices: 1,454,072
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,454,072
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,062,924
+  Vertex size: 51 bytes
+
+Processing: 0047c3ab-951b-4182-9082-b9fbf099c142@LivingDiningRoom-2065
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0047c3ab-951b-4182-9082-b9fbf099c142/LivingDiningRoom-2065/LivingDiningRoom-2065.ply
+  Vertices: 1,062,924
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,062,924
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 365,164
+  Vertex size: 51 bytes
+
+Processing: 1e7966ed-1b5b-426b-aaef-395475df7dcd@Lounge-151477
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/1e7966ed-1b5b-426b-aaef-395475df7dcd/Lounge-151477/Lounge-151477.ply
+  Vertices: 365,164
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 365,164
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 344,168
+  Vertex size: 51 bytes
+
+Processing: 4c1ba4df-e772-4f76-bd59-5d293258e17c@Lounge-1214
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/4c1ba4df-e772-4f76-bd59-5d293258e17c/Lounge-1214/Lounge-1214.ply
+  Vertices: 344,168
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 344,168
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 556,656
+  Vertex size: 51 bytes
+
+Processing: 00004f89-9aa5-43c2-ae3c-129586be8aaa@MasterBedroom-5863
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/00004f89-9aa5-43c2-ae3c-129586be8aaa/MasterBedroom-5863/MasterBedroom-5863.ply
+  Vertices: 556,656
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 556,656
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 607,446
+  Vertex size: 51 bytes
+
+Processing: 0023b7d1-1439-4e5c-9c7b-c34f155ee856@MasterBedroom-5863
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0023b7d1-1439-4e5c-9c7b-c34f155ee856/MasterBedroom-5863/MasterBedroom-5863.ply
+  Vertices: 607,446
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 607,446
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 390,223
+  Vertex size: 51 bytes
+
+Processing: 00321452-517d-431b-a21b-f52750684910@MasterBedroom-7594
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/00321452-517d-431b-a21b-f52750684910/MasterBedroom-7594/MasterBedroom-7594.ply
+  Vertices: 390,223
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 390,223
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 321,097
+  Vertex size: 51 bytes
+
+Processing: 8dec502a-ccae-43f3-ac25-e0dd6aca503c@NannyRoom-126893
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/8dec502a-ccae-43f3-ac25-e0dd6aca503c/NannyRoom-126893/NannyRoom-126893.ply
+  Vertices: 321,097
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 321,097
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 526,202
+  Vertex size: 51 bytes
+
+Processing: 002c110c-9bbc-4ab4-affa-4225fb127bad@OtherRoom-11728
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/002c110c-9bbc-4ab4-affa-4225fb127bad/OtherRoom-11728/OtherRoom-11728.ply
+  Vertices: 526,202
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 526,202
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 618,417
+  Vertex size: 51 bytes
+
+Processing: c6a61c69-bfb2-4bcb-997c-e3a537cc2033@OtherRoom-12927
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/c6a61c69-bfb2-4bcb-997c-e3a537cc2033/OtherRoom-12927/OtherRoom-12927.ply
+  Vertices: 618,417
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 618,417
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 433,294
+  Vertex size: 51 bytes
+
+Processing: 002c110c-9bbc-4ab4-affa-4225fb127bad@OtherRoom-13622
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/002c110c-9bbc-4ab4-affa-4225fb127bad/OtherRoom-13622/OtherRoom-13622.ply
+  Vertices: 433,294
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 433,294
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 374,085
+  Vertex size: 51 bytes
+
+Processing: 00004f89-9aa5-43c2-ae3c-129586be8aaa@SecondBedroom-7177
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/00004f89-9aa5-43c2-ae3c-129586be8aaa/SecondBedroom-7177/SecondBedroom-7177.ply
+  Vertices: 374,085
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 374,085
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 17,760
+  Vertex size: 51 bytes
+
+Processing: 00321452-517d-431b-a21b-f52750684910@SecondBedroom-6353
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/00321452-517d-431b-a21b-f52750684910/SecondBedroom-6353/SecondBedroom-6353.ply
+  Vertices: 17,760
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 17,760
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 421,845
+  Vertex size: 51 bytes
+
+Processing: 0032b185-4914-49e5-b973-f82271674308@SecondBedroom-12951
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0032b185-4914-49e5-b973-f82271674308/SecondBedroom-12951/SecondBedroom-12951.ply
+  Vertices: 421,845
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 421,845
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 270,987
+  Vertex size: 51 bytes
+
+Processing: 0047c3ab-951b-4182-9082-b9fbf099c142@SecondBedroom-201
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0047c3ab-951b-4182-9082-b9fbf099c142/SecondBedroom-201/SecondBedroom-201.ply
+  Vertices: 270,987
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 270,987
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 481,254
+  Vertex size: 51 bytes
+
+Processing: 004f900c-468a-4f70-83cc-aa2c98875264@SecondBedroom-27399
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/004f900c-468a-4f70-83cc-aa2c98875264/SecondBedroom-27399/SecondBedroom-27399.ply
+  Vertices: 481,254
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 481,254
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 340,184
+  Vertex size: 51 bytes
+
+Processing: 008f0372-b7d0-485f-8d3e-f686dcb68d4f@SecondBedroom-608
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/008f0372-b7d0-485f-8d3e-f686dcb68d4f/SecondBedroom-608/SecondBedroom-608.ply
+  Vertices: 340,184
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 340,184
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 468,300
+  Vertex size: 51 bytes
+
+Processing: 00ecd5d3-d369-459f-8300-38fc159823dc@SecondBedroom-6249
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/00ecd5d3-d369-459f-8300-38fc159823dc/SecondBedroom-6249/SecondBedroom-6249.ply
+  Vertices: 468,300
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 468,300
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 272,402
+  Vertex size: 51 bytes
+
+Processing: 011da194-aa84-4a98-bf9a-afd18357819a@SecondBedroom-373
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/011da194-aa84-4a98-bf9a-afd18357819a/SecondBedroom-373/SecondBedroom-373.ply
+  Vertices: 272,402
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 272,402
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 470,991
+  Vertex size: 51 bytes
+
+Processing: 015c0c73-e5fd-447d-9919-acf4786db46a@SecondBedroom-3516
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/015c0c73-e5fd-447d-9919-acf4786db46a/SecondBedroom-3516/SecondBedroom-3516.ply
+  Vertices: 470,991
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 470,991
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 346,518
+  Vertex size: 51 bytes
+
+Processing: 016e8e9e-143b-4f12-9679-3ca930a1b6d6@SecondBedroom-39284
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/016e8e9e-143b-4f12-9679-3ca930a1b6d6/SecondBedroom-39284/SecondBedroom-39284.ply
+  Vertices: 346,518
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 346,518
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 358,379
+  Vertex size: 51 bytes
+
+Processing: 01fbfc1f-5b13-4a72-a15e-eae0ff56de69@SecondBedroom-43096
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/01fbfc1f-5b13-4a72-a15e-eae0ff56de69/SecondBedroom-43096/SecondBedroom-43096.ply
+  Vertices: 358,379
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 358,379
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 113,532
+  Vertex size: 51 bytes
+
+Processing: 022b94eb-7d48-4312-af06-d05a7cbd5c64@SecondBedroom-13789
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/022b94eb-7d48-4312-af06-d05a7cbd5c64/SecondBedroom-13789/SecondBedroom-13789.ply
+  Vertices: 113,532
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 113,532
+  Vertex size: 51 bytes
+  ✓ Success
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 40,170
+  Vertex size: 51 bytes
+
+Processing: 023fcd68-dd38-420c-a518-87e82b80ac1e@SecondBedroom-86351
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/023fcd68-dd38-420c-a518-87e82b80ac1e/SecondBedroom-86351/SecondBedroom-86351.ply
+  Vertices: 40,170
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 40,170
+  Vertex size: 51 bytes
+  ✓ Success
+
+======================================================================
+SUMMARY
+======================================================================
+Successful: 121/121
+Failed:     0/121
+Output dir: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed
+
+End time: Wed Oct  8 16:59:41 MDT 2025
+======================================================================
+
+End time: Wed Oct  8 16:59:42 MDT 2025
+==========================================

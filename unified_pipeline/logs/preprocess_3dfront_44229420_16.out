@@ -1,0 +1,1137 @@
+==========================================
+3D-FRONT Preprocessing - Array Job 16
+==========================================
+Job ID: 44229437
+Array Task ID: 16
+Node: mbl40s-007
+Start time: Wed Oct  8 16:36:16 MDT 2025
+
+Python: /project/3dllms/melgin/conda/envs/lavis/bin/python
+Conda env: lavis
+
+NVIDIA L40S, 46068 MiB, 45469 MiB
+
+Processing point clouds 1584 to 1682
+Estimated count: 99
+
+======================================================================
+3D-FRONT Preprocessing - Array Job 16
+======================================================================
+Job ID: 44229437
+Array Task ID: 16
+Node: mbl40s-007
+Start time: Wed Oct  8 16:36:41 MDT 2025
+
+Python: /project/3dllms/melgin/conda/envs/lavis/bin/python3
+Conda env: lavis
+
+NVIDIA L40S, 45468 MiB, 45036 MiB
+
+Processing point clouds 1584 to 1682
+Estimated count: 99
+
+Loading BLIP2 model...
+Model loaded successfully!
+
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 436,614
+  Vertex size: 51 bytes
+
+Processing: e2ca3b88-0619-4841-81f7-6dd37d684149@Bedroom-34030
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e2ca3b88-0619-4841-81f7-6dd37d684149/Bedroom-34030/Bedroom-34030.ply
+  Vertices: 436,614
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 436,614
+  Vertex size: 51 bytes
+  ✗ Error processing e2ca3b88-0619-4841-81f7-6dd37d684149@Bedroom-34030: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 989,330
+  Vertex size: 51 bytes
+
+Processing: e2ca3b88-0619-4841-81f7-6dd37d684149@LivingDiningRoom-36523
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e2ca3b88-0619-4841-81f7-6dd37d684149/LivingDiningRoom-36523/LivingDiningRoom-36523.ply
+  Vertices: 989,330
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 989,330
+  Vertex size: 51 bytes
+  ✗ Error processing e2ca3b88-0619-4841-81f7-6dd37d684149@LivingDiningRoom-36523: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 302,392
+  Vertex size: 51 bytes
+
+Processing: e2e4ae10-9cef-4fe2-987b-4cdf0b38c289@Bedroom-1541
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e2e4ae10-9cef-4fe2-987b-4cdf0b38c289/Bedroom-1541/Bedroom-1541.ply
+  Vertices: 302,392
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 302,392
+  Vertex size: 51 bytes
+  ✗ Error processing e2e4ae10-9cef-4fe2-987b-4cdf0b38c289@Bedroom-1541: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,063,533
+  Vertex size: 51 bytes
+
+Processing: e2e4ae10-9cef-4fe2-987b-4cdf0b38c289@LivingRoom-513
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e2e4ae10-9cef-4fe2-987b-4cdf0b38c289/LivingRoom-513/LivingRoom-513.ply
+  Vertices: 1,063,533
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,063,533
+  Vertex size: 51 bytes
+  ✗ Error processing e2e4ae10-9cef-4fe2-987b-4cdf0b38c289@LivingRoom-513: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 552,303
+  Vertex size: 51 bytes
+
+Processing: e2e4ae10-9cef-4fe2-987b-4cdf0b38c289@MasterBedroom-2689
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e2e4ae10-9cef-4fe2-987b-4cdf0b38c289/MasterBedroom-2689/MasterBedroom-2689.ply
+  Vertices: 552,303
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 552,303
+  Vertex size: 51 bytes
+  ✗ Error processing e2e4ae10-9cef-4fe2-987b-4cdf0b38c289@MasterBedroom-2689: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 601,509
+  Vertex size: 51 bytes
+
+Processing: e2e54170-715a-4bac-a2aa-5af903bf7d25@MasterBedroom-6040
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e2e54170-715a-4bac-a2aa-5af903bf7d25/MasterBedroom-6040/MasterBedroom-6040.ply
+  Vertices: 601,509
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 601,509
+  Vertex size: 51 bytes
+  ✗ Error processing e2e54170-715a-4bac-a2aa-5af903bf7d25@MasterBedroom-6040: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,019,017
+  Vertex size: 51 bytes
+
+Processing: e2e54170-715a-4bac-a2aa-5af903bf7d25@OtherRoom-21869
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e2e54170-715a-4bac-a2aa-5af903bf7d25/OtherRoom-21869/OtherRoom-21869.ply
+  Vertices: 1,019,017
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,019,017
+  Vertex size: 51 bytes
+  ✗ Error processing e2e54170-715a-4bac-a2aa-5af903bf7d25@OtherRoom-21869: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 101,243
+  Vertex size: 51 bytes
+
+Processing: e2e54170-715a-4bac-a2aa-5af903bf7d25@SecondBedroom-4970
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e2e54170-715a-4bac-a2aa-5af903bf7d25/SecondBedroom-4970/SecondBedroom-4970.ply
+  Vertices: 101,243
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 101,243
+  Vertex size: 51 bytes
+  ✗ Error processing e2e54170-715a-4bac-a2aa-5af903bf7d25@SecondBedroom-4970: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,377,851
+  Vertex size: 51 bytes
+
+Processing: e2f3aa79-e130-445e-8773-b697ab77d9b8@LivingDiningRoom-46873
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e2f3aa79-e130-445e-8773-b697ab77d9b8/LivingDiningRoom-46873/LivingDiningRoom-46873.ply
+  Vertices: 1,377,851
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,377,851
+  Vertex size: 51 bytes
+  ✗ Error processing e2f3aa79-e130-445e-8773-b697ab77d9b8@LivingDiningRoom-46873: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 487,824
+  Vertex size: 51 bytes
+
+Processing: e2f3aa79-e130-445e-8773-b697ab77d9b8@MasterBedroom-45873
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e2f3aa79-e130-445e-8773-b697ab77d9b8/MasterBedroom-45873/MasterBedroom-45873.ply
+  Vertices: 487,824
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 487,824
+  Vertex size: 51 bytes
+  ✗ Error processing e2f3aa79-e130-445e-8773-b697ab77d9b8@MasterBedroom-45873: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 294,020
+  Vertex size: 51 bytes
+
+Processing: e2f3aa79-e130-445e-8773-b697ab77d9b8@SecondBedroom-3960
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e2f3aa79-e130-445e-8773-b697ab77d9b8/SecondBedroom-3960/SecondBedroom-3960.ply
+  Vertices: 294,020
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 294,020
+  Vertex size: 51 bytes
+  ✗ Error processing e2f3aa79-e130-445e-8773-b697ab77d9b8@SecondBedroom-3960: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,086,974
+  Vertex size: 51 bytes
+
+Processing: e2fc2df1-c777-4e4f-99c4-14465ac8c398@LivingDiningRoom-5328
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e2fc2df1-c777-4e4f-99c4-14465ac8c398/LivingDiningRoom-5328/LivingDiningRoom-5328.ply
+  Vertices: 1,086,974
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,086,974
+  Vertex size: 51 bytes
+  ✗ Error processing e2fc2df1-c777-4e4f-99c4-14465ac8c398@LivingDiningRoom-5328: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 742,299
+  Vertex size: 51 bytes
+
+Processing: e2fc2df1-c777-4e4f-99c4-14465ac8c398@MasterBedroom-1719
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e2fc2df1-c777-4e4f-99c4-14465ac8c398/MasterBedroom-1719/MasterBedroom-1719.ply
+  Vertices: 742,299
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 742,299
+  Vertex size: 51 bytes
+  ✗ Error processing e2fc2df1-c777-4e4f-99c4-14465ac8c398@MasterBedroom-1719: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 486,524
+  Vertex size: 51 bytes
+
+Processing: e3080420-c235-480d-8122-9ba120001e5e@Bedroom-11565
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3080420-c235-480d-8122-9ba120001e5e/Bedroom-11565/Bedroom-11565.ply
+  Vertices: 486,524
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 486,524
+  Vertex size: 51 bytes
+  ✗ Error processing e3080420-c235-480d-8122-9ba120001e5e@Bedroom-11565: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 646,730
+  Vertex size: 51 bytes
+
+Processing: e3080420-c235-480d-8122-9ba120001e5e@Bedroom-7331
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3080420-c235-480d-8122-9ba120001e5e/Bedroom-7331/Bedroom-7331.ply
+  Vertices: 646,730
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 646,730
+  Vertex size: 51 bytes
+  ✗ Error processing e3080420-c235-480d-8122-9ba120001e5e@Bedroom-7331: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 509,313
+  Vertex size: 51 bytes
+
+Processing: 0a9c667d-033d-448c-b17c-dc55e6d3c386@DiningRoom-11628
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/0a9c667d-033d-448c-b17c-dc55e6d3c386/DiningRoom-11628/DiningRoom-11628.ply
+  Vertices: 509,313
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 509,313
+  Vertex size: 51 bytes
+  ✗ Error processing 0a9c667d-033d-448c-b17c-dc55e6d3c386@DiningRoom-11628: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 735,292
+  Vertex size: 51 bytes
+
+Processing: e3080420-c235-480d-8122-9ba120001e5e@LivingRoom-11489
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3080420-c235-480d-8122-9ba120001e5e/LivingRoom-11489/LivingRoom-11489.ply
+  Vertices: 735,292
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 735,292
+  Vertex size: 51 bytes
+  ✗ Error processing e3080420-c235-480d-8122-9ba120001e5e@LivingRoom-11489: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 944,067
+  Vertex size: 51 bytes
+
+Processing: e30e0f34-2687-4c95-b8f0-68fe0af38f59@LivingDiningRoom-9804
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e30e0f34-2687-4c95-b8f0-68fe0af38f59/LivingDiningRoom-9804/LivingDiningRoom-9804.ply
+  Vertices: 944,067
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 944,067
+  Vertex size: 51 bytes
+  ✗ Error processing e30e0f34-2687-4c95-b8f0-68fe0af38f59@LivingDiningRoom-9804: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 243,802
+  Vertex size: 51 bytes
+
+Processing: e32456e9-1d2f-4a1d-a84d-99e309fb1b3a@Bedroom-1862
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e32456e9-1d2f-4a1d-a84d-99e309fb1b3a/Bedroom-1862/Bedroom-1862.ply
+  Vertices: 243,802
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 243,802
+  Vertex size: 51 bytes
+  ✗ Error processing e32456e9-1d2f-4a1d-a84d-99e309fb1b3a@Bedroom-1862: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 478,593
+  Vertex size: 51 bytes
+
+Processing: e32456e9-1d2f-4a1d-a84d-99e309fb1b3a@Bedroom-2324
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e32456e9-1d2f-4a1d-a84d-99e309fb1b3a/Bedroom-2324/Bedroom-2324.ply
+  Vertices: 478,593
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 478,593
+  Vertex size: 51 bytes
+  ✗ Error processing e32456e9-1d2f-4a1d-a84d-99e309fb1b3a@Bedroom-2324: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 19,506
+  Vertex size: 51 bytes
+
+Processing: e32456e9-1d2f-4a1d-a84d-99e309fb1b3a@CloakRoom-3170
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e32456e9-1d2f-4a1d-a84d-99e309fb1b3a/CloakRoom-3170/CloakRoom-3170.ply
+  Vertices: 19,506
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 19,506
+  Vertex size: 51 bytes
+  ✗ Error processing e32456e9-1d2f-4a1d-a84d-99e309fb1b3a@CloakRoom-3170: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 207,507
+  Vertex size: 51 bytes
+
+Processing: e32456e9-1d2f-4a1d-a84d-99e309fb1b3a@Library-3448
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e32456e9-1d2f-4a1d-a84d-99e309fb1b3a/Library-3448/Library-3448.ply
+  Vertices: 207,507
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 207,507
+  Vertex size: 51 bytes
+  ✗ Error processing e32456e9-1d2f-4a1d-a84d-99e309fb1b3a@Library-3448: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,287,661
+  Vertex size: 51 bytes
+
+Processing: e32456e9-1d2f-4a1d-a84d-99e309fb1b3a@LivingDiningRoom-3932
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e32456e9-1d2f-4a1d-a84d-99e309fb1b3a/LivingDiningRoom-3932/LivingDiningRoom-3932.ply
+  Vertices: 1,287,661
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,287,661
+  Vertex size: 51 bytes
+  ✗ Error processing e32456e9-1d2f-4a1d-a84d-99e309fb1b3a@LivingDiningRoom-3932: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 486,321
+  Vertex size: 51 bytes
+
+Processing: e329f479-1ec7-4036-92d3-56af79b638a1@KidsRoom-20455
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e329f479-1ec7-4036-92d3-56af79b638a1/KidsRoom-20455/KidsRoom-20455.ply
+  Vertices: 486,321
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 486,321
+  Vertex size: 51 bytes
+  ✗ Error processing e329f479-1ec7-4036-92d3-56af79b638a1@KidsRoom-20455: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 241,412
+  Vertex size: 51 bytes
+
+Processing: e329f479-1ec7-4036-92d3-56af79b638a1@Library-20444
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e329f479-1ec7-4036-92d3-56af79b638a1/Library-20444/Library-20444.ply
+  Vertices: 241,412
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 241,412
+  Vertex size: 51 bytes
+  ✗ Error processing e329f479-1ec7-4036-92d3-56af79b638a1@Library-20444: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,287,635
+  Vertex size: 51 bytes
+
+Processing: e329f479-1ec7-4036-92d3-56af79b638a1@LivingDiningRoom-19169
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e329f479-1ec7-4036-92d3-56af79b638a1/LivingDiningRoom-19169/LivingDiningRoom-19169.ply
+  Vertices: 1,287,635
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,287,635
+  Vertex size: 51 bytes
+  ✗ Error processing e329f479-1ec7-4036-92d3-56af79b638a1@LivingDiningRoom-19169: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 559,624
+  Vertex size: 51 bytes
+
+Processing: e329f479-1ec7-4036-92d3-56af79b638a1@MasterBedroom-19852
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e329f479-1ec7-4036-92d3-56af79b638a1/MasterBedroom-19852/MasterBedroom-19852.ply
+  Vertices: 559,624
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 559,624
+  Vertex size: 51 bytes
+  ✗ Error processing e329f479-1ec7-4036-92d3-56af79b638a1@MasterBedroom-19852: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 300,451
+  Vertex size: 51 bytes
+
+Processing: e3311e06-ea16-45e5-9d71-24ac8cb73050@KidsRoom-224815
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3311e06-ea16-45e5-9d71-24ac8cb73050/KidsRoom-224815/KidsRoom-224815.ply
+  Vertices: 300,451
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 300,451
+  Vertex size: 51 bytes
+  ✗ Error processing e3311e06-ea16-45e5-9d71-24ac8cb73050@KidsRoom-224815: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,520,159
+  Vertex size: 51 bytes
+
+Processing: e3311e06-ea16-45e5-9d71-24ac8cb73050@LivingDiningRoom-232057
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3311e06-ea16-45e5-9d71-24ac8cb73050/LivingDiningRoom-232057/LivingDiningRoom-232057.ply
+  Vertices: 1,520,159
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,520,159
+  Vertex size: 51 bytes
+  ✗ Error processing e3311e06-ea16-45e5-9d71-24ac8cb73050@LivingDiningRoom-232057: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 524,917
+  Vertex size: 51 bytes
+
+Processing: e3311e06-ea16-45e5-9d71-24ac8cb73050@MasterBedroom-226184
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3311e06-ea16-45e5-9d71-24ac8cb73050/MasterBedroom-226184/MasterBedroom-226184.ply
+  Vertices: 524,917
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 524,917
+  Vertex size: 51 bytes
+  ✗ Error processing e3311e06-ea16-45e5-9d71-24ac8cb73050@MasterBedroom-226184: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 415,693
+  Vertex size: 51 bytes
+
+Processing: e3311e06-ea16-45e5-9d71-24ac8cb73050@SecondBedroom-223757
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3311e06-ea16-45e5-9d71-24ac8cb73050/SecondBedroom-223757/SecondBedroom-223757.ply
+  Vertices: 415,693
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 415,693
+  Vertex size: 51 bytes
+  ✗ Error processing e3311e06-ea16-45e5-9d71-24ac8cb73050@SecondBedroom-223757: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 789,565
+  Vertex size: 51 bytes
+
+Processing: e33e2a61-2891-4dc3-b332-cabc9b08d38a@LivingRoom-2549452
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e33e2a61-2891-4dc3-b332-cabc9b08d38a/LivingRoom-2549452/LivingRoom-2549452.ply
+  Vertices: 789,565
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 789,565
+  Vertex size: 51 bytes
+  ✗ Error processing e33e2a61-2891-4dc3-b332-cabc9b08d38a@LivingRoom-2549452: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 806,994
+  Vertex size: 51 bytes
+
+Processing: e33e2a61-2891-4dc3-b332-cabc9b08d38a@LivingRoom-2549477
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e33e2a61-2891-4dc3-b332-cabc9b08d38a/LivingRoom-2549477/LivingRoom-2549477.ply
+  Vertices: 806,994
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 806,994
+  Vertex size: 51 bytes
+  ✗ Error processing e33e2a61-2891-4dc3-b332-cabc9b08d38a@LivingRoom-2549477: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 415,083
+  Vertex size: 51 bytes
+
+Processing: e33e2a61-2891-4dc3-b332-cabc9b08d38a@LivingRoom-2549493
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e33e2a61-2891-4dc3-b332-cabc9b08d38a/LivingRoom-2549493/LivingRoom-2549493.ply
+  Vertices: 415,083
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 415,083
+  Vertex size: 51 bytes
+  ✗ Error processing e33e2a61-2891-4dc3-b332-cabc9b08d38a@LivingRoom-2549493: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 510,194
+  Vertex size: 51 bytes
+
+Processing: e33e2a61-2891-4dc3-b332-cabc9b08d38a@LivingRoom-2549509
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e33e2a61-2891-4dc3-b332-cabc9b08d38a/LivingRoom-2549509/LivingRoom-2549509.ply
+  Vertices: 510,194
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 510,194
+  Vertex size: 51 bytes
+  ✗ Error processing e33e2a61-2891-4dc3-b332-cabc9b08d38a@LivingRoom-2549509: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 649,896
+  Vertex size: 51 bytes
+
+Processing: e33e2a61-2891-4dc3-b332-cabc9b08d38a@LivingRoom-2557297
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e33e2a61-2891-4dc3-b332-cabc9b08d38a/LivingRoom-2557297/LivingRoom-2557297.ply
+  Vertices: 649,896
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 649,896
+  Vertex size: 51 bytes
+  ✗ Error processing e33e2a61-2891-4dc3-b332-cabc9b08d38a@LivingRoom-2557297: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 566,240
+  Vertex size: 51 bytes
+
+Processing: e34a46b2-90de-4a2a-8726-c83d5529a886@ElderlyRoom-31708
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e34a46b2-90de-4a2a-8726-c83d5529a886/ElderlyRoom-31708/ElderlyRoom-31708.ply
+  Vertices: 566,240
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 566,240
+  Vertex size: 51 bytes
+  ✗ Error processing e34a46b2-90de-4a2a-8726-c83d5529a886@ElderlyRoom-31708: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 298,545
+  Vertex size: 51 bytes
+
+Processing: e34a46b2-90de-4a2a-8726-c83d5529a886@Library-37264
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e34a46b2-90de-4a2a-8726-c83d5529a886/Library-37264/Library-37264.ply
+  Vertices: 298,545
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 298,545
+  Vertex size: 51 bytes
+  ✗ Error processing e34a46b2-90de-4a2a-8726-c83d5529a886@Library-37264: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,454,117
+  Vertex size: 51 bytes
+
+Processing: e34a46b2-90de-4a2a-8726-c83d5529a886@LivingDiningRoom-30264
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e34a46b2-90de-4a2a-8726-c83d5529a886/LivingDiningRoom-30264/LivingDiningRoom-30264.ply
+  Vertices: 1,454,117
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,454,117
+  Vertex size: 51 bytes
+  ✗ Error processing e34a46b2-90de-4a2a-8726-c83d5529a886@LivingDiningRoom-30264: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 73,254
+  Vertex size: 51 bytes
+
+Processing: e34a46b2-90de-4a2a-8726-c83d5529a886@LivingRoom-40975
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e34a46b2-90de-4a2a-8726-c83d5529a886/LivingRoom-40975/LivingRoom-40975.ply
+  Vertices: 73,254
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 73,254
+  Vertex size: 51 bytes
+  ✗ Error processing e34a46b2-90de-4a2a-8726-c83d5529a886@LivingRoom-40975: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 555,852
+  Vertex size: 51 bytes
+
+Processing: e34a46b2-90de-4a2a-8726-c83d5529a886@MasterBedroom-46932
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e34a46b2-90de-4a2a-8726-c83d5529a886/MasterBedroom-46932/MasterBedroom-46932.ply
+  Vertices: 555,852
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 555,852
+  Vertex size: 51 bytes
+  ✗ Error processing e34a46b2-90de-4a2a-8726-c83d5529a886@MasterBedroom-46932: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 38,638
+  Vertex size: 51 bytes
+
+Processing: e34a46b2-90de-4a2a-8726-c83d5529a886@OtherRoom-31992
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e34a46b2-90de-4a2a-8726-c83d5529a886/OtherRoom-31992/OtherRoom-31992.ply
+  Vertices: 38,638
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 38,638
+  Vertex size: 51 bytes
+  ✗ Error processing e34a46b2-90de-4a2a-8726-c83d5529a886@OtherRoom-31992: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 446,326
+  Vertex size: 51 bytes
+
+Processing: e34a46b2-90de-4a2a-8726-c83d5529a886@OtherRoom-38184
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e34a46b2-90de-4a2a-8726-c83d5529a886/OtherRoom-38184/OtherRoom-38184.ply
+  Vertices: 446,326
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 446,326
+  Vertex size: 51 bytes
+  ✗ Error processing e34a46b2-90de-4a2a-8726-c83d5529a886@OtherRoom-38184: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 48,626
+  Vertex size: 51 bytes
+
+Processing: e34a46b2-90de-4a2a-8726-c83d5529a886@OtherRoom-53654
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e34a46b2-90de-4a2a-8726-c83d5529a886/OtherRoom-53654/OtherRoom-53654.ply
+  Vertices: 48,626
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 48,626
+  Vertex size: 51 bytes
+  ✗ Error processing e34a46b2-90de-4a2a-8726-c83d5529a886@OtherRoom-53654: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 125,200
+  Vertex size: 51 bytes
+
+Processing: e34a46b2-90de-4a2a-8726-c83d5529a886@SecondBedroom-56104
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e34a46b2-90de-4a2a-8726-c83d5529a886/SecondBedroom-56104/SecondBedroom-56104.ply
+  Vertices: 125,200
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 125,200
+  Vertex size: 51 bytes
+  ✗ Error processing e34a46b2-90de-4a2a-8726-c83d5529a886@SecondBedroom-56104: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 211,186
+  Vertex size: 51 bytes
+
+Processing: e3674f54-28aa-44af-8651-c98d831ef27e@Bedroom-16095
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3674f54-28aa-44af-8651-c98d831ef27e/Bedroom-16095/Bedroom-16095.ply
+  Vertices: 211,186
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 211,186
+  Vertex size: 51 bytes
+  ✗ Error processing e3674f54-28aa-44af-8651-c98d831ef27e@Bedroom-16095: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 779,807
+  Vertex size: 51 bytes
+
+Processing: e3674f54-28aa-44af-8651-c98d831ef27e@Bedroom-16148
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3674f54-28aa-44af-8651-c98d831ef27e/Bedroom-16148/Bedroom-16148.ply
+  Vertices: 779,807
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 779,807
+  Vertex size: 51 bytes
+  ✗ Error processing e3674f54-28aa-44af-8651-c98d831ef27e@Bedroom-16148: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 873,838
+  Vertex size: 51 bytes
+
+Processing: e3674f54-28aa-44af-8651-c98d831ef27e@LivingDiningRoom-15529
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3674f54-28aa-44af-8651-c98d831ef27e/LivingDiningRoom-15529/LivingDiningRoom-15529.ply
+  Vertices: 873,838
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 873,838
+  Vertex size: 51 bytes
+  ✗ Error processing e3674f54-28aa-44af-8651-c98d831ef27e@LivingDiningRoom-15529: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 424,712
+  Vertex size: 51 bytes
+
+Processing: e3681044-5e15-41f4-9d87-49746b7f26ec@Bedroom-117308
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3681044-5e15-41f4-9d87-49746b7f26ec/Bedroom-117308/Bedroom-117308.ply
+  Vertices: 424,712
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 424,712
+  Vertex size: 51 bytes
+  ✗ Error processing e3681044-5e15-41f4-9d87-49746b7f26ec@Bedroom-117308: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 957,039
+  Vertex size: 51 bytes
+
+Processing: e3681044-5e15-41f4-9d87-49746b7f26ec@LivingDiningRoom-119029
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3681044-5e15-41f4-9d87-49746b7f26ec/LivingDiningRoom-119029/LivingDiningRoom-119029.ply
+  Vertices: 957,039
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 957,039
+  Vertex size: 51 bytes
+  ✗ Error processing e3681044-5e15-41f4-9d87-49746b7f26ec@LivingDiningRoom-119029: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 299,344
+  Vertex size: 51 bytes
+
+Processing: e3681044-5e15-41f4-9d87-49746b7f26ec@MasterBedroom-116808
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3681044-5e15-41f4-9d87-49746b7f26ec/MasterBedroom-116808/MasterBedroom-116808.ply
+  Vertices: 299,344
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 299,344
+  Vertex size: 51 bytes
+  ✗ Error processing e3681044-5e15-41f4-9d87-49746b7f26ec@MasterBedroom-116808: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 821,622
+  Vertex size: 51 bytes
+
+Processing: e37ef24d-fe80-40e7-a744-51122067af5a@Bedroom-7518
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e37ef24d-fe80-40e7-a744-51122067af5a/Bedroom-7518/Bedroom-7518.ply
+  Vertices: 821,622
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 821,622
+  Vertex size: 51 bytes
+  ✗ Error processing e37ef24d-fe80-40e7-a744-51122067af5a@Bedroom-7518: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,584,931
+  Vertex size: 51 bytes
+
+Processing: e37ef24d-fe80-40e7-a744-51122067af5a@LivingDiningRoom-7290
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e37ef24d-fe80-40e7-a744-51122067af5a/LivingDiningRoom-7290/LivingDiningRoom-7290.ply
+  Vertices: 1,584,931
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,584,931
+  Vertex size: 51 bytes
+  ✗ Error processing e37ef24d-fe80-40e7-a744-51122067af5a@LivingDiningRoom-7290: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 596,997
+  Vertex size: 51 bytes
+
+Processing: e37ef24d-fe80-40e7-a744-51122067af5a@SecondBedroom-7328
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e37ef24d-fe80-40e7-a744-51122067af5a/SecondBedroom-7328/SecondBedroom-7328.ply
+  Vertices: 596,997
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 596,997
+  Vertex size: 51 bytes
+  ✗ Error processing e37ef24d-fe80-40e7-a744-51122067af5a@SecondBedroom-7328: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 523,560
+  Vertex size: 51 bytes
+
+Processing: 19ea6381-dbfe-4667-b1e0-5e3c71ddb12b@Bedroom-46943
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/19ea6381-dbfe-4667-b1e0-5e3c71ddb12b/Bedroom-46943/Bedroom-46943.ply
+  Vertices: 523,560
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 523,560
+  Vertex size: 51 bytes
+  ✗ Error processing 19ea6381-dbfe-4667-b1e0-5e3c71ddb12b@Bedroom-46943: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 980,784
+  Vertex size: 51 bytes
+
+Processing: e387ce2f-183d-40a7-b4bf-814181fbea82@LivingDiningRoom-1407
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e387ce2f-183d-40a7-b4bf-814181fbea82/LivingDiningRoom-1407/LivingDiningRoom-1407.ply
+  Vertices: 980,784
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 980,784
+  Vertex size: 51 bytes
+  ✗ Error processing e387ce2f-183d-40a7-b4bf-814181fbea82@LivingDiningRoom-1407: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 662,895
+  Vertex size: 51 bytes
+
+Processing: e396e943-0f12-4455-938a-47a4b44bc25c@LivingDiningRoom-22470
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e396e943-0f12-4455-938a-47a4b44bc25c/LivingDiningRoom-22470/LivingDiningRoom-22470.ply
+  Vertices: 662,895
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 662,895
+  Vertex size: 51 bytes
+  ✗ Error processing e396e943-0f12-4455-938a-47a4b44bc25c@LivingDiningRoom-22470: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 565,307
+  Vertex size: 51 bytes
+
+Processing: e396e943-0f12-4455-938a-47a4b44bc25c@MasterBedroom-22459
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e396e943-0f12-4455-938a-47a4b44bc25c/MasterBedroom-22459/MasterBedroom-22459.ply
+  Vertices: 565,307
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 565,307
+  Vertex size: 51 bytes
+  ✗ Error processing e396e943-0f12-4455-938a-47a4b44bc25c@MasterBedroom-22459: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 472,690
+  Vertex size: 51 bytes
+
+Processing: e396e943-0f12-4455-938a-47a4b44bc25c@SecondBedroom-18701
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e396e943-0f12-4455-938a-47a4b44bc25c/SecondBedroom-18701/SecondBedroom-18701.ply
+  Vertices: 472,690
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 472,690
+  Vertex size: 51 bytes
+  ✗ Error processing e396e943-0f12-4455-938a-47a4b44bc25c@SecondBedroom-18701: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 931,891
+  Vertex size: 51 bytes
+
+Processing: e3a0e731-a4d9-40d7-945e-408100ebd00a@LivingDiningRoom-12414
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3a0e731-a4d9-40d7-945e-408100ebd00a/LivingDiningRoom-12414/LivingDiningRoom-12414.ply
+  Vertices: 931,891
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 931,891
+  Vertex size: 51 bytes
+  ✗ Error processing e3a0e731-a4d9-40d7-945e-408100ebd00a@LivingDiningRoom-12414: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 451,919
+  Vertex size: 51 bytes
+
+Processing: e3a673e8-9ac7-4e41-831a-24888f0b85ca@Bedroom-677
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3a673e8-9ac7-4e41-831a-24888f0b85ca/Bedroom-677/Bedroom-677.ply
+  Vertices: 451,919
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 451,919
+  Vertex size: 51 bytes
+  ✗ Error processing e3a673e8-9ac7-4e41-831a-24888f0b85ca@Bedroom-677: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 689,150
+  Vertex size: 51 bytes
+
+Processing: e3a673e8-9ac7-4e41-831a-24888f0b85ca@LivingRoom-1259
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3a673e8-9ac7-4e41-831a-24888f0b85ca/LivingRoom-1259/LivingRoom-1259.ply
+  Vertices: 689,150
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 689,150
+  Vertex size: 51 bytes
+  ✗ Error processing e3a673e8-9ac7-4e41-831a-24888f0b85ca@LivingRoom-1259: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 594,441
+  Vertex size: 51 bytes
+
+Processing: e3ae803e-2fc6-42c2-8977-2246f2b362c0@Library-37255
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3ae803e-2fc6-42c2-8977-2246f2b362c0/Library-37255/Library-37255.ply
+  Vertices: 594,441
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 594,441
+  Vertex size: 51 bytes
+  ✗ Error processing e3ae803e-2fc6-42c2-8977-2246f2b362c0@Library-37255: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,250,155
+  Vertex size: 51 bytes
+
+Processing: e3ae803e-2fc6-42c2-8977-2246f2b362c0@LivingDiningRoom-37317
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3ae803e-2fc6-42c2-8977-2246f2b362c0/LivingDiningRoom-37317/LivingDiningRoom-37317.ply
+  Vertices: 1,250,155
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,250,155
+  Vertex size: 51 bytes
+  ✗ Error processing e3ae803e-2fc6-42c2-8977-2246f2b362c0@LivingDiningRoom-37317: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 6,607
+  Vertex size: 51 bytes
+
+Processing: e3ae803e-2fc6-42c2-8977-2246f2b362c0@MasterBedroom-37377
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3ae803e-2fc6-42c2-8977-2246f2b362c0/MasterBedroom-37377/MasterBedroom-37377.ply
+  Vertices: 6,607
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 6,607
+  Vertex size: 51 bytes
+  ✗ Error processing e3ae803e-2fc6-42c2-8977-2246f2b362c0@MasterBedroom-37377: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 785,198
+  Vertex size: 51 bytes
+
+Processing: e3b3b6bd-7530-44d1-bf4b-29f7726627bd@LivingDiningRoom-3161
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3b3b6bd-7530-44d1-bf4b-29f7726627bd/LivingDiningRoom-3161/LivingDiningRoom-3161.ply
+  Vertices: 785,198
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 785,198
+  Vertex size: 51 bytes
+  ✗ Error processing e3b3b6bd-7530-44d1-bf4b-29f7726627bd@LivingDiningRoom-3161: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,248,287
+  Vertex size: 51 bytes
+
+Processing: 07619ea7-7cf7-4caf-86ae-0cbc7523ffbe@KidsRoom-515
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/07619ea7-7cf7-4caf-86ae-0cbc7523ffbe/KidsRoom-515/KidsRoom-515.ply
+  Vertices: 1,248,287
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,248,287
+  Vertex size: 51 bytes
+  ✗ Error processing 07619ea7-7cf7-4caf-86ae-0cbc7523ffbe@KidsRoom-515: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,330,270
+  Vertex size: 51 bytes
+
+Processing: e3c257be-bb61-46bb-a0e5-80c356019b48@LivingDiningRoom-214217
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3c257be-bb61-46bb-a0e5-80c356019b48/LivingDiningRoom-214217/LivingDiningRoom-214217.ply
+  Vertices: 1,330,270
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,330,270
+  Vertex size: 51 bytes
+  ✗ Error processing e3c257be-bb61-46bb-a0e5-80c356019b48@LivingDiningRoom-214217: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 485,140
+  Vertex size: 51 bytes
+
+Processing: e3c257be-bb61-46bb-a0e5-80c356019b48@MasterBedroom-213652
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3c257be-bb61-46bb-a0e5-80c356019b48/MasterBedroom-213652/MasterBedroom-213652.ply
+  Vertices: 485,140
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 485,140
+  Vertex size: 51 bytes
+  ✗ Error processing e3c257be-bb61-46bb-a0e5-80c356019b48@MasterBedroom-213652: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 534,001
+  Vertex size: 51 bytes
+
+Processing: e3c257be-bb61-46bb-a0e5-80c356019b48@SecondBedroom-213397
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3c257be-bb61-46bb-a0e5-80c356019b48/SecondBedroom-213397/SecondBedroom-213397.ply
+  Vertices: 534,001
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 534,001
+  Vertex size: 51 bytes
+  ✗ Error processing e3c257be-bb61-46bb-a0e5-80c356019b48@SecondBedroom-213397: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 524,805
+  Vertex size: 51 bytes
+
+Processing: e3cce903-6af7-4b0a-8d6e-83de09aaf631@Bedroom-6294
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3cce903-6af7-4b0a-8d6e-83de09aaf631/Bedroom-6294/Bedroom-6294.ply
+  Vertices: 524,805
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 524,805
+  Vertex size: 51 bytes
+  ✗ Error processing e3cce903-6af7-4b0a-8d6e-83de09aaf631@Bedroom-6294: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 241,177
+  Vertex size: 51 bytes
+
+Processing: e3cce903-6af7-4b0a-8d6e-83de09aaf631@Library-6329
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3cce903-6af7-4b0a-8d6e-83de09aaf631/Library-6329/Library-6329.ply
+  Vertices: 241,177
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 241,177
+  Vertex size: 51 bytes
+  ✗ Error processing e3cce903-6af7-4b0a-8d6e-83de09aaf631@Library-6329: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,326,874
+  Vertex size: 51 bytes
+
+Processing: e3cce903-6af7-4b0a-8d6e-83de09aaf631@LivingDiningRoom-6238
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3cce903-6af7-4b0a-8d6e-83de09aaf631/LivingDiningRoom-6238/LivingDiningRoom-6238.ply
+  Vertices: 1,326,874
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,326,874
+  Vertex size: 51 bytes
+  ✗ Error processing e3cce903-6af7-4b0a-8d6e-83de09aaf631@LivingDiningRoom-6238: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 115,943
+  Vertex size: 51 bytes
+
+Processing: e3cd62f5-71b0-4a67-826c-f6f93caf9b7a@CloakRoom-169332
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3cd62f5-71b0-4a67-826c-f6f93caf9b7a/CloakRoom-169332/CloakRoom-169332.ply
+  Vertices: 115,943
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 115,943
+  Vertex size: 51 bytes
+  ✗ Error processing e3cd62f5-71b0-4a67-826c-f6f93caf9b7a@CloakRoom-169332: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 347,063
+  Vertex size: 51 bytes
+
+Processing: e3cd62f5-71b0-4a67-826c-f6f93caf9b7a@KidsRoom-178451
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3cd62f5-71b0-4a67-826c-f6f93caf9b7a/KidsRoom-178451/KidsRoom-178451.ply
+  Vertices: 347,063
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 347,063
+  Vertex size: 51 bytes
+  ✗ Error processing e3cd62f5-71b0-4a67-826c-f6f93caf9b7a@KidsRoom-178451: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,723,091
+  Vertex size: 51 bytes
+
+Processing: e3cd62f5-71b0-4a67-826c-f6f93caf9b7a@LivingDiningRoom-251550
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3cd62f5-71b0-4a67-826c-f6f93caf9b7a/LivingDiningRoom-251550/LivingDiningRoom-251550.ply
+  Vertices: 1,723,091
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,723,091
+  Vertex size: 51 bytes
+  ✗ Error processing e3cd62f5-71b0-4a67-826c-f6f93caf9b7a@LivingDiningRoom-251550: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 606,673
+  Vertex size: 51 bytes
+
+Processing: e3cd62f5-71b0-4a67-826c-f6f93caf9b7a@MasterBedroom-176840
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3cd62f5-71b0-4a67-826c-f6f93caf9b7a/MasterBedroom-176840/MasterBedroom-176840.ply
+  Vertices: 606,673
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 606,673
+  Vertex size: 51 bytes
+  ✗ Error processing e3cd62f5-71b0-4a67-826c-f6f93caf9b7a@MasterBedroom-176840: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,314,082
+  Vertex size: 51 bytes
+
+Processing: e3df4b50-7ac1-4153-9955-c231f604d66c@LivingDiningRoom-15907
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3df4b50-7ac1-4153-9955-c231f604d66c/LivingDiningRoom-15907/LivingDiningRoom-15907.ply
+  Vertices: 1,314,082
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,314,082
+  Vertex size: 51 bytes
+  ✗ Error processing e3df4b50-7ac1-4153-9955-c231f604d66c@LivingDiningRoom-15907: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 703,998
+  Vertex size: 51 bytes
+
+Processing: e3e5e374-451b-454a-89e4-0b8a2b5b1eae@MasterBedroom-9404
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e3e5e374-451b-454a-89e4-0b8a2b5b1eae/MasterBedroom-9404/MasterBedroom-9404.ply
+  Vertices: 703,998
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 703,998
+  Vertex size: 51 bytes
+  ✗ Error processing e3e5e374-451b-454a-89e4-0b8a2b5b1eae@MasterBedroom-9404: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 709,743
+  Vertex size: 51 bytes
+
+Processing: e414e3aa-24fb-4922-bbc1-058a04829bbd@DiningRoom-1094
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e414e3aa-24fb-4922-bbc1-058a04829bbd/DiningRoom-1094/DiningRoom-1094.ply
+  Vertices: 709,743
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 709,743
+  Vertex size: 51 bytes
+  ✗ Error processing e414e3aa-24fb-4922-bbc1-058a04829bbd@DiningRoom-1094: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 36,908
+  Vertex size: 51 bytes
+
+Processing: ddb2ee64-0253-4541-8df3-49d8652aeaf2@ElderlyRoom-3153
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ddb2ee64-0253-4541-8df3-49d8652aeaf2/ElderlyRoom-3153/ElderlyRoom-3153.ply
+  Vertices: 36,908
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 36,908
+  Vertex size: 51 bytes
+  ✗ Error processing ddb2ee64-0253-4541-8df3-49d8652aeaf2@ElderlyRoom-3153: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 654,281
+  Vertex size: 51 bytes
+
+Processing: e414e3aa-24fb-4922-bbc1-058a04829bbd@LivingRoom-275
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e414e3aa-24fb-4922-bbc1-058a04829bbd/LivingRoom-275/LivingRoom-275.ply
+  Vertices: 654,281
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 654,281
+  Vertex size: 51 bytes
+  ✗ Error processing e414e3aa-24fb-4922-bbc1-058a04829bbd@LivingRoom-275: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 629,860
+  Vertex size: 51 bytes
+
+Processing: e414e3aa-24fb-4922-bbc1-058a04829bbd@MasterBedroom-3258
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e414e3aa-24fb-4922-bbc1-058a04829bbd/MasterBedroom-3258/MasterBedroom-3258.ply
+  Vertices: 629,860
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 629,860
+  Vertex size: 51 bytes
+  ✗ Error processing e414e3aa-24fb-4922-bbc1-058a04829bbd@MasterBedroom-3258: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,908,782
+  Vertex size: 51 bytes
+
+Processing: e41a25b7-9111-4761-908c-45485fac5079@LivingDiningRoom-9678
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e41a25b7-9111-4761-908c-45485fac5079/LivingDiningRoom-9678/LivingDiningRoom-9678.ply
+  Vertices: 1,908,782
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,908,782
+  Vertex size: 51 bytes
+  ✗ Error processing e41a25b7-9111-4761-908c-45485fac5079@LivingDiningRoom-9678: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 743,291
+  Vertex size: 51 bytes
+
+Processing: e41a25b7-9111-4761-908c-45485fac5079@MasterBedroom-9810
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e41a25b7-9111-4761-908c-45485fac5079/MasterBedroom-9810/MasterBedroom-9810.ply
+  Vertices: 743,291
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 743,291
+  Vertex size: 51 bytes
+  ✗ Error processing e41a25b7-9111-4761-908c-45485fac5079@MasterBedroom-9810: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 916,507
+  Vertex size: 51 bytes
+
+Processing: e41ed17d-c021-4a43-b71a-d99872106260@LivingRoom-5149
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e41ed17d-c021-4a43-b71a-d99872106260/LivingRoom-5149/LivingRoom-5149.ply
+  Vertices: 916,507
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 916,507
+  Vertex size: 51 bytes
+  ✗ Error processing e41ed17d-c021-4a43-b71a-d99872106260@LivingRoom-5149: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 438,986
+  Vertex size: 51 bytes
+
+Processing: e41ed17d-c021-4a43-b71a-d99872106260@MasterBedroom-3979
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e41ed17d-c021-4a43-b71a-d99872106260/MasterBedroom-3979/MasterBedroom-3979.ply
+  Vertices: 438,986
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 438,986
+  Vertex size: 51 bytes
+  ✗ Error processing e41ed17d-c021-4a43-b71a-d99872106260@MasterBedroom-3979: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 656,972
+  Vertex size: 51 bytes
+
+Processing: e42c1b84-9f5b-4a72-82f5-e6ece5dc21d9@Bedroom-5403
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e42c1b84-9f5b-4a72-82f5-e6ece5dc21d9/Bedroom-5403/Bedroom-5403.ply
+  Vertices: 656,972
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 656,972
+  Vertex size: 51 bytes
+  ✗ Error processing e42c1b84-9f5b-4a72-82f5-e6ece5dc21d9@Bedroom-5403: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 349,834
+  Vertex size: 51 bytes
+
+Processing: ce1f32aa-de58-4f4b-bf93-3754086c050f@LivingDiningRoom-7084
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/ce1f32aa-de58-4f4b-bf93-3754086c050f/LivingDiningRoom-7084/LivingDiningRoom-7084.ply
+  Vertices: 349,834
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 349,834
+  Vertex size: 51 bytes
+  ✗ Error processing ce1f32aa-de58-4f4b-bf93-3754086c050f@LivingDiningRoom-7084: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 90,090
+  Vertex size: 51 bytes
+
+Processing: e42d2cda-3beb-4996-9bf3-6d2278942239@Aisle-864
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e42d2cda-3beb-4996-9bf3-6d2278942239/Aisle-864/Aisle-864.ply
+  Vertices: 90,090
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 90,090
+  Vertex size: 51 bytes
+  ✗ Error processing e42d2cda-3beb-4996-9bf3-6d2278942239@Aisle-864: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 666,246
+  Vertex size: 51 bytes
+
+Processing: e42d2cda-3beb-4996-9bf3-6d2278942239@LivingDiningRoom-227
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e42d2cda-3beb-4996-9bf3-6d2278942239/LivingDiningRoom-227/LivingDiningRoom-227.ply
+  Vertices: 666,246
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 666,246
+  Vertex size: 51 bytes
+  ✗ Error processing e42d2cda-3beb-4996-9bf3-6d2278942239@LivingDiningRoom-227: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 522,234
+  Vertex size: 51 bytes
+
+Processing: e42d2cda-3beb-4996-9bf3-6d2278942239@MasterBedroom-354
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e42d2cda-3beb-4996-9bf3-6d2278942239/MasterBedroom-354/MasterBedroom-354.ply
+  Vertices: 522,234
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 522,234
+  Vertex size: 51 bytes
+  ✗ Error processing e42d2cda-3beb-4996-9bf3-6d2278942239@MasterBedroom-354: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 125,067
+  Vertex size: 51 bytes
+
+Processing: e44c4ecc-0260-469d-a60d-b71cf1d34029@Library-17720
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e44c4ecc-0260-469d-a60d-b71cf1d34029/Library-17720/Library-17720.ply
+  Vertices: 125,067
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 125,067
+  Vertex size: 51 bytes
+  ✗ Error processing e44c4ecc-0260-469d-a60d-b71cf1d34029@Library-17720: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 828,505
+  Vertex size: 51 bytes
+
+Processing: e44c4ecc-0260-469d-a60d-b71cf1d34029@LivingRoom-15009
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e44c4ecc-0260-469d-a60d-b71cf1d34029/LivingRoom-15009/LivingRoom-15009.ply
+  Vertices: 828,505
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 828,505
+  Vertex size: 51 bytes
+  ✗ Error processing e44c4ecc-0260-469d-a60d-b71cf1d34029@LivingRoom-15009: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 499,434
+  Vertex size: 51 bytes
+
+Processing: e44c4ecc-0260-469d-a60d-b71cf1d34029@MasterBedroom-24515
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e44c4ecc-0260-469d-a60d-b71cf1d34029/MasterBedroom-24515/MasterBedroom-24515.ply
+  Vertices: 499,434
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 499,434
+  Vertex size: 51 bytes
+  ✗ Error processing e44c4ecc-0260-469d-a60d-b71cf1d34029@MasterBedroom-24515: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 196,870
+  Vertex size: 51 bytes
+
+Processing: e1d87fdc-c05f-4cca-8b11-c7d002fbc36b@DiningRoom-27978
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e1d87fdc-c05f-4cca-8b11-c7d002fbc36b/DiningRoom-27978/DiningRoom-27978.ply
+  Vertices: 196,870
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 196,870
+  Vertex size: 51 bytes
+  ✗ Error processing e1d87fdc-c05f-4cca-8b11-c7d002fbc36b@DiningRoom-27978: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 151,640
+  Vertex size: 51 bytes
+
+Processing: e44d23d0-b6ee-40bf-ab2b-7dded90cf45b@Library-69271
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e44d23d0-b6ee-40bf-ab2b-7dded90cf45b/Library-69271/Library-69271.ply
+  Vertices: 151,640
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 151,640
+  Vertex size: 51 bytes
+  ✗ Error processing e44d23d0-b6ee-40bf-ab2b-7dded90cf45b@Library-69271: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 755,321
+  Vertex size: 51 bytes
+
+Processing: e44d23d0-b6ee-40bf-ab2b-7dded90cf45b@LivingRoom-3973
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e44d23d0-b6ee-40bf-ab2b-7dded90cf45b/LivingRoom-3973/LivingRoom-3973.ply
+  Vertices: 755,321
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 755,321
+  Vertex size: 51 bytes
+  ✗ Error processing e44d23d0-b6ee-40bf-ab2b-7dded90cf45b@LivingRoom-3973: RGBA values should be within 0-1 range
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 140,363
+  Vertex size: 51 bytes
+
+Processing: e44d23d0-b6ee-40bf-ab2b-7dded90cf45b@OtherRoom-84628
+  PLY: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT/e44d23d0-b6ee-40bf-ab2b-7dded90cf45b/OtherRoom-84628/OtherRoom-84628.ply
+  Vertices: 140,363
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 140,363
+  Vertex size: 51 bytes
+  ✗ Error processing e44d23d0-b6ee-40bf-ab2b-7dded90cf45b@OtherRoom-84628: RGBA values should be within 0-1 range
+
+======================================================================
+SUMMARY
+======================================================================
+Successful: 0/99
+Failed:     99/99
+Output dir: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed
+
+End time: Wed Oct  8 16:38:53 MDT 2025
+======================================================================
+
+End time: Wed Oct  8 16:38:54 MDT 2025
+==========================================

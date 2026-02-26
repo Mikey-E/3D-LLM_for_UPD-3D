@@ -1,0 +1,70 @@
+==========================================
+GIW529 Test Inference - BASE Model
+==========================================
+Job ID: 48624961
+Node: mbl40s-002
+Start time: Sat Dec  6 12:35:04 MST 2025
+
+Python: /project/3dllms/melgin/conda/envs/lavis/bin/python
+Conda env: lavis
+
+NVIDIA L40S, 46068 MiB, 45469 MiB
+
+Checkpoint: /project/3dllms/melgin/3D-LLM_for_UPD-3D/checkpoints/pretrain_blip2_sam_flant5xl_v2.pth
+Model name: 3dllm_base
+
+==========================================
+Starting GIW529 test set inference...
+==========================================
+======================================================================
+GIW529 INFERENCE
+======================================================================
+Device: cuda
+Checkpoint: /project/3dllms/melgin/3D-LLM_for_UPD-3D/checkpoints/pretrain_blip2_sam_flant5xl_v2.pth
+Processed dir: /project/3dllms/melgin/datasets/GIW/giw529_processed_for_3dllm
+Questions base: /project/3dllms/melgin/UPD-3D/upd_text/GIW529_gpt-5-nano
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/giw529_inference
+
+Loading point cloud list...
+  Total point clouds: 151
+  Processing range: 0 to 150
+  Processing count: 150
+  Questions per cloud: 12
+  Total inferences: 1800
+
+Loading 3D-LLM model...
+  Loading checkpoint: /project/3dllms/melgin/3D-LLM_for_UPD-3D/checkpoints/pretrain_blip2_sam_flant5xl_v2.pth
+  ✓ Model loaded successfully
+
+======================================================================
+RUNNING INFERENCE
+======================================================================
+
+======================================================================
+SAVING RESULTS
+======================================================================
+  aad_base: 150 results -> inf_rslts_3dllm_base_GIW529_test_aad_base.json
+  aad_additional_instruction: 150 results -> inf_rslts_3dllm_base_GIW529_test_aad_additional_instruction.json
+  aad_additional_option: 150 results -> inf_rslts_3dllm_base_GIW529_test_aad_additional_option.json
+  iasd_base: 150 results -> inf_rslts_3dllm_base_GIW529_test_iasd_base.json
+  iasd_additional_instruction: 150 results -> inf_rslts_3dllm_base_GIW529_test_iasd_additional_instruction.json
+  iasd_additional_option: 150 results -> inf_rslts_3dllm_base_GIW529_test_iasd_additional_option.json
+  ivqd_base: 150 results -> inf_rslts_3dllm_base_GIW529_test_ivqd_base.json
+  ivqd_additional_instruction: 150 results -> inf_rslts_3dllm_base_GIW529_test_ivqd_additional_instruction.json
+  ivqd_additional_option: 150 results -> inf_rslts_3dllm_base_GIW529_test_ivqd_additional_option.json
+  open_ended: 150 results -> inf_rslts_3dllm_base_GIW529_test_open_ended.json
+  open_ended_additional_instruction: 150 results -> inf_rslts_3dllm_base_GIW529_test_open_ended_additional_instruction.json
+  standard: 150 results -> inf_rslts_3dllm_base_GIW529_test_standard.json
+
+======================================================================
+SUMMARY
+======================================================================
+Successful: 1800
+Failed:     0
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/giw529_inference/3dllm_base
+
+==========================================
+✓ Inference completed successfully!
+Results saved to: results/giw529_inference/3dllm_base/
+End time: Sat Dec  6 12:39:02 MST 2025
+==========================================

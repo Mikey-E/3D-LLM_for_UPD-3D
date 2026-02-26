@@ -1,0 +1,35 @@
+==========================================
+3D-FRONT Preprocessing - Array Job 19
+==========================================
+Job ID: 44229442
+Array Task ID: 19
+Node: mbl40s-001
+Start time: Wed Oct  8 16:38:47 MDT 2025
+
+Python: /project/3dllms/melgin/conda/envs/lavis/bin/python
+Conda env: lavis
+
+NVIDIA L40S, 46068 MiB, 45469 MiB
+
+Processing point clouds 1881 to 1979
+Estimated count: 99
+
+======================================================================
+3D-FRONT Preprocessing - Array Job 19
+======================================================================
+Job ID: 44229442
+Array Task ID: 19
+Node: mbl40s-001
+Start time: Wed Oct  8 16:38:57 MDT 2025
+
+Python: /project/3dllms/melgin/conda/envs/lavis/bin/python3
+Conda env: lavis
+
+NVIDIA L40S, 45468 MiB, 45036 MiB
+
+Processing point clouds 1881 to 1979
+Estimated count: 99
+
+Loading BLIP2 model...
+Model loaded successfully!
+

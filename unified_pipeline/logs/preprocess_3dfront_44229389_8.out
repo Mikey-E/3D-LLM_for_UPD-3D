@@ -1,0 +1,441 @@
+==========================================
+3D-FRONT Preprocessing - Array Job 8
+==========================================
+Job ID: 44229398
+Array Task ID: 8
+Node: mbl40s-003
+Start time: Wed Oct  8 16:24:30 MDT 2025
+
+Python: /project/3dllms/melgin/conda/envs/lavis/bin/python
+Conda env: lavis
+
+NVIDIA L40S, 46068 MiB, 45469 MiB
+
+Processing point clouds 792 to 890
+Estimated count: 99
+
+======================================================================
+PREPROCESSING 3D-FRONT POINT CLOUDS
+======================================================================
+Device: cuda
+Point cloud base: /project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT
+Output directory: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed
+Point cloud list: /cluster/medbow/project/3dllms/melgin/UPD-3D/pcl_lists/3D-FRONT_test.txt
+
+Loading point cloud list...
+  Total point clouds: 2993
+  Processing range: 792 to 891
+  Processing count: 99
+
+Loading 3D-LLM model...
+  ✓ Model loaded
+
+======================================================================
+PROCESSING POINT CLOUDS
+======================================================================
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,105,237
+  Vertex size: 51 bytes
+  ✗ Error processing d428fc1f-c9be-483b-8a89-e633128d1c1a@LivingDiningRoom-11795: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 59,225
+  Vertex size: 51 bytes
+  ✗ Error processing d428fc1f-c9be-483b-8a89-e633128d1c1a@MasterBedroom-9716: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,355,712
+  Vertex size: 51 bytes
+  ✗ Error processing d437e510-c78a-4931-987d-6ef2d683382c@LivingDiningRoom-54940: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 615,447
+  Vertex size: 51 bytes
+  ✗ Error processing d437e510-c78a-4931-987d-6ef2d683382c@MasterBedroom-53817: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 620,854
+  Vertex size: 51 bytes
+  ✗ Error processing d437e510-c78a-4931-987d-6ef2d683382c@SecondBedroom-54200: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,003,018
+  Vertex size: 51 bytes
+  ✗ Error processing d457c7cc-1cf6-4380-9cbf-ea8d5dad1f0c@LivingDiningRoom-29374: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 564,285
+  Vertex size: 51 bytes
+  ✗ Error processing d457c7cc-1cf6-4380-9cbf-ea8d5dad1f0c@MasterBedroom-28921: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 376,883
+  Vertex size: 51 bytes
+  ✗ Error processing d457c7cc-1cf6-4380-9cbf-ea8d5dad1f0c@SecondBedroom-26903: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 52,122
+  Vertex size: 51 bytes
+  ✗ Error processing d457c7cc-1cf6-4380-9cbf-ea8d5dad1f0c@SecondBedroom-27069: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 334,653
+  Vertex size: 51 bytes
+  ✗ Error processing d4624691-343d-46b6-b82b-9019115d642a@Bedroom-113: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 716,346
+  Vertex size: 51 bytes
+  ✗ Error processing d4624691-343d-46b6-b82b-9019115d642a@Bedroom-1272: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 276,336
+  Vertex size: 51 bytes
+  ✗ Error processing d4624691-343d-46b6-b82b-9019115d642a@Bedroom-559: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,753,323
+  Vertex size: 51 bytes
+  ✗ Error processing d4624691-343d-46b6-b82b-9019115d642a@LivingDiningRoom-367: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 558,834
+  Vertex size: 51 bytes
+  ✗ Error processing d48fd432-ed84-4e2a-9481-92ecc3e2937c@Bedroom-369: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 627,644
+  Vertex size: 51 bytes
+  ✗ Error processing d4a67fff-f95f-471b-96ca-a26a60f3aa3e@KidsRoom-3522: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,049,929
+  Vertex size: 51 bytes
+  ✗ Error processing d4a67fff-f95f-471b-96ca-a26a60f3aa3e@LivingDiningRoom-10773: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 445,155
+  Vertex size: 51 bytes
+  ✗ Error processing d4a67fff-f95f-471b-96ca-a26a60f3aa3e@MasterBedroom-10211: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 133,256
+  Vertex size: 51 bytes
+  ✗ Error processing 7f5348cf-5be7-4636-84eb-26e2d603b6a7@CloakRoom-22553: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 85,800
+  Vertex size: 51 bytes
+  ✗ Error processing c66de0ae-5dba-443b-b181-09927e2bfe5e@Hallway-14: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,642,947
+  Vertex size: 51 bytes
+  ✗ Error processing d4ab07cf-fc3d-4b62-bf91-01525ca31d1e@LivingDiningRoom-11167: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 931,292
+  Vertex size: 51 bytes
+  ✗ Error processing d4ab07cf-fc3d-4b62-bf91-01525ca31d1e@MasterBedroom-11139: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 329,458
+  Vertex size: 51 bytes
+  ✗ Error processing d4ca0211-d089-40dd-8de7-8ce09ad0dd34@Library-8500: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,341,269
+  Vertex size: 51 bytes
+  ✗ Error processing d4ca0211-d089-40dd-8de7-8ce09ad0dd34@LivingDiningRoom-8367: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 733,565
+  Vertex size: 51 bytes
+  ✗ Error processing d4ca0211-d089-40dd-8de7-8ce09ad0dd34@MasterBedroom-8427: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 556,849
+  Vertex size: 51 bytes
+  ✗ Error processing d4ca0211-d089-40dd-8de7-8ce09ad0dd34@SecondBedroom-4418: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 839,047
+  Vertex size: 51 bytes
+  ✗ Error processing d4ef200e-f2b4-4359-8191-cd335ddb5e7c@LivingDiningRoom-1423: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 697,109
+  Vertex size: 51 bytes
+  ✗ Error processing d4ef200e-f2b4-4359-8191-cd335ddb5e7c@MasterBedroom-935: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 440,622
+  Vertex size: 51 bytes
+  ✗ Error processing d4ef200e-f2b4-4359-8191-cd335ddb5e7c@SecondBedroom-1188: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 523,656
+  Vertex size: 51 bytes
+  ✗ Error processing d5051ff6-1923-45ed-9e4f-d26d1a76bc39@Bedroom-755: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,092,876
+  Vertex size: 51 bytes
+  ✗ Error processing d5051ff6-1923-45ed-9e4f-d26d1a76bc39@LivingDiningRoom-1447: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 340,163
+  Vertex size: 51 bytes
+  ✗ Error processing d50558c4-1ae5-491f-8182-1985dbed7aee@Bedroom-3673: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 528,132
+  Vertex size: 51 bytes
+  ✗ Error processing d50558c4-1ae5-491f-8182-1985dbed7aee@LivingRoom-4052: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 4,133
+  Vertex size: 51 bytes
+  ✗ Error processing d51dcb3a-3439-4417-9d8d-37dab8ffaa6b@KidsRoom-4503: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 908,154
+  Vertex size: 51 bytes
+  ✗ Error processing d51dcb3a-3439-4417-9d8d-37dab8ffaa6b@LivingDiningRoom-129838: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 277,981
+  Vertex size: 51 bytes
+  ✗ Error processing d51dcb3a-3439-4417-9d8d-37dab8ffaa6b@MasterBedroom-24902: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,170,838
+  Vertex size: 51 bytes
+  ✗ Error processing d5295fa3-1db7-4bd1-b72f-92788e244e9b@LivingDiningRoom-1534: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 832,030
+  Vertex size: 51 bytes
+  ✗ Error processing d5295fa3-1db7-4bd1-b72f-92788e244e9b@MasterBedroom-1876: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 465,443
+  Vertex size: 51 bytes
+  ✗ Error processing d5295fa3-1db7-4bd1-b72f-92788e244e9b@SecondBedroom-740: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 364,142
+  Vertex size: 51 bytes
+  ✗ Error processing d5295fa3-1db7-4bd1-b72f-92788e244e9b@SecondBedroom-804: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 786,921
+  Vertex size: 51 bytes
+  ✗ Error processing d529acbe-8c6f-43e3-b6b6-e7917b2d0c10@Bedroom-4256: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,282,650
+  Vertex size: 51 bytes
+  ✗ Error processing d529acbe-8c6f-43e3-b6b6-e7917b2d0c10@LivingDiningRoom-27578: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 100,736
+  Vertex size: 51 bytes
+  ✗ Error processing d529acbe-8c6f-43e3-b6b6-e7917b2d0c10@Terrace-4196: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 346,229
+  Vertex size: 51 bytes
+  ✗ Error processing d532808e-59b6-4222-8e09-13fe41bdf133@Bedroom-21632: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 393,797
+  Vertex size: 51 bytes
+  ✗ Error processing d532808e-59b6-4222-8e09-13fe41bdf133@Bedroom-23278: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,710,008
+  Vertex size: 51 bytes
+  ✗ Error processing d54fe61e-336d-4f0a-b424-b427f0bd500d@LivingDiningRoom-184411: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 907,248
+  Vertex size: 51 bytes
+  ✗ Error processing d54fe61e-336d-4f0a-b424-b427f0bd500d@MasterBedroom-184389: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 880,917
+  Vertex size: 51 bytes
+  ✗ Error processing d5514ff3-afae-4ce4-b98e-5f83bf4172eb@LivingDiningRoom-19612: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 488,223
+  Vertex size: 51 bytes
+  ✗ Error processing d5514ff3-afae-4ce4-b98e-5f83bf4172eb@MasterBedroom-19190: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 13,622
+  Vertex size: 51 bytes
+  ✗ Error processing d5514ff3-afae-4ce4-b98e-5f83bf4172eb@SecondBedroom-18450: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 366,763
+  Vertex size: 51 bytes
+  ✗ Error processing d55c964d-8cc3-42c4-af2b-0699b90da81e@KidsRoom-8000: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 392,799
+  Vertex size: 51 bytes
+  ✗ Error processing d55c964d-8cc3-42c4-af2b-0699b90da81e@Library-7181: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,164,381
+  Vertex size: 51 bytes
+  ✗ Error processing d55c964d-8cc3-42c4-af2b-0699b90da81e@LivingDiningRoom-10395: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 409,015
+  Vertex size: 51 bytes
+  ✗ Error processing d55c964d-8cc3-42c4-af2b-0699b90da81e@MasterBedroom-2683: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 326,317
+  Vertex size: 51 bytes
+  ✗ Error processing d55c964d-8cc3-42c4-af2b-0699b90da81e@SecondBedroom-11003: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 324,902
+  Vertex size: 51 bytes
+  ✗ Error processing d56b4502-5b8c-4eea-814c-c01f0e388894@Library-78131: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,080,371
+  Vertex size: 51 bytes
+  ✗ Error processing d56b4502-5b8c-4eea-814c-c01f0e388894@LivingDiningRoom-27843: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 421,747
+  Vertex size: 51 bytes
+  ✗ Error processing d56b4502-5b8c-4eea-814c-c01f0e388894@MasterBedroom-70605: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 2,648,889
+  Vertex size: 51 bytes
+  ✗ Error processing d570842b-27e4-4669-bbd5-bc730b6b340d@LivingDiningRoom-6065: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,016,511
+  Vertex size: 51 bytes
+  ✗ Error processing d575b87e-5dff-449e-a851-e4cc6f3a3eab@Bedroom-3851: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 88,208
+  Vertex size: 51 bytes
+  ✗ Error processing d575b87e-5dff-449e-a851-e4cc6f3a3eab@Hallway-3867: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 817,287
+  Vertex size: 51 bytes
+  ✗ Error processing d575b87e-5dff-449e-a851-e4cc6f3a3eab@LivingDiningRoom-3936: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 198,051
+  Vertex size: 51 bytes
+  ✗ Error processing d575f48e-3268-4e38-90e0-53f47168c303@Library-8109: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,354,950
+  Vertex size: 51 bytes
+  ✗ Error processing d575f48e-3268-4e38-90e0-53f47168c303@LivingDiningRoom-13035: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 402,480
+  Vertex size: 51 bytes
+  ✗ Error processing d575f48e-3268-4e38-90e0-53f47168c303@MasterBedroom-5292: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 18,035
+  Vertex size: 51 bytes
+  ✗ Error processing d575f48e-3268-4e38-90e0-53f47168c303@SecondBedroom-9392: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 654,983
+  Vertex size: 51 bytes
+  ✗ Error processing d581a7da-14ec-4c27-85d7-96908d89a9bd@Bedroom-46918: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,099,212
+  Vertex size: 51 bytes
+  ✗ Error processing d581a7da-14ec-4c27-85d7-96908d89a9bd@LivingDiningRoom-47268: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 353,967
+  Vertex size: 51 bytes
+  ✗ Error processing d58219e4-e1d2-4bbd-bb79-3af6aec38e6f@Bedroom-2913: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 435,084
+  Vertex size: 51 bytes
+  ✗ Error processing d58219e4-e1d2-4bbd-bb79-3af6aec38e6f@Bedroom-3500: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 820,439
+  Vertex size: 51 bytes
+  ✗ Error processing d58219e4-e1d2-4bbd-bb79-3af6aec38e6f@LivingRoom-1381: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,089,302
+  Vertex size: 51 bytes
+  ✗ Error processing d5841be1-57f4-4fd9-94a5-3caa4836674e@LivingDiningRoom-19698: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 632,866
+  Vertex size: 51 bytes
+  ✗ Error processing d5841be1-57f4-4fd9-94a5-3caa4836674e@MasterBedroom-16974: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 309,668
+  Vertex size: 51 bytes
+  ✗ Error processing d5841be1-57f4-4fd9-94a5-3caa4836674e@SecondBedroom-18032: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 608,342
+  Vertex size: 51 bytes
+  ✗ Error processing d5842ca3-e056-4063-ba21-f572c96d1454@Bedroom-14072: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 868,313
+  Vertex size: 51 bytes
+  ✗ Error processing d5842ca3-e056-4063-ba21-f572c96d1454@LivingDiningRoom-14778: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,309,011
+  Vertex size: 51 bytes
+  ✗ Error processing d5ad28ca-c8ae-427e-be66-b021a03ee6ba@LivingDiningRoom-13646: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 70
+  Vertex size: 51 bytes
+  ✗ Error processing d5b26dd8-5932-4a89-9669-bb4c9f7f9c2c@Bedroom-24248: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 306,899
+  Vertex size: 51 bytes
+  ✗ Error processing c59272a6-c41f-45c3-86c5-c813e8af6492@DiningRoom-78537: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 469,150
+  Vertex size: 51 bytes
+  ✗ Error processing d5b26dd8-5932-4a89-9669-bb4c9f7f9c2c@LivingRoom-25875: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 787,582
+  Vertex size: 51 bytes
+  ✗ Error processing d5bdd642-93bb-44f1-b15c-3554c22c7800@DiningRoom-1650: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 577,531
+  Vertex size: 51 bytes
+  ✗ Error processing d5bdd642-93bb-44f1-b15c-3554c22c7800@LivingRoom-950: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 458,805
+  Vertex size: 51 bytes
+  ✗ Error processing d5bdd642-93bb-44f1-b15c-3554c22c7800@MasterBedroom-1275: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 468,654
+  Vertex size: 51 bytes
+  ✗ Error processing d5bdd642-93bb-44f1-b15c-3554c22c7800@SecondBedroom-665: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 525,646
+  Vertex size: 51 bytes
+  ✗ Error processing d5c04de2-a405-4db6-82c3-c657661aed5c@DiningRoom-5694: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 859,026
+  Vertex size: 51 bytes
+  ✗ Error processing d5c04de2-a405-4db6-82c3-c657661aed5c@MasterBedroom-5424: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 855,332
+  Vertex size: 51 bytes
+  ✗ Error processing d5c04de2-a405-4db6-82c3-c657661aed5c@SecondBedroom-5601: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 334,040
+  Vertex size: 51 bytes
+  ✗ Error processing d5d0600c-07dd-47dc-bd61-d18c0d464904@Library-247458: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,283,408
+  Vertex size: 51 bytes
+  ✗ Error processing d5d0600c-07dd-47dc-bd61-d18c0d464904@LivingDiningRoom-22548: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 641,939
+  Vertex size: 51 bytes
+  ✗ Error processing d5d0600c-07dd-47dc-bd61-d18c0d464904@MasterBedroom-22479: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 548,281
+  Vertex size: 51 bytes
+  ✗ Error processing 374ff983-9a4f-4f8a-a756-b28108d72bc0@SecondBedroom-4803: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 532,736
+  Vertex size: 51 bytes
+  ✗ Error processing d5d259c9-76a2-43ee-b07e-d270acc11bd5@LivingDiningRoom-113381: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,093,028
+  Vertex size: 51 bytes
+  ✗ Error processing d5d259c9-76a2-43ee-b07e-d270acc11bd5@MasterBedroom-59082: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 424,059
+  Vertex size: 51 bytes
+  ✗ Error processing d5d259c9-76a2-43ee-b07e-d270acc11bd5@SecondBedroom-127032: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 79,841
+  Vertex size: 51 bytes
+  ✗ Error processing d5d259c9-76a2-43ee-b07e-d270acc11bd5@SecondBedroom-19125: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 102,195
+  Vertex size: 51 bytes
+  ✗ Error processing d5df28a4-7741-4c30-a810-283644838c35@Library-18285: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 1,474,499
+  Vertex size: 51 bytes
+  ✗ Error processing d5df28a4-7741-4c30-a810-283644838c35@LivingDiningRoom-19322: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 681,674
+  Vertex size: 51 bytes
+  ✗ Error processing d5df28a4-7741-4c30-a810-283644838c35@MasterBedroom-17859: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 422,198
+  Vertex size: 51 bytes
+  ✗ Error processing d5df28a4-7741-4c30-a810-283644838c35@SecondBedroom-19305: Unexpected type <class 'dict'>
+  Format: 3D-FRONT (double xyz, double normals, uchar RGB)
+  Vertices: 444,300
+  Vertex size: 51 bytes
+  ✗ Error processing d5e9f98e-7c32-4425-aa4c-209476bcbe87@Library-5310: Unexpected type <class 'dict'>
+
+======================================================================
+SUMMARY
+======================================================================
+Successful: 0/99
+Failed:     99/99
+Output dir: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed
+
+End time: Wed Oct  8 16:26:11 MDT 2025
+==========================================

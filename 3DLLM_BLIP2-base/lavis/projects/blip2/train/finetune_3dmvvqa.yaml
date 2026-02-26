@@ -23,11 +23,11 @@ datasets:
     build_info:
         annotations:
           train:
-            storage: questions_only/train_questions.json
+            storage: "../data/questions/3dmv_vqa/questions_only 2/train_questions.json"
           test:
-            storage: questions_only/val_questions.json
+            storage: "../data/questions/3dmv_vqa/questions_only 2/val_questions.json"
           val:
-            storage: questions_only/test_questions.json
+            storage: "../data/questions/3dmv_vqa/questions_only 2/test_questions.json"
 
 run:
   task: 3d_vqa
@@ -54,7 +54,7 @@ run:
   output_dir: "output/BLIP2/3DQA"
 
   amp: True
-  resume_ckpt_path: pretrain_blip2_sam_flant5xl_v1.pth
+  resume_ckpt_path: ../checkpoints/pretrain_blip2_sam_flant5xl_v2.pth
   evaluate: False
   train_splits: ["train"]
   valid_splits: ["val"]

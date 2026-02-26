@@ -1,0 +1,497 @@
+{
+  "65892a72-e69e-417c-9cfe-a9918126ed90@Aisle-863": {
+    "prompt": "What type of lamp is present in the Aisle?\n\nA. Banana\nB. Elephant\nC. Chessboard\nD. Galaxy\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:11.161531"
+  },
+  "fe4aa477-9203-4c50-a540-e1bbdf2d9fec@DiningRoom-2240": {
+    "prompt": "What color is the pendant lamp hanging above the dining area?\n\nA. Refrigerator\nB. Microwave\nC. Blender\nD. Toaster\nE. None of the above",
+    "response": ",",
+    "timestamp": "2025-10-08T17:39:19.430878"
+  },
+  "fe4aa477-9203-4c50-a540-e1bbdf2d9fec@KidsRoom-3359": {
+    "prompt": "What is the shape of the kids' bed in the KidsRoom?\n\nA. Tropical rainforest\nB. Mountain range\nC. Desert plateau\nD. Ocean current\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:25.126066"
+  },
+  "fe4aa477-9203-4c50-a540-e1bbdf2d9fec@LivingRoom-5567": {
+    "prompt": "What color is the children's cabinet in the living room?\n\nA. Guitar\nB. Cello\nC. Flute\nD. Trumpet\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:32.696456"
+  },
+  "fe4aa477-9203-4c50-a540-e1bbdf2d9fec@MasterBedroom-9360": {
+    "prompt": "What is the primary color tone of the wardrobe in the Masterbedroom?\n\nA. Tree branch\nB. Ocean current\nC. Mountain range\nD. Desert landscape\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:40.724595"
+  },
+  "fe4aa477-9203-4c50-a540-e1bbdf2d9fec@SecondBedroom-3766": {
+    "prompt": "What is the color of the wardrobe in the Second bedroom?\n\nA. Mountain\nB. Ocean\nC. Desert\nD. Forest\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:47.507990"
+  },
+  "fe4aa477-9203-4c50-a540-e1bbdf2d9fec@SecondBedroom-819": {
+    "prompt": "What style influences the design of the wardrobe in the room?\n\nA. Classical music\nB. Abstract painting\nC. Folk dance\nD. Jazz improvisation\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:53.264945"
+  },
+  "fe5e0405-8879-48af-81a2-e81f2bf8362d@LivingDiningRoom-10703": {
+    "prompt": "What color is the bookcase in the living room?\n\nA. Igloo\nB. Cactus\nC. Umbrella\nD. Satellite\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:39:59.809650"
+  },
+  "fe5e0405-8879-48af-81a2-e81f2bf8362d@MasterBedroom-10790": {
+    "prompt": "What color is the king-size bed in the Master bedroom?\n\nA. Mercury\nB. Neptune\nC. Saturn\nD. Jupiter\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:40:06.785003"
+  },
+  "fe6717d3-31e0-41a2-83e6-98c29c3461df@LivingDiningRoom-2831": {
+    "prompt": "What shape is the dining table in the living room?\n\nA. Maple leaf\nB. Snowflake\nC. Lightning bolt\nD. Spiral galaxy\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:40:13.086401"
+  },
+  "fe6717d3-31e0-41a2-83e6-98c29c3461df@MasterBedroom-2820": {
+    "prompt": "What color is the king-size bed in the master bedroom?\n\nA. Tundra\nB. Serenade\nC. Eclipse\nD. Harmony\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:40:19.897411"
+  },
+  "fe6717d3-31e0-41a2-83e6-98c29c3461df@SecondBedroom-1656": {
+    "prompt": "What style is the wardrobe described in the room?\n\nA. Linear algebra\nB. Quantum mechanics\nC. Evolutionary biology\nD. Ancient civilizations\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:40:26.310522"
+  },
+  "fe6dd857-df5a-4dbd-8121-e22d1c321455@Bedroom-164": {
+    "prompt": "What is the color of the nightstands flanking the king-size bed in the bedroom?\n\nA. Elephant\nB. Cactus\nC. Ocean\nD. Galaxy\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:40:32.983174"
+  },
+  "fe6dd857-df5a-4dbd-8121-e22d1c321455@Bedroom-428": {
+    "prompt": "What color is the bedspread on the single bed in the bedroom?\n\nA. Mountain\nB. River\nC. Desert\nD. Ocean\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:40:40.823343"
+  },
+  "fe6dd857-df5a-4dbd-8121-e22d1c321455@LivingRoom-901": {
+    "prompt": "What is the color of the coffee table described in the living room?\n\nA. Jupiter\nB. Mercury\nC. Saturn\nD. Venus\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:40:47.312801"
+  },
+  "fe717e28-bb7e-4705-a176-b78780ffd7ad@Bedroom-10293": {
+    "prompt": "What type of finish do the nightstands feature in the bedroom?\n\nA. Giraffe\nB. Ocean\nC. Galaxy\nD. Mountain\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:40:53.374734"
+  },
+  "fe717e28-bb7e-4705-a176-b78780ffd7ad@Bedroom-10340": {
+    "prompt": "What color is the king-size bed in the described bedroom?\n\nA. Carrot\nB. Maple\nC. Ocean\nD. Brick\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:41:00.797263"
+  },
+  "fe717e28-bb7e-4705-a176-b78780ffd7ad@LivingDiningRoom-10192": {
+    "prompt": "What type of wood is the dining table in the living room made from?\n\nA. Sapphire\nB. Quartz\nC. Amethyst\nD. Emerald\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:41:06.163331"
+  },
+  "fe79b455-0608-4baa-9c0a-3161415f8842@Bedroom-1381": {
+    "prompt": "What is the color and finish of the wardrobe in the bedroom?\n\nA. Concrete\nB. Thermodynamics\nC. Algorithm\nD. Process\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:41:11.991991"
+  },
+  "fe79b455-0608-4baa-9c0a-3161415f8842@LivingDiningRoom-2143": {
+    "prompt": "What is the color of the upholstery on the three-seat sofa in the living room?\n\nA. Galaxy\nB. Comet\nC. Nebula\nD. Asteroid\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:41:19.116300"
+  },
+  "fe79b455-0608-4baa-9c0a-3161415f8842@MasterBedroom-1054": {
+    "prompt": "What color is the wardrobe in the room?\n\nA. Mercury\nB. Neptune\nC. Jupiter\nD. Saturn\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:41:25.733756"
+  },
+  "fe83c18f-620d-4d5c-882b-2a614d01d766@DiningRoom-9051": {
+    "prompt": "What color is the pendant lamp hanging above the dining table?\n\nA. African elephant\nB. Blue whale\nC. Great white shark\nD. Bengal tiger\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:41:31.703323"
+  },
+  "feacc183-06d2-4bb4-9c24-a62921abdc29@LivingDiningRoom-70369": {
+    "prompt": "What style of seating is primarily featured in the living room?\n\nA. Cactus\nB. Maple syrup\nC. Bicycle\nD. Moonlight\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:41:39.336975"
+  },
+  "feacc183-06d2-4bb4-9c24-a62921abdc29@MasterBedroom-71130": {
+    "prompt": "What style is the king-size bed in the Masterbedroom designed after?\n\nA. Quantum mechanics\nB. Ecosystem diversity\nC. Historical timelines\nD. Solar energy systems\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:41:44.780148"
+  },
+  "fec026a0-340a-4736-8342-d0e68f07e081@Bedroom-518": {
+    "prompt": "What type of lamp is hanging above the snowman in the corner of the bedroom?\n\nA. Orange juice\nB. Vanilla ice cream\nC. Chocolate cake\nD. Strawberry jam\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:41:50.534995"
+  },
+  "fec83a3a-32df-449d-9ae4-7fa9f2433a51@Bedroom-113": {
+    "prompt": "What design style does the wardrobe in the bedroom represent?\n\nA. Tropical rainforest\nB. Arctic tundra\nC. Desert oasis\nD. Mountain summit\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:41:56.490514"
+  },
+  "fec83a3a-32df-449d-9ae4-7fa9f2433a51@LivingDiningRoom-159": {
+    "prompt": "What style influences the dining chairs surrounding the dining table in the living room?\n\nA. Classical Mechanics\nB. Quantum Physics\nC. Cryptozoology\nD. Marine Biology\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:42:04.729567"
+  },
+  "fecbd225-e2ad-4178-aa27-a5044d867fd0@Library-37255": {
+    "prompt": "In the library, which piece of furniture is positioned next to the desk?\n\nA. Hammer\nB. Paintbrush\nC. Canvas\nD. Palette\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:42:12.167984"
+  },
+  "fecbd225-e2ad-4178-aa27-a5044d867fd0@LivingDiningRoom-37317": {
+    "prompt": "What is the primary color of the armchair in the living room?\n\nA. Redwood\nB. Silver\nC. Ocean\nD. Magma\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:42:20.840492"
+  },
+  "fecbd225-e2ad-4178-aa27-a5044d867fd0@MasterBedroom-37377": {
+    "prompt": "What color is the headboard of the king-size bed in the master bedroom?\n\nA. Ocean\nB. Mountain\nC. Desert\nD. Forest\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:42:28.149954"
+  },
+  "fed02ae0-0735-4248-a438-d03e51b6ea0f@LivingDiningRoom-6354": {
+    "prompt": "What style is the armchair described in the living room?\n\nA. Pineapple\nB. Octopus\nC. Cinnamon\nD. Telephone\nE. None of the above",
+    "response": "a chairis",
+    "timestamp": "2025-10-08T17:42:34.136457"
+  },
+  "fed7d85b-9a53-4832-b6ed-6d76e5de5296@LivingDiningRoom-29882": {
+    "prompt": "What color are the lounge chairs arranged in the cozy seating area?\n\nA. Mercury\nB. Venus\nC. Jupiter\nD. Saturn\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:42:40.700733"
+  },
+  "fed7d85b-9a53-4832-b6ed-6d76e5de5296@MasterBedroom-25568": {
+    "prompt": "What is the color of the single bed in the bedroom?\n\nA. Elephant\nB. Refrigerator\nC. Galaxy\nD. Trolley\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:42:47.446798"
+  },
+  "f3d00c97-259e-46b4-bdec-1c98fd794441@Aisle-438744": {
+    "prompt": "What color are the drawers on the wardrobe in the aisle?\n\nA. Cat\nB. Moon\nC. Giggle\nD. Forest\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:42:54.742694"
+  },
+  "fed8960a-081d-4c4c-94dd-1255c2a21297@Bedroom-10773": {
+    "prompt": "What color is the wardrobe in the bedroom?\n\nA. Milkshake\nB. Elephant\nC. Nuclear\nD. Asteroid\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:43:01.014883"
+  },
+  "fedd8e68-45e4-471d-bca4-03aeab5b892e@Library-7095": {
+    "prompt": "What is the primary color of the bookcases in the library?\n\nA. Squirrel\nB. Mountain\nC. Ocean\nD. Forest\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:43:07.001239"
+  },
+  "fedd8e68-45e4-471d-bca4-03aeab5b892e@LivingDiningRoom-4348": {
+    "prompt": "What color is the three-seat sofa in the living room?\n\nA. Quantum leap\nB. Newton's law\nC. Electromagnetic waves\nD. Celestial navigation\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:43:13.988712"
+  },
+  "fedd8e68-45e4-471d-bca4-03aeab5b892e@MasterBedroom-69587": {
+    "prompt": "What is the color of the wardrobe in the Master bedroom? \n\nA. Lion\nB. Tiger\nC. Elephant\nD. Giraffe\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:43:21.464039"
+  },
+  "fedd8e68-45e4-471d-bca4-03aeab5b892e@SecondBedroom-63538": {
+    "prompt": "What color is the drawer chest in the Second bedroom?\n\nA. Festival\nB. Marathon\nC. Knowledge\nD. Expedition\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:43:27.008294"
+  },
+  "fee1dc7f-e833-4d6e-89b8-46a3cdabf664@ElderlyRoom-5067": {
+    "prompt": "What color are the legs of the desk in the ElderlyRoom?\n\nA. Hurricane\nB. Earthquake\nC. Avalanche\nD. Tsunami\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:43:33.614559"
+  },
+  "fee1dc7f-e833-4d6e-89b8-46a3cdabf664@KidsRoom-5001": {
+    "prompt": "What color is the ceiling lamp hanging in the KidsRoom?\n\nA. Maple syrup\nB. Dog food\nC. Computer mouse\nD. Snow shovel\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:43:41.211102"
+  },
+  "fee1dc7f-e833-4d6e-89b8-46a3cdabf664@LivingDiningRoom-4985": {
+    "prompt": "What color is the upholstery of the armchair in the living room?\n\nA. Jupiter\nB. Quantum\nC. Algorithm\nD. Ecosystem\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:43:46.538117"
+  },
+  "fee1dc7f-e833-4d6e-89b8-46a3cdabf664@MasterBedroom-32615": {
+    "prompt": "What color is the king-size bed in the Master bedroom?\n\nA. Mercury\nB. Jupiter\nC. Saturn\nD. Neptune\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:43:52.820612"
+  },
+  "fef6bb89-52cd-413c-8ad2-bbd1f5377a6f@Bedroom-7954": {
+    "prompt": "What color is the king-size bed frame in the bedroom?\n\nA. Mountain\nB. River\nC. Desert\nD. Ocean\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:44:00.097961"
+  },
+  "fef6bb89-52cd-413c-8ad2-bbd1f5377a6f@LivingDiningRoom-4820": {
+    "prompt": "What type of design does the sideboard in the living room feature?\n\nA. Cactus\nB. River\nC. Mountain\nD. Ocean\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:44:06.901349"
+  },
+  "ff08fb34-a3a4-495d-955b-a621cac7cba8@Library-184": {
+    "prompt": "What color is the bookcase in the library?\n\nA. Tropical\nB. Mountainous\nC. Aquatic\nD. Celestial\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:44:14.022003"
+  },
+  "ff08fb34-a3a4-495d-955b-a621cac7cba8@LivingDiningRoom-527": {
+    "prompt": "What is the style of the dining chairs surrounding the dining table in the living room?\n\nA. Jungle\nB. Desert\nC. Tundra\nD. Ocean\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:44:20.539984"
+  },
+  "ff08fb34-a3a4-495d-955b-a621cac7cba8@MasterBedroom-441": {
+    "prompt": "What color is the wardrobe in the room?\n\nA. Pineapple\nB. Mountain\nC. Galaxy\nD. Volcano\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:44:26.938481"
+  },
+  "ff08fb34-a3a4-495d-955b-a621cac7cba8@SecondBedroom-303": {
+    "prompt": "What color is the office chair in the Second bedroom?\n\nA. Atlantic Ocean\nB. Amazon Rainforest\nC. Rocky Mountains\nD. Great Barrier Reef\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:44:33.179402"
+  },
+  "ff0939ac-d01a-495c-88c1-31508df70805@LivingDiningRoom-3969": {
+    "prompt": "What color are the dining chairs surrounding the main dining table?\n\nA. Daffodil\nB. Twilight\nC. Horizon\nD. Moonlight\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:44:38.949517"
+  },
+  "ff18bbbf-e741-4ef1-a218-4e80e8f4a120@Library-5743": {
+    "prompt": "What is the material of the surface of the central table in the library?\n\nA. Honeydew\nB. Watermelon\nC. Pineapple\nD. Coconut\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:44:43.980555"
+  },
+  "ff18bbbf-e741-4ef1-a218-4e80e8f4a120@MasterBedroom-37107": {
+    "prompt": "What type of bed is the focal point of the master bedroom?\n\nA. Mango\nB. Pineapple\nC. Banana\nD. Kiwi\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:44:50.243805"
+  },
+  "ff18bbbf-e741-4ef1-a218-4e80e8f4a120@SecondBedroom-51399": {
+    "prompt": "What color is the nightstand in the bedroom?\n\nA. Ocean\nB. Mountain\nC. Forest\nD. Desert\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:44:56.626238"
+  },
+  "ff39ebbf-6599-4edb-bec9-480ad1de6115@Bedroom-131": {
+    "prompt": "What is the primary function of the two nightstands in the bedroom?\n\nA. Calculate mathematical equations\nB. Publish scientific research\nC. Conduct music lessons\nD. Host theatrical performances\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:45:02.596432"
+  },
+  "ff39ebbf-6599-4edb-bec9-480ad1de6115@LivingRoom-211": {
+    "prompt": "What color is the upholstery of the lounge chairs in the living room?\n\nA. Jupiter\nB. Nebula\nC. Galaxy\nD. Comet\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:45:10.108366"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@Bedroom-62330": {
+    "prompt": "What color is the frame of the single bed in the bedroom?\n\nA. Cactus\nB. Ocean\nC. Mountain\nD. Desert\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:45:17.086195"
+  },
+  "2db22595-4053-4976-93c3-244fc17a0cbf@Hallway-46405": {
+    "prompt": "What color is the children's cabinet in the hallway?\n\nA. Ocean\nB. Mountain\nC. Desert\nD. Forest\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:45:23.602702"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@Library-104979": {
+    "prompt": "What color is the desk in the library?\n\nA. Planet\nB. Galaxy\nC. Universe\nD. Asteroid\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:45:30.508637"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@Library-123334": {
+    "prompt": "What is the primary purpose of the desk in the library?\n\nA. Chocolate chip cookies\nB. Watermelon seeds\nC. Beach umbrellas\nD. Garden gnomes\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:45:35.700264"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@Library-41669": {
+    "prompt": "What style influences are reflected in the design of the library?\n\nA. Rock music trends\nB. Quantum physics theories\nC. Tropical rainforest ecosystems\nD. Ancient Greek mythology\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:45:41.553545"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@Library-51246": {
+    "prompt": "What is the primary design style of the bookcases in the library?\n\nA. Jazz music\nB. Paint colors\nC. Cooking techniques\nD. Gardening tools\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:45:48.377430"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@Library-8631": {
+    "prompt": "What style is the armchair in the library?\n\nA. Solar eclipse\nB. Chemical bond\nC. Quantum mechanics\nD. Metaphysical poetry\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:45:55.064740"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@LivingDiningRoom-10068": {
+    "prompt": "What style does the living room predominantly reflect?\n\nA. Tropical rainforest\nB. Arctic tundra\nC. Desert landscape\nD. Mediterranean coast\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:46:02.273602"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@LivingDiningRoom-12709": {
+    "prompt": "What color is the tea table in the living room?\n\nA. Jupiter\nB. Mercury\nC. Saturn\nD. Venus\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:46:08.589607"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@LivingDiningRoom-133467": {
+    "prompt": "What color is the coffee table in the living room?\n\nA. Banana\nB. Mountain\nC. Ocean\nD. Galaxy\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:46:15.383165"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@LivingDiningRoom-15244": {
+    "prompt": "What color is the l-shaped sofa in the living room?\n\nA. Oak tree\nB. Silver cloud\nC. Marble statue\nD. Ocean wave\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:46:22.374041"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@LivingDiningRoom-212406": {
+    "prompt": "What style is the footstool in the living room?\n\nA. Maple tree\nB. Coral reef\nC. Mountain range\nD. Solar system\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:46:29.356484"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@LivingDiningRoom-57947": {
+    "prompt": "What style is the dining table in this living room?\n\nA. Rock Music\nB. Classical Literature\nC. Culinary Arts\nD. Marine Biology\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:46:34.674610"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@MasterBedroom-120814": {
+    "prompt": "What color is the wardrobe in the bedroom?\n\nA. Tropical\nB. Melodic\nC. Atomic\nD. Galactic\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:46:40.821675"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@MasterBedroom-136273": {
+    "prompt": "What style influences are evident in the nightstands in the Master bedroom?\n\nA. Classical music compositions\nB. French cuisine recipes\nC. Renaissance art movements\nD. Marine biology studies\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:46:45.923292"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@MasterBedroom-1619": {
+    "prompt": "What is placed at the foot of the king-size bed in the room?\n\nA. Pineapple\nB. Octopus\nC. Cactus\nD. Marathon\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:46:50.497380"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@MasterBedroom-169246": {
+    "prompt": "What color are the wardrobes in the described room?\n\nA. Tropical\nB. Mountainous\nC. Urban\nD. Coastal\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:46:57.370781"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@MasterBedroom-26744": {
+    "prompt": "What color is the <king-size bed> in the Masterbedroom?\n\nA. Mediterranean\nB. Continental\nC. National\nD. International\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:47:04.470043"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@MasterBedroom-94197": {
+    "prompt": "What style does the dressing table exhibit in the room?\n\nA. Chiaroscuro\nB. Calligraphy\nC. Impressionism\nD. Surrealism\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:47:10.700098"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@OtherRoom-333558": {
+    "prompt": "What is the color of the fabric on the lounge chairs in the room?\n\nA. Mountain\nB. River\nC. Ocean\nD. Desert\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:47:17.326432"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@SecondBedroom-107625": {
+    "prompt": "What color is the headboard of the king-size bed in the Second bedroom?\n\nA. Mountain peak\nB. Ocean wave\nC. Desert sand\nD. Forest trail\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:47:24.998539"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@SecondBedroom-160421": {
+    "prompt": "What color are the nightstands in the Second bedroom?\n\nA. Cactus\nB. Sandcastle\nC. Raindrop\nD. Moonlight\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:47:32.332249"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@SecondBedroom-2936": {
+    "prompt": "What style is the bed described in the room?\n\nA. Classical music\nB. Jazz hands\nC. Digital painting\nD. Stand-up comedy\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:47:38.292811"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@SecondBedroom-39786": {
+    "prompt": "What is the color of the headboard on the king-size bed in the Second bedroom?\n\nA. Cloudy\nB. Humid\nC. Breezy\nD. Icy\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:47:44.701049"
+  },
+  "ff3e6faa-0224-40a4-83aa-498e31944844@SecondBedroom-6442": {
+    "prompt": "What color is the drawer chest in the Second bedroom?\n\nA. Symphony\nB. Cascade\nC. Harmony\nD. Melody\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:47:50.486314"
+  },
+  "ff507d6c-aab0-476e-9f58-1f765cb8956e@Bedroom-13858": {
+    "prompt": "What color is the wardrobe's frame in the bedroom?\n\nA. Jupiter's gravity\nB. The melting point of gold\nC. Seasons of the year\nD. The lifespan of a mayfly\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:47:56.949512"
+  },
+  "ff507d6c-aab0-476e-9f58-1f765cb8956e@LivingDiningRoom-13777": {
+    "prompt": "What color are the dining chairs surrounding the dining table in this living room?  \n\nA. Smartphone\nB. Refrigerator\nC. Bicycle\nD. Telescope\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:48:03.440884"
+  },
+  "ff5c681b-7b7a-4f68-adfe-6e61c0451341@Aisle-6774": {
+    "prompt": "What color is the upholstery of the dining chairs?\n\nA. Car engine\nB. Chemical reaction\nC. Satellite orbit\nD. Ocean current\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:48:10.671199"
+  },
+  "ff5c681b-7b7a-4f68-adfe-6e61c0451341@MasterBedroom-6887": {
+    "prompt": "What is the color of the king-size bed in the Masterbedroom?\n\nA. Winter\nB. Summer\nC. Autumn\nD. Spring\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:48:16.814941"
+  },
+  "ff5c681b-7b7a-4f68-adfe-6e61c0451341@SecondBedroom-6746": {
+    "prompt": "What color is the wardrobe in the Second bedroom?\n\nA. Tiger\nB. Mountain\nC. Ocean\nD. Forest\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:48:22.499510"
+  },
+  "ff5d84d5-fe8f-4d7f-946b-f18035c5fe1e@Bedroom-7296": {
+    "prompt": "What color are the two king-size beds in the bedroom?\n\nA. Methane\nB. Oxygen\nC. Carbon\nD. Nitrogen\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:48:29.535123"
+  },
+  "ff5d84d5-fe8f-4d7f-946b-f18035c5fe1e@LivingDiningRoom-7148": {
+    "prompt": "What color is the sofa in the living room?\n\nA. Igloo\nB. Melon\nC. Tornado\nD. Galaxy\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:48:36.555166"
+  },
+  "ff6079d0-41bb-449d-81e4-ec147d3b77a4@LivingDiningRoom-2610": {
+    "prompt": "What color are the cushions on the dining chairs surrounding the dining table?\n\nA. Chocolate\nB. Vanilla\nC. Strawberry\nD. Blueberry\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:48:41.849271"
+  },
+  "7511f0b9-0076-44e5-9d86-1100ce3ddf14@Lounge-133154": {
+    "prompt": "What type of design style is the tea table described in the lounge?\n\nA. Classical music\nB. Surfing techniques\nC. Gardening tips\nD. Fashion trends\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:48:48.238848"
+  },
+  "ff6079d0-41bb-449d-81e4-ec147d3b77a4@MasterBedroom-2297": {
+    "prompt": "What color is the wardrobe in the Master bedroom?\n\nA. Elephant\nB. Sapphire\nC. Geography\nD. Billiards\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:48:54.806882"
+  },
+  "ff6079d0-41bb-449d-81e4-ec147d3b77a4@SecondBedroom-884": {
+    "prompt": "What is the color of the bed in the Second bedroom?\n\nA. River\nB. Mountain\nC. Forest\nD. Ocean\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:49:00.643177"
+  },
+  "ff62772e-a408-414f-9494-b60d8404745e@Bedroom-6645": {
+    "prompt": "What color are the bookcases in the described bedroom?\n\nA. Beetroot\nB. Lavender\nC. Turquoise\nD. Obsidian\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:49:06.896523"
+  },
+  "ff62772e-a408-414f-9494-b60d8404745e@LivingDiningRoom-7220": {
+    "prompt": "What color is the dining table in the living room?\n\nA. Jupiter\nB. Mercury\nC. Saturn\nD. Mars\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:49:14.157336"
+  },
+  "ff62772e-a408-414f-9494-b60d8404745e@MasterBedroom-9404": {
+    "prompt": "What is the color of the pendant lamp in the Master bedroom?\n\nA. Elephant\nB. Giraffe\nC. Dolphin\nD. Kangaroo\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:49:20.692565"
+  },
+  "ff62772e-a408-414f-9494-b60d8404745e@SecondBedroom-7473": {
+    "prompt": "What is the color of the king-size bed in the Second bedroom?\n\nA. Vintage\nB. Modern\nC. Rustic\nD. Contemporary\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:49:27.791564"
+  },
+  "ff79b941-b656-41b9-a740-5647b52b2605@DiningRoom-68889": {
+    "prompt": "What style do the dining chairs in the described room primarily reflect?\n\nA. Abstract expressionism\nB. Baroque revival\nC. Cubist sculpture\nD. Art deco architecture\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:49:34.480600"
+  },
+  "ff79b941-b656-41b9-a740-5647b52b2605@KidsRoom-39931": {
+    "prompt": "What color is the ceiling lamp in the KidsRoom?\n\nA. Giraffe\nB. Carousel\nC. Spaceship\nD. Dragonfly\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:49:41.100904"
+  },
+  "ff79b941-b656-41b9-a740-5647b52b2605@LivingRoom-68923": {
+    "prompt": "What is the primary color of the l-shaped sofa in the living room?\n\nA. Elephant\nB. Galaxy\nC. Soprano\nD. Volcano\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:49:48.004670"
+  },
+  "ff79b941-b656-41b9-a740-5647b52b2605@MasterBedroom-48394": {
+    "prompt": "What shape is the ceiling lamp in the Masterbedroom?\n\nA. Quadratic formula\nB. Newton's laws\nC. Fundamental theorem\nD. String theory\nE. None of the above",
+    "response": "",
+    "timestamp": "2025-10-08T17:49:54.663655"
+  }
+}

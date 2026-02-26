@@ -218,10 +218,14 @@ class BaseTask:
 
             # update gradients every accum_grad_iters iterations
             if (i + 1) % accum_grad_iters == 0:
+                # Clip gradients to prevent explosion (especially important for small datasets)
                 if use_amp:
+                    scaler.unscale_(optimizer)
+                    torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=0.5)
                     scaler.step(optimizer)
                     scaler.update()
                 else:
+                    torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=0.5)
                     optimizer.step()
                 optimizer.zero_grad()
 

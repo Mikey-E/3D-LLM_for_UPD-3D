@@ -1,0 +1,497 @@
+{
+  "dc8639d2-2a4b-4792-9c78-5c38a9ea4a1f@OtherRoom-1435": {
+    "prompt": "What style is the bookcase in the described room? \n\nA. Vintage/Retro\nB. Ming Qing\nC. Korean\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:28:44.896334"
+  },
+  "e44d23d0-b6ee-40bf-ab2b-7dded90cf45b@OtherRoom-99219": {
+    "prompt": "What color are the two three-seat sofas that feature classic curved armrests?\n\nA. Crisp white\nB. Charcoal\nC. Gray\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:28:49.594405"
+  },
+  "e44ef7e0-ff39-4430-9f37-15cec7c72ea1@LivingDiningRoom-1524": {
+    "prompt": "What color is the upholstery of the three-seat sofa in the living room?\n\nA. Creamy white\nB. Dark brown\nC. Rich walnut brown\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:28:56.027170"
+  },
+  "e44ef7e0-ff39-4430-9f37-15cec7c72ea1@MasterBedroom-365": {
+    "prompt": "What is the main color scheme of the pendant lamp above the bed?\n\nA. White and gold\nB. Blue and silver\nC. Green and brown\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:28:59.152474"
+  },
+  "e44ef7e0-ff39-4430-9f37-15cec7c72ea1@SecondBedroom-1020": {
+    "prompt": "What design style does the ceiling fan exhibit in the room?\n\nA. Mediterranean\nB. Japanese\nC. Modern\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:04.152701"
+  },
+  "e47830f8-a49c-4e84-bcc6-c139e2413b84@LivingDiningRoom-2042": {
+    "prompt": "What color is the tv stand in the livingdining room?\n\nA. Blue\nB. Dark brown\nC. White\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:08.088367"
+  },
+  "e47830f8-a49c-4e84-bcc6-c139e2413b84@MasterBedroom-2747": {
+    "prompt": "What type of bed is prominently featured in the master bedroom?\n\nA. Queen-size bed\nB. Twin bed\nC. Full-size bed\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:14.005743"
+  },
+  "e47a9a6e-7962-40bd-a1ab-e4950af4c43c@KidsRoom-87195": {
+    "prompt": "What color is the children's cabinet in the KidsRoom?\n\nA. Black\nB. Mint Green\nC. Beige\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:20.652195"
+  },
+  "e47a9a6e-7962-40bd-a1ab-e4950af4c43c@Library-87303": {
+    "prompt": "What is the color of the bookcase in the library?\n\nA. White\nB. Dark brown\nC. Light grey\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:25.227815"
+  },
+  "e47a9a6e-7962-40bd-a1ab-e4950af4c43c@LivingDiningRoom-83473": {
+    "prompt": "What style is the side table that complements the living room's aesthetic?\n\nA. Southeast Asian style\nB. Scandinavian style\nC. Art Deco style\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:32.396344"
+  },
+  "e47a9a6e-7962-40bd-a1ab-e4950af4c43c@MasterBedroom-87233": {
+    "prompt": "What lighting fixture provides targeted lighting in the Master bedroom?\n\nA. Nightstand lamp\nB. Pendant lamp\nC. Ceiling lamp\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:37.428950"
+  },
+  "e47a9a6e-7962-40bd-a1ab-e4950af4c43c@OtherRoom-97425": {
+    "prompt": "What is the color of the lazy sofa in the room?\n\nA. Black\nB. Light gray\nC. Amber\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:41.306930"
+  },
+  "e4822a12-4032-4229-bf70-a3c35a30840c@LivingDiningRoom-515": {
+    "prompt": "What color is the dining table in the living room?\n\nA. Black\nB. Gold\nC. Light Grey\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:45.718614"
+  },
+  "e4822a12-4032-4229-bf70-a3c35a30840c@MasterBedroom-30521": {
+    "prompt": "What type of design does the wardrobe in the Master bedroom exemplify?\n\nA. Minimalist design\nB. Art Deco style\nC. Rustic farmhouse style\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:51.674771"
+  },
+  "e49a3f2c-c856-468b-a7fb-0584f5aa91e8@Bedroom-210267": {
+    "prompt": "What color is the nightstand in the bedroom?\n\nA. Dark Brown\nB. White\nC. Mahogany\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:29:58.465725"
+  },
+  "e49a3f2c-c856-468b-a7fb-0584f5aa91e8@Bedroom-211117": {
+    "prompt": "What color is the wardrobe in the bedroom?\n\nA. Pure white\nB. Dark brown\nC. Soft pink\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:03.080173"
+  },
+  "e49a3f2c-c856-468b-a7fb-0584f5aa91e8@Bedroom-211600": {
+    "prompt": "What color is the bed in the described bedroom?\n\nA. White\nB. Soft grey\nC. Neutral grey\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:06.936509"
+  },
+  "e49a3f2c-c856-468b-a7fb-0584f5aa91e8@LivingDiningRoom-209282": {
+    "prompt": "What type of design do the dining chairs have?\n\nA. Armless design with leather upholstery\nB. Low-back design with dark wooden finish\nC. Folding design with metal frame\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:11.359819"
+  },
+  "e49b7379-0953-4d61-a016-888ad82533be@Bedroom-515": {
+    "prompt": "What style is the footstool in this bedroom?\n\nA. American Country\nB. Japanese\nC. Vintage/Retro\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:15.282293"
+  },
+  "e4a80e8a-7d38-4a71-94b2-a31de155ea51@Bedroom-4500": {
+    "prompt": "What color is the frame of the kids bed in the bedroom?\n\nA. Black\nB. Beige\nC. Pastel\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:18.621440"
+  },
+  "e4a80e8a-7d38-4a71-94b2-a31de155ea51@LivingDiningRoom-20531": {
+    "prompt": "What color are the armchairs located next to the three-seat sofa?\n\nA. Light gray\nB. Navy blue\nC. Teal\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:24.657662"
+  },
+  "d9df2354-d80d-49e7-a9e8-2e8fbf31dea3@LivingDiningRoom-998": {
+    "prompt": "What color is the pendant lamp hanging above the dining table?\n\nA. Silver\nB. Black\nC. White\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:29.890636"
+  },
+  "e4aaffdb-1a09-4e51-95e8-7918f3a04728@DiningRoom-9982": {
+    "prompt": "What style is the pendant lamp in this DiningRoom?\n\nA. Contemporary\nB. Rustic\nC. Traditional\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:34.802667"
+  },
+  "c34f0011-6d7a-4b69-b121-1028b993f611@LivingRoom-10252": {
+    "prompt": "What shape is the ceiling lamp hanging above the seating area in the living room?\n\nA. Circular\nB. Square\nC. Triangular\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:39.563297"
+  },
+  "e4aaffdb-1a09-4e51-95e8-7918f3a04728@MasterBedroom-9526": {
+    "prompt": "What type of lamp is positioned above the king-size bed in the Masterbedroom?\n\nA. Floor lamp\nB. Table lamp\nC. Wall lamp\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:44.520796"
+  },
+  "e4aaffdb-1a09-4e51-95e8-7918f3a04728@SecondBedroom-9692": {
+    "prompt": "What color is the wardrobe in the Second bedroom?\n\nA. Bright white\nB. Deep mahogany\nC. Dark blue\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:47.893675"
+  },
+  "e4dac227-4e48-4a30-b383-f5945208f19f@Bedroom-515": {
+    "prompt": "What is the color of the king-size bed in the bedroom?\n\nA. Warm oak\nB. Dark cherry\nC. Light birch\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:53.027951"
+  },
+  "e4e89d9c-ce85-49d1-833a-137d62975eae@LivingRoom-515": {
+    "prompt": "What color is the pendant lamp hanging above the seating area in the living room?\n\nA. Charcoal\nB. Brown\nC. Grey\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:57.452699"
+  },
+  "e4ee25f7-bb0b-4dbe-b0ce-00f19597c102@KidsRoom-4380": {
+    "prompt": "What is the primary color of the pendant lamp in the KidsRoom?\n\nA. Red and white\nB. Brown and beige\nC. Blue and silver\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:02.949592"
+  },
+  "e4ee25f7-bb0b-4dbe-b0ce-00f19597c102@LivingDiningRoom-4399": {
+    "prompt": "What piece of furniture is positioned to enhance the cozy atmosphere of the living room by providing ambient lighting?\n\nA. Coffee table\nB. Footstool\nC. Corner table\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:06.611134"
+  },
+  "e4ee25f7-bb0b-4dbe-b0ce-00f19597c102@MasterBedroom-2718": {
+    "prompt": "What style is the wardrobe in the Master bedroom?\n\nA. Nordic style\nB. American Country style\nC. European style\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:09.901674"
+  },
+  "e4f1f036-705e-445d-a7ed-a7190d133f99@KidsRoom-8027": {
+    "prompt": "What colors are highlighted in the furniture within the KidsRoom?\n\nA. Green and blue\nB. Red and white\nC. Black and grey\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:14.929755"
+  },
+  "e4f1f036-705e-445d-a7ed-a7190d133f99@LivingRoom-49900": {
+    "prompt": "What is the color of the sofa in the living room?\n\nA. Neutral grey\nB. Dark grey\nC. Warm beige\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:18.501925"
+  },
+  "e4f1f036-705e-445d-a7ed-a7190d133f99@MasterBedroom-24539": {
+    "prompt": "What style is the wardrobe designed in?\n\nA. Modern style\nB. Japanese style\nC. American Country style\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:22.835707"
+  },
+  "e4f1f036-705e-445d-a7ed-a7190d133f99@SecondBedroom-41297": {
+    "prompt": "What feature of the floor lamp distinguishes it from the pendant lamp in the Second bedroom?\n\nA. Its placement directly above the bed\nB. Its metallic grey color and geometric design\nC. Its storage capability for clothing\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:28.346168"
+  },
+  "e5116cc9-0c46-4d8a-ab2e-953d8b84e404@Bedroom-17410": {
+    "prompt": "What color is the wardrobe in the bedroom?\n\nA. Crisp white\nB. Deep black\nC. Taupe\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:34.429773"
+  },
+  "e5116cc9-0c46-4d8a-ab2e-953d8b84e404@Library-17451": {
+    "prompt": "What distinct feature does the pendant lamp above the desk have?\n\nA. A large shade\nB. A bright neon color\nC. A crystal ornament\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:39.759473"
+  },
+  "e5116cc9-0c46-4d8a-ab2e-953d8b84e404@LivingDiningRoom-17476": {
+    "prompt": "What color is the dining table in the livingdining room?\n\nA. Dark brown\nB. Soft teal\nC. Green\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:45.385178"
+  },
+  "e51180c9-2e30-400e-86c2-957f044e13c1@LivingDiningRoom-34870": {
+    "prompt": "What piece of furniture in the living room is designed specifically for the storage of children's items?\n\nA. Drawer chest\nB. Wine cooler\nC. Sideboard\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:50.295176"
+  },
+  "e51180c9-2e30-400e-86c2-957f044e13c1@MasterBedroom-9748": {
+    "prompt": "What color is the king-size bed in the Master bedroom?\n\nA. Black\nB. Silver\nC. White\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:31:56.025015"
+  },
+  "e51a130c-ceed-40bf-830a-ca2b1f956e8a@LivingDiningRoom-171757": {
+    "prompt": "What unique feature distinguishes the hanging chair in this living room?\n\nA. It has a crisscross base\nB. It has a marble-like surface\nC. It is made of glossy black material\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:01.437539"
+  },
+  "e51a130c-ceed-40bf-830a-ca2b1f956e8a@MasterBedroom-164735": {
+    "prompt": "What style influences are reflected in the coffee table and tv stands in the Masterbedroom?\n\nA. Colonial and Gothic\nB. Victorian and Rustic\nC. Mediterranean and Art Deco\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:06.173963"
+  },
+  "e51a130c-ceed-40bf-830a-ca2b1f956e8a@SecondBedroom-11377": {
+    "prompt": "What color is the pendant lamp in the Second bedroom?\n\nA. White\nB. Warm brown\nC. Light wood\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:10.951855"
+  },
+  "e525ddc0-e901-48c7-9c82-4c266ef1d2c5@KidsRoom-2152": {
+    "prompt": "What color is the frame of the king-size bed in the KidsRoom?\n\nA. White\nB. Light blue\nC. Green\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:16.455290"
+  },
+  "e525ddc0-e901-48c7-9c82-4c266ef1d2c5@Library-3316": {
+    "prompt": "What type of design does the desk in the library exhibit? \n\nA. Korean style\nB. Rustic charm\nC. Traditional style\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:20.976700"
+  },
+  "e525ddc0-e901-48c7-9c82-4c266ef1d2c5@LivingDiningRoom-7632": {
+    "prompt": "What piece of furniture serves as the focal point of the dining area in the living room?\n\nA. Coffee table\nB. TV stand\nC. Side table\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:26.322063"
+  },
+  "e525ddc0-e901-48c7-9c82-4c266ef1d2c5@Lounge-892": {
+    "prompt": "What color accents does the pendant lamp have?\n\nA. Blue\nB. Red\nC. Green\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:32.824478"
+  },
+  "e525ddc0-e901-48c7-9c82-4c266ef1d2c5@MasterBedroom-2632": {
+    "prompt": "What color is the wardrobe in the described master bedroom?\n\nA. Lavender\nB. Deep grey\nC. Dark brown\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:36.904853"
+  },
+  "e529c97c-20be-457e-80fe-b9b5e0cf6a7c@Bedroom-150201": {
+    "prompt": "What color is the pendant lamp hanging above the nightstands?\n\nA. Silver\nB. Black\nC. White\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:40.912106"
+  },
+  "e529c97c-20be-457e-80fe-b9b5e0cf6a7c@DiningRoom-150053": {
+    "prompt": "What color is the pendant lamp hanging above the dining table?\n\nA. Dark brown\nB. Light grey\nC. Matte black\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:45.908344"
+  },
+  "e529c97c-20be-457e-80fe-b9b5e0cf6a7c@LivingRoom-163516": {
+    "prompt": "What type of lighting fixture is positioned above the coffee table in the living room?\n\nA. Ceiling fan\nB. Wall sconce\nC. Floor lamp\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:49.933080"
+  },
+  "c9728255-479b-46e2-bf94-a3fc902dd516@BedRoom-161813": {
+    "prompt": "What color is the Nordic-style corner cabinet in the bedroom?\n\nA. Dark grey\nB. White\nC. Black\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:32:55.077331"
+  },
+  "c86e33d4-c966-449f-ade0-2d61f930b22d@BedRoom-261006": {
+    "prompt": "What color is the pendant lamp hanging from the ceiling?\n\nA. Brown\nB. Black\nC. Gray\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:00.746855"
+  },
+  "e52eb1b0-a8fb-4b1c-873d-5d962259a904@LivingRoom-2410": {
+    "prompt": "What style is the coffee table in the living room described?\n\nA. American Country style\nB. Ming Qing style\nC. Modern style\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:07.087009"
+  },
+  "e5349a12-58a0-4e7d-916f-7c652faa1164@Library-23687": {
+    "prompt": "What style is the desk in the library?\n\nA. Minimalist\nB. Ming Qing\nC. Modern\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:12.187263"
+  },
+  "e5349a12-58a0-4e7d-916f-7c652faa1164@LivingDiningRoom-26094": {
+    "prompt": "What type of lamp is directly above the dining table in the living room?\n\nA. Ceiling lamp\nB. Floor lamp\nC. Table lamp\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:17.814895"
+  },
+  "e5349a12-58a0-4e7d-916f-7c652faa1164@MasterBedroom-24185": {
+    "prompt": "What color are the wardrobes in the Master bedroom? \n\nA. Deep green\nB. Cream\nC. Beige\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:22.691911"
+  },
+  "e536c314-5026-43ff-ba42-8e519418e0e1@LivingRoom-515": {
+    "prompt": "What is the primary material of the coffee table in the living room?\n\nA. Wood\nB. Glass\nC. Plastic\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:26.323573"
+  },
+  "e538b99f-3925-45c2-93b4-981e89efaba7@Library-53377": {
+    "prompt": "What style is the desk located in the library?\n\nA. Industrial\nB. Southeast Asian\nC. Modern\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:29.462134"
+  },
+  "e538b99f-3925-45c2-93b4-981e89efaba7@LivingDiningRoom-30100": {
+    "prompt": "What color is the armchair in the living room?\n\nA. Grey\nB. White\nC. Black\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:33.756652"
+  },
+  "e538b99f-3925-45c2-93b4-981e89efaba7@MasterBedroom-30324": {
+    "prompt": "What is the color of the king-size bed in the room?\n\nA. Matte black\nB. Soft gold\nC. Natural beige\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:40.567347"
+  },
+  "e538b99f-3925-45c2-93b4-981e89efaba7@SecondBedroom-30221": {
+    "prompt": "What is the color of the pendant lamp hanging above the king-size bed in the Second bedroom?\n\nA. Gray\nB. White\nC. Blue\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:45.023413"
+  },
+  "e5456a2e-b527-462c-978b-b67fbb268854@LivingDiningRoom-36321": {
+    "prompt": "What type of lamp adds a playful touch with its soft pink hue in the livingdining room?\n\nA. Table lamp\nB. Floor lamp\nC. Wall sconce\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:49.953909"
+  },
+  "e5456a2e-b527-462c-978b-b67fbb268854@MasterBedroom-36389": {
+    "prompt": "What style are the wardrobes in the master bedroom?\n\nA. Modern\nB. Vintage\nC. Industrial\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:54.439426"
+  },
+  "e5456a2e-b527-462c-978b-b67fbb268854@SecondBedroom-36408": {
+    "prompt": "What type of design elements are incorporated into the ceiling lamp and pendant lamp in the bedroom?\n\nA. Bright colors and floral patterns\nB. Stainless steel and rustic designs\nC. Metallic finish and traditional motifs\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:59.654978"
+  },
+  "e5613e52-49eb-4958-8e56-a6a0bf4633a2@LivingDiningRoom-5328": {
+    "prompt": "What color is the surface of the coffee table in the living room?\n\nA. Dark brown\nB. Creamy\nC. Black and white\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:05.856694"
+  },
+  "e5613e52-49eb-4958-8e56-a6a0bf4633a2@MasterBedroom-1719": {
+    "prompt": "What type of chair is included in the room's design?\n\nA. Office chair\nB. Formal dining chair\nC. Rocking chair\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:10.382841"
+  },
+  "e570991b-7105-4848-b2a1-5ee9e7088aff@Bedroom-1658": {
+    "prompt": "What color is the <p>bed</p>[<single bed-0>] in the bedroom?\n\nA. Soft grey\nB. Muted beige\nC. White\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:16.300218"
+  },
+  "e570991b-7105-4848-b2a1-5ee9e7088aff@LivingRoom-1679": {
+    "prompt": "What type of lighting is positioned above the dining area in the living room?\n\nA. Side cabinet light\nB. Floor lamp\nC. Wall sconce\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:22.794664"
+  },
+  "e581fd60-87f5-4ba0-9d45-58d6bf6fd3c3@DiningRoom-17297": {
+    "prompt": "What is the color of the pendant lamp hanging above the dining table?\n\nA. Bright red\nB. Deep blue\nC. Matte black\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:26.637052"
+  },
+  "e581fd60-87f5-4ba0-9d45-58d6bf6fd3c3@Hallway-24570": {
+    "prompt": "What is the color of the footstool in the Hallway?\n\nA. Silver\nB. White\nC. Black\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:30.329639"
+  },
+  "e581fd60-87f5-4ba0-9d45-58d6bf6fd3c3@LivingRoom-17227": {
+    "prompt": "What color is the armchair in the living room?\n\nA. Gold\nB. Light beige\nC. Black\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:36.749678"
+  },
+  "cb0d778d-fff6-4f4f-83d0-e19b15b375ac@MasterBedroom-7912": {
+    "prompt": "What color is the duvet on the king-size bed?\n\nA. Charcoal gray\nB. Light brown\nC. Green\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:42.170531"
+  },
+  "e581fd60-87f5-4ba0-9d45-58d6bf6fd3c3@SecondBedroom-17187": {
+    "prompt": "What is the color of the ceiling lamp in the Secondbedroom? \n\nA. Dark brown\nB. Deep espresso brown\nC. Dove-gray\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:46.342164"
+  },
+  "e58dd02f-bad6-4636-b925-81f36ba0a3fe@DiningRoom-1528": {
+    "prompt": "What style do the lounge chairs in the dining room primarily reflect?\n\nA. Industrial style with metal finishes\nB. Victorian style with ornate details\nC. Mediterranean style with bright colors\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:52.616971"
+  },
+  "e58dd02f-bad6-4636-b925-81f36ba0a3fe@LivingRoom-516": {
+    "prompt": "What style is the kids' bed described as being?\n\nA. Neoclassical style\nB. Modern style\nC. Industrial style\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:57.105183"
+  },
+  "e59618e8-5343-4f81-9906-360b10d2f935@Bedroom-1109": {
+    "prompt": "What color is the king-size bed in the bedroom?\n\nA. Black\nB. Grey\nC. White\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:01.097568"
+  },
+  "e59618e8-5343-4f81-9906-360b10d2f935@Bedroom-679": {
+    "prompt": "What style is the nightstand in the bedroom?\n\nA. Light Luxury style\nB. Modern style\nC. Southeast Asia style\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:06.102441"
+  },
+  "e59618e8-5343-4f81-9906-360b10d2f935@KidsRoom-931": {
+    "prompt": "What style is the lounge chair in the KidsRoom described as?\n\nA. Ming Qing style\nB. Korean style\nC. Industrial style\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:10.989072"
+  },
+  "e59618e8-5343-4f81-9906-360b10d2f935@LivingRoom-539": {
+    "prompt": "What color scheme is featured in the coffee table positioned in front of the l-shaped sofa?\n\nA. Dark grey\nB. Light wood\nC. Navy blue\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:14.839179"
+  },
+  "e5969e7e-a1a5-468d-a16f-da724b2fbedb@Bedroom-40071": {
+    "prompt": "What color is the pendant lamp that hangs above the king-size bed?\n\nA. Wooden color\nB. Chocolatey color\nC. Polished brown\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:21.526399"
+  },
+  "e5969e7e-a1a5-468d-a16f-da724b2fbedb@LivingDiningRoom-1672": {
+    "prompt": "What style is the pendant lamp above the dining area described as?\n\nA. Industrial style\nB. Vintage style\nC. Minimalist style\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:28.952496"
+  },
+  "e5974026-f964-4730-b5f4-ece6ed5339f4@MasterBedroom-27030": {
+    "prompt": "What is the color of the upholstery on the king-size bed in the Master bedroom?\n\nA. Dark espresso brown\nB. Light blue\nC. Charcoal gray\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:34.271377"
+  },
+  "e5ae3779-f093-4a26-8b90-af198b3e35eb@KidsRoom-5397": {
+    "prompt": "What color is the wardrobe in the KidsRoom?\n\nA. Soft beige\nB. Charcoal grey\nC. Gray\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:38.111767"
+  },
+  "e5ae3779-f093-4a26-8b90-af198b3e35eb@LivingDiningRoom-5362": {
+    "prompt": "What style is the three-seat sofa in the living room?\n\nA. New Chinese\nB. Ming Qing\nC. Japanese\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:43.085533"
+  },
+  "e5ae3779-f093-4a26-8b90-af198b3e35eb@MasterBedroom-1362": {
+    "prompt": "What color are the dressing tables in the Master bedroom?\n\nA. Dark brown\nB. Beige\nC. Earthy green\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:47.745829"
+  },
+  "e5ae3779-f093-4a26-8b90-af198b3e35eb@SecondBedroom-5466": {
+    "prompt": "What color are the nightstands in the Second bedroom?\n\nA. Transparent\nB. Beige\nC. Brown\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:51.478479"
+  },
+  "e5bb6de8-52b5-4c04-b26b-b5561946f02d@Bedroom-7011": {
+    "prompt": "What is the color scheme of the wardrobe in the bedroom?\n\nA. Dark grey and golden brown\nB. Vibrant green\nC. Light Luxury beige\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:35:56.471505"
+  },
+  "e5bb6de8-52b5-4c04-b26b-b5561946f02d@Bedroom-8278": {
+    "prompt": "What type of design does the ceiling lamp in the room feature?\n\nA. Minimalist style\nB. Rustic style\nC. Industrial style\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:03.692026"
+  },
+  "e5bb6de8-52b5-4c04-b26b-b5561946f02d@Bedroom-9506": {
+    "prompt": "What color is the king-size bed in the bedroom?\n\nA. Dark brown\nB. Charcoal gray\nC. Deep green\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:08.431965"
+  },
+  "e5bb6de8-52b5-4c04-b26b-b5561946f02d@Library-8780": {
+    "prompt": "What color is the desk in the library?\n\nA. Grey\nB. Black\nC. Muted gray\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:13.787444"
+  },
+  "e5bb6de8-52b5-4c04-b26b-b5561946f02d@LivingDiningRoom-10562": {
+    "prompt": "What style is the three-seat sofa in the living room?\n\nA. Modern\nB. Japanese\nC. New Chinese\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:18.479348"
+  },
+  "e5ca81d6-3743-44bd-b727-3755efbf776e@LivingDiningRoom-58975": {
+    "prompt": "What is the color of the sofa in the living room?\n\nA. Dark gray\nB. White\nC. Black\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:23.480695"
+  },
+  "e5ca81d6-3743-44bd-b727-3755efbf776e@MasterBedroom-4828": {
+    "prompt": "What color is the wardrobe in the Masterbedroom?\n\nA. Multicolored\nB. Golden\nC. Black\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:29.404869"
+  },
+  "e5ca81d6-3743-44bd-b727-3755efbf776e@SecondBedroom-4803": {
+    "prompt": "What style does the wardrobe in the Second bedroom primarily represent?\n\nA. Minimalist style\nB. Mediterranean style\nC. Industrial style\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:33.882771"
+  },
+  "e5d64237-dc87-4589-9091-d07c67dbf077@Bedroom-7053": {
+    "prompt": "What style is the design of the wardrobe in the bedroom?\n\nA. Southeast Asian\nB. Contemporary\nC. European Classic\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:38.146144"
+  },
+  "e5d64237-dc87-4589-9091-d07c67dbf077@LivingDiningRoom-7085": {
+    "prompt": "What style is the pendant lamp above the dining table?\n\nA. Vintage retro style\nB. European classic design\nC. New Chinese flair\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:41.902035"
+  },
+  "e5f11661-9c11-4c27-a02a-afc49f50d517@KidsRoom-4892": {
+    "prompt": "What color is the chair in the KidsRoom?\n\nA. White\nB. Oak\nC. Black\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:46.355488"
+  },
+  "e5f11661-9c11-4c27-a02a-afc49f50d517@LivingDiningRoom-4955": {
+    "prompt": "What color scheme does the first pendant lamp in the room utilize?\n\nA. Blue and silver\nB. White and red\nC. Green and yellow\nIf none of the above answers are correct, answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:51.337427"
+  }
+}

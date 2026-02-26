@@ -1,0 +1,66 @@
+==========================================
+GIW529 Finetuned Model Inference
+==========================================
+Job ID: 48625036
+Start time: Sat Dec  6 15:33:54 MST 2025
+==========================================
+
+✓ Conda environment activated: lavis
+
+Running GIW529 finetuned model inference...
+Checkpoint: checkpoint_7.pth (epoch 7)
+Dataset: GIW529 test set (150 scenes)
+Questions: 12 categories per scene
+
+======================================================================
+GIW529 INFERENCE
+======================================================================
+Device: cuda
+Checkpoint: /cluster/medbow/project/3dllms/melgin/3D-LLM_for_UPD-3D/3DLLM_BLIP2-base/lavis/output/BLIP2/3DQA_GIW529/20251206132/checkpoint_7.pth
+Processed dir: /project/3dllms/melgin/datasets/GIW/giw529_processed_for_3dllm
+Questions base: /project/3dllms/melgin/UPD-3D/upd_text/GIW529_gpt-5-nano
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/giw529_inference
+
+Loading point cloud list...
+  Total point clouds: 151
+  Processing range: 0 to 150
+  Processing count: 150
+  Questions per cloud: 12
+  Total inferences: 1800
+
+Loading 3D-LLM model...
+  Loading checkpoint: /cluster/medbow/project/3dllms/melgin/3D-LLM_for_UPD-3D/3DLLM_BLIP2-base/lavis/output/BLIP2/3DQA_GIW529/20251206132/checkpoint_7.pth
+  ✓ Model loaded successfully
+
+======================================================================
+RUNNING INFERENCE
+======================================================================
+
+======================================================================
+SAVING RESULTS
+======================================================================
+  aad_base: 150 results -> inf_rslts_3dllm_ft-GIW529_gpt-5-nano-ckpt7_GIW529_test_aad_base.json
+  aad_additional_instruction: 150 results -> inf_rslts_3dllm_ft-GIW529_gpt-5-nano-ckpt7_GIW529_test_aad_additional_instruction.json
+  aad_additional_option: 150 results -> inf_rslts_3dllm_ft-GIW529_gpt-5-nano-ckpt7_GIW529_test_aad_additional_option.json
+  iasd_base: 150 results -> inf_rslts_3dllm_ft-GIW529_gpt-5-nano-ckpt7_GIW529_test_iasd_base.json
+  iasd_additional_instruction: 150 results -> inf_rslts_3dllm_ft-GIW529_gpt-5-nano-ckpt7_GIW529_test_iasd_additional_instruction.json
+  iasd_additional_option: 150 results -> inf_rslts_3dllm_ft-GIW529_gpt-5-nano-ckpt7_GIW529_test_iasd_additional_option.json
+  ivqd_base: 150 results -> inf_rslts_3dllm_ft-GIW529_gpt-5-nano-ckpt7_GIW529_test_ivqd_base.json
+  ivqd_additional_instruction: 150 results -> inf_rslts_3dllm_ft-GIW529_gpt-5-nano-ckpt7_GIW529_test_ivqd_additional_instruction.json
+  ivqd_additional_option: 150 results -> inf_rslts_3dllm_ft-GIW529_gpt-5-nano-ckpt7_GIW529_test_ivqd_additional_option.json
+  open_ended: 150 results -> inf_rslts_3dllm_ft-GIW529_gpt-5-nano-ckpt7_GIW529_test_open_ended.json
+  open_ended_additional_instruction: 150 results -> inf_rslts_3dllm_ft-GIW529_gpt-5-nano-ckpt7_GIW529_test_open_ended_additional_instruction.json
+  standard: 150 results -> inf_rslts_3dllm_ft-GIW529_gpt-5-nano-ckpt7_GIW529_test_standard.json
+
+======================================================================
+SUMMARY
+======================================================================
+Successful: 1800
+Failed:     0
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/giw529_inference/3dllm_ft-GIW529_gpt-5-nano-ckpt7
+
+==========================================
+✓ Inference completed successfully!
+Results saved to: results/giw529_inference/3dllm_ft-GIW529_gpt-5-nano-ckpt7/
+End time: Sat Dec  6 15:38:45 MST 2025
+==========================================

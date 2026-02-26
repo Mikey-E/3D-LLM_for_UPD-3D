@@ -1,0 +1,497 @@
+{
+  "dcaa00b8-ce5c-4d72-8033-db1826fc7d42@LivingDiningRoom-12188": {
+    "prompt": "What type of aquarium is featured in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "a fish tank",
+    "timestamp": "2025-10-08T17:28:55.239035"
+  },
+  "dcaa00b8-ce5c-4d72-8033-db1826fc7d42@MasterBedroom-31461": {
+    "prompt": "What is the height of the ceiling in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "F",
+    "timestamp": "2025-10-08T17:29:02.744000"
+  },
+  "dcaa00b8-ce5c-4d72-8033-db1826fc7d42@SecondBedroom-8691": {
+    "prompt": "What type of exercise equipment is located in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:29:10.269210"
+  },
+  "dcaf3c71-1248-4e49-a572-2b45062e34b0@LivingRoom-515": {
+    "prompt": "What type of musical instrument is placed in the corner of the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "drum drum",
+    "timestamp": "2025-10-08T17:29:18.431841"
+  },
+  "dcc0189f-8b90-4418-8afd-370e57e0c50d@LivingDiningRoom-4689": {
+    "prompt": "What type of pool table is used in the living room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "billiard",
+    "timestamp": "2025-10-08T17:29:26.128659"
+  },
+  "dcc0189f-8b90-4418-8afd-370e57e0c50d@MasterBedroom-3053": {
+    "prompt": "What type of musical instrument is placed in the corner of the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "drum",
+    "timestamp": "2025-10-08T17:29:31.394050"
+  },
+  "dccdabb3-8b37-45f4-abe5-7c7bdfcb967c@LivingDiningRoom-19759": {
+    "prompt": "What type of exercise equipment is located in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:29:38.890793"
+  },
+  "dccdabb3-8b37-45f4-abe5-7c7bdfcb967c@MasterBedroom-5684": {
+    "prompt": "What type of playground equipment is installed nearby?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "swing",
+    "timestamp": "2025-10-08T17:29:45.876024"
+  },
+  "dcdb0e30-12fe-426d-9cfb-f163940668ea@Bedroom-13276": {
+    "prompt": "What type of tree is used as a decorative feature in this bedroom?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Fi",
+    "timestamp": "2025-10-08T17:29:52.649523"
+  },
+  "dcdb0e30-12fe-426d-9cfb-f163940668ea@Library-11789": {
+    "prompt": "What type of lounge chair is placed in the opposite corner of the library?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "reclining",
+    "timestamp": "2025-10-08T17:30:00.246506"
+  },
+  "dcdb0e30-12fe-426d-9cfb-f163940668ea@LivingDiningRoom-12368": {
+    "prompt": "What type of pool table is in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Billiard",
+    "timestamp": "2025-10-08T17:30:06.304061"
+  },
+  "dcde79e6-63d3-4517-9766-0ebc45d8b678@LivingDiningRoom-29882": {
+    "prompt": "What type of fish is in the aquarium?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "tetra",
+    "timestamp": "2025-10-08T17:30:14.008656"
+  },
+  "dcde79e6-63d3-4517-9766-0ebc45d8b678@MasterBedroom-25568": {
+    "prompt": "What type of cooking utensil is stored in the kitchen?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "pan",
+    "timestamp": "2025-10-08T17:30:21.517657"
+  },
+  "dcf1ed73-bcc8-4178-8f56-c157148d9699@Bedroom-515": {
+    "prompt": "What type of artwork is hanging on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Painting",
+    "timestamp": "2025-10-08T17:30:29.101967"
+  },
+  "dd22d718-475a-4a17-ad13-9c0089edf15f@LivingDiningRoom-16103": {
+    "prompt": "What type of ceiling fan is installed in the living room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "bladeless",
+    "timestamp": "2025-10-08T17:30:36.232106"
+  },
+  "dd22d718-475a-4a17-ad13-9c0089edf15f@MasterBedroom-14554": {
+    "prompt": "What is the color of the rug located in front of the bed?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:45.545392"
+  },
+  "dd22d718-475a-4a17-ad13-9c0089edf15f@SecondBedroom-14539": {
+    "prompt": "What shape is the piano in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:52.712684"
+  },
+  "dd428ba2-c3df-4f72-8c78-677993205d64@KidsRoom-14155": {
+    "prompt": "What type of dining table is in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "round",
+    "timestamp": "2025-10-08T17:30:58.104302"
+  },
+  "dd428ba2-c3df-4f72-8c78-677993205d64@LivingDiningRoom-14587": {
+    "prompt": "What type of vintage sewing machine is stored in the closet?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Singer",
+    "timestamp": "2025-10-08T17:31:05.757625"
+  },
+  "dd428ba2-c3df-4f72-8c78-677993205d64@MasterBedroom-14208": {
+    "prompt": "What type of tree is growing in the corner of the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "fig",
+    "timestamp": "2025-10-08T17:31:14.275621"
+  },
+  "dd4b29cc-4003-4881-99b4-0c762de73d5f@LivingDiningRoom-12825": {
+    "prompt": "What type of outdoor grill is located in the livingdining room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "charcoal grill not",
+    "timestamp": "2025-10-08T17:31:22.157955"
+  },
+  "dd4b29cc-4003-4881-99b4-0c762de73d5f@MasterBedroom-4877": {
+    "prompt": "What type of sports equipment is stored in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Basketball",
+    "timestamp": "2025-10-08T17:31:31.352559"
+  },
+  "dd4b29cc-4003-4881-99b4-0c762de73d5f@SecondBedroom-5052": {
+    "prompt": "What type of exercise equipment is set up in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:31:38.849439"
+  },
+  "d7ac1af8-ec79-41f5-985e-c89109b03fb7@DiningRoom-19012": {
+    "prompt": "What type of exercise equipment is located next to the dining table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:31:45.660571"
+  },
+  "dd5c9481-a891-4ceb-9c61-118ec5ecec83@DiningRoom-8635": {
+    "prompt": "What type of sofa is placed in front of the dining table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "armchair",
+    "timestamp": "2025-10-08T17:31:51.251105"
+  },
+  "dd5c9481-a891-4ceb-9c61-118ec5ecec83@LivingDiningRoom-5417": {
+    "prompt": "What type of garden sculpture is located outside the living room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "statue",
+    "timestamp": "2025-10-08T17:31:57.432796"
+  },
+  "0ab03928-28d4-4dfe-883e-63047de7cc9c@Corridor-12402": {
+    "prompt": "What type of sofa is located next to the corridor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chaise longue",
+    "timestamp": "2025-10-08T17:32:03.782796"
+  },
+  "dd650589-4712-40ad-ab56-282aa691c4bd@LivingDiningRoom-12895": {
+    "prompt": "What type of outdoor fountain is located in the garden area?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "pond",
+    "timestamp": "2025-10-08T17:32:12.628267"
+  },
+  "dd650589-4712-40ad-ab56-282aa691c4bd@MasterBedroom-13008": {
+    "prompt": "What type of outdoor furniture is positioned on the balcony?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "chairs",
+    "timestamp": "2025-10-08T17:32:18.936555"
+  },
+  "dd650589-4712-40ad-ab56-282aa691c4bd@SecondBedroom-12923": {
+    "prompt": "What type of outdoor sports equipment is stored in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Skis",
+    "timestamp": "2025-10-08T17:32:23.614985"
+  },
+  "dd6acc85-293b-44a7-ba7f-88edf767f587@Bedroom-23173": {
+    "prompt": "What type of sofa is in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Faux leather",
+    "timestamp": "2025-10-08T17:32:30.680994"
+  },
+  "dd6acc85-293b-44a7-ba7f-88edf767f587@Bedroom-23600": {
+    "prompt": "What is the material of the nightstand next to the bed?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "wood",
+    "timestamp": "2025-10-08T17:32:37.740674"
+  },
+  "dd6acc85-293b-44a7-ba7f-88edf767f587@Bedroom-25567": {
+    "prompt": "What type of outdoor barbecue grill is located in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "charcoal grill",
+    "timestamp": "2025-10-08T17:32:44.379729"
+  },
+  "dd6acc85-293b-44a7-ba7f-88edf767f587@LivingDiningRoom-26392": {
+    "prompt": "What type of sectional bed is included in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "sofa",
+    "timestamp": "2025-10-08T17:32:51.812441"
+  },
+  "dd6bddd4-69e6-4636-a698-33c6efba7a7e@DiningRoom-2831": {
+    "prompt": "What type of sports equipment is stored in this room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Football",
+    "timestamp": "2025-10-08T17:32:59.621604"
+  },
+  "dd6bddd4-69e6-4636-a698-33c6efba7a7e@LivingRoom-2874": {
+    "prompt": "What type of fireplace design is incorporated into the living room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "fireplace",
+    "timestamp": "2025-10-08T17:33:07.583914"
+  },
+  "dd6bddd4-69e6-4636-a698-33c6efba7a7e@MasterBedroom-1767": {
+    "prompt": "What type of outdoor grill is used in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "charcoal grill",
+    "timestamp": "2025-10-08T17:33:14.698671"
+  },
+  "dd6bddd4-69e6-4636-a698-33c6efba7a7e@SecondBedroom-1082": {
+    "prompt": "What is the texture of the carpet in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "F",
+    "timestamp": "2025-10-08T17:33:22.360172"
+  },
+  "dd6bddd4-69e6-4636-a698-33c6efba7a7e@SecondBedroom-2308": {
+    "prompt": "What type of shelving unit is located in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "bookcase",
+    "timestamp": "2025-10-08T17:33:30.775228"
+  },
+  "dd6bddd4-69e6-4636-a698-33c6efba7a7e@SecondBedroom-925": {
+    "prompt": "What type of artwork is displayed on the walls?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Painting painting",
+    "timestamp": "2025-10-08T17:33:38.590619"
+  },
+  "dd7856a2-52c4-4b27-bd7c-7ba5df36d181@Bedroom-1898": {
+    "prompt": "What type of outdoor furniture is placed on the balcony?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Bal",
+    "timestamp": "2025-10-08T17:33:45.295402"
+  },
+  "dd7856a2-52c4-4b27-bd7c-7ba5df36d181@Bedroom-2104": {
+    "prompt": "What type of outdoor fountain is installed in the backyard?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "pond",
+    "timestamp": "2025-10-08T17:33:53.240380"
+  },
+  "d4ab07cf-fc3d-4b62-bf91-01525ca31d1e@Hallway-11274": {
+    "prompt": "What type of wall clock is located in the hallway?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Clock",
+    "timestamp": "2025-10-08T17:34:01.294578"
+  },
+  "dd7856a2-52c4-4b27-bd7c-7ba5df36d181@LivingRoom-1255": {
+    "prompt": "What type of piano is in the living room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "grand",
+    "timestamp": "2025-10-08T17:34:07.665369"
+  },
+  "dc44410d-8a89-4099-ab84-4444b9ebbcd6@Bedroom-34440": {
+    "prompt": "What type of fireplace is installed in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "gas",
+    "timestamp": "2025-10-08T17:34:14.854105"
+  },
+  "dd804295-e822-4c4b-8dca-8093c03ac3a3@Bedroom-31093": {
+    "prompt": "What type of fireplace is installed in the bedroom?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "electric",
+    "timestamp": "2025-10-08T17:34:22.548993"
+  },
+  "dd804295-e822-4c4b-8dca-8093c03ac3a3@DiningRoom-27896": {
+    "prompt": "What type of timer is mounted on the kitchen wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "oven",
+    "timestamp": "2025-10-08T17:34:30.048919"
+  },
+  "dd804295-e822-4c4b-8dca-8093c03ac3a3@LivingRoom-27354": {
+    "prompt": "What type of rug is placed underneath the coffee table?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "area rug",
+    "timestamp": "2025-10-08T17:34:38.063620"
+  },
+  "dd8f6a27-45d9-4d66-8867-64804e842a37@Library-1119": {
+    "prompt": "What type of outdoor sculpture is placed in the garden adjacent to the library?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "statue",
+    "timestamp": "2025-10-08T17:34:46.806425"
+  },
+  "dd8f6a27-45d9-4d66-8867-64804e842a37@LivingDiningRoom-1933": {
+    "prompt": "What type of fireplace is used in this living room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "gas",
+    "timestamp": "2025-10-08T17:34:54.575701"
+  },
+  "dd8f6a27-45d9-4d66-8867-64804e842a37@MasterBedroom-1461": {
+    "prompt": "What type of artwork is displayed on the walls?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Painting painting",
+    "timestamp": "2025-10-08T17:35:02.244767"
+  },
+  "dd8f6a27-45d9-4d66-8867-64804e842a37@SecondBedroom-1132": {
+    "prompt": "What type of refrigerator is located in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "mini",
+    "timestamp": "2025-10-08T17:35:10.249450"
+  },
+  "ddadc4a0-d99d-4e79-9410-d1b4ffdb45b3@Bedroom-34953": {
+    "prompt": "What type of sports equipment is stored in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Football",
+    "timestamp": "2025-10-08T17:35:17.773098"
+  },
+  "ddadc4a0-d99d-4e79-9410-d1b4ffdb45b3@LivingDiningRoom-62731": {
+    "prompt": "What type of outdoor grill is set up in the backyard?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "charcoal grill",
+    "timestamp": "2025-10-08T17:35:24.707705"
+  },
+  "c3a81890-b4f1-4944-96a1-318dff7f3980@ElderlyRoom-36619": {
+    "prompt": "What type of round table is used for dining in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "a round table",
+    "timestamp": "2025-10-08T17:35:32.382251"
+  },
+  "ddb2ee64-0253-4541-8df3-49d8652aeaf2@Library-1511": {
+    "prompt": "What type of art easel is featured in the library?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "a painting ease",
+    "timestamp": "2025-10-08T17:35:41.034619"
+  },
+  "ddb2ee64-0253-4541-8df3-49d8652aeaf2@LivingRoom-3168": {
+    "prompt": "What type of outdoor grill is located near the dining area?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "charcoal grill",
+    "timestamp": "2025-10-08T17:35:48.915036"
+  },
+  "ddb2ee64-0253-4541-8df3-49d8652aeaf2@MasterBedroom-4510": {
+    "prompt": "What style of dining table is in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "round",
+    "timestamp": "2025-10-08T17:35:56.052807"
+  },
+  "ddba19ef-2514-414a-b7ea-5980399c7084@KidsRoom-10988": {
+    "prompt": "What type of sports equipment is stored in this room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Football",
+    "timestamp": "2025-10-08T17:36:03.984629"
+  },
+  "ddba19ef-2514-414a-b7ea-5980399c7084@Library-10272": {
+    "prompt": "What type of entertainment system is set up in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "television",
+    "timestamp": "2025-10-08T17:36:12.157127"
+  },
+  "ddba19ef-2514-414a-b7ea-5980399c7084@LivingDiningRoom-9961": {
+    "prompt": "What type of rug is used to define the seating area?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "area rug",
+    "timestamp": "2025-10-08T17:36:19.522749"
+  },
+  "ddba19ef-2514-414a-b7ea-5980399c7084@MasterBedroom-11671": {
+    "prompt": "What type of outdoor grill is located next to the kitchen?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Charco",
+    "timestamp": "2025-10-08T17:36:27.033778"
+  },
+  "ddc929bf-c212-47fb-882d-a12941ff67e0@Library-39090": {
+    "prompt": "What type of dining table is included in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "round",
+    "timestamp": "2025-10-08T17:36:35.003996"
+  },
+  "cb7251bb-7469-4529-969e-ba452d82cf4f@MasterBedroom-18957": {
+    "prompt": "What type of refrigerator is used in this room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Fridge",
+    "timestamp": "2025-10-08T17:36:42.532283"
+  },
+  "ddc929bf-c212-47fb-882d-a12941ff67e0@MasterBedroom-85558": {
+    "prompt": "What type of piano is located in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "grand piano",
+    "timestamp": "2025-10-08T17:36:50.404550"
+  },
+  "ddc929bf-c212-47fb-882d-a12941ff67e0@SecondBedroom-130597": {
+    "prompt": "What shape is the bathtub?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "F-shaped",
+    "timestamp": "2025-10-08T17:36:58.451262"
+  },
+  "c3ef24dd-2280-42a2-9528-8b00e32deb15@SecondBedroom-130597": {
+    "prompt": "What type of outdoor garden feature is located in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "fountain",
+    "timestamp": "2025-10-08T17:37:04.935882"
+  },
+  "dde0270b-65a3-4dc3-9c03-b32d90ae0438@Bedroom-2058": {
+    "prompt": "What type of exercise equipment is in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:37:13.626709"
+  },
+  "dde0270b-65a3-4dc3-9c03-b32d90ae0438@Library-3449": {
+    "prompt": "What type of outdoor grill is in the library?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Charco",
+    "timestamp": "2025-10-08T17:37:21.922806"
+  },
+  "dde0270b-65a3-4dc3-9c03-b32d90ae0438@LivingDiningRoom-1767": {
+    "prompt": "What type of fireplace is installed in the living room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "gas",
+    "timestamp": "2025-10-08T17:37:29.415848"
+  },
+  "dde0270b-65a3-4dc3-9c03-b32d90ae0438@MasterBedroom-2294": {
+    "prompt": "What color are the curtains in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "",
+    "timestamp": "2025-10-08T17:37:33.954192"
+  },
+  "dde0270b-65a3-4dc3-9c03-b32d90ae0438@SecondBedroom-2984": {
+    "prompt": "What type of rug is placed under the nightstands?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "area rug",
+    "timestamp": "2025-10-08T17:37:40.437472"
+  },
+  "de1183f7-1d62-47c9-8f58-fbedc416bf44@Bedroom-34409": {
+    "prompt": "What type of cooking stove is in the bedroom?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "a small electric stove",
+    "timestamp": "2025-10-08T17:37:48.114436"
+  },
+  "de1183f7-1d62-47c9-8f58-fbedc416bf44@LivingDiningRoom-34420": {
+    "prompt": "What type of exercise equipment is located in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:37:56.460568"
+  },
+  "de513c79-61f9-4689-b671-fad361e605a3@Hallway-17444": {
+    "prompt": "What type of flooring material is used in this hallway?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Wood",
+    "timestamp": "2025-10-08T17:38:04.232012"
+  },
+  "de513c79-61f9-4689-b671-fad361e605a3@LivingDiningRoom-16466": {
+    "prompt": "What type of outdoor grill is located on the balcony?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "charcoal grill",
+    "timestamp": "2025-10-08T17:38:11.416494"
+  },
+  "de513c79-61f9-4689-b671-fad361e605a3@MasterBedroom-17000": {
+    "prompt": "What type of rug is placed under the furniture?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "floor",
+    "timestamp": "2025-10-08T17:38:19.079542"
+  },
+  "de513c79-61f9-4689-b671-fad361e605a3@SecondBedroom-16947": {
+    "prompt": "What type of outdoor grill is located in the yard?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "charcoal grill",
+    "timestamp": "2025-10-08T17:38:23.794109"
+  },
+  "de7f061b-6225-42fb-bab2-f0415aaca480@Bedroom-279993": {
+    "prompt": "What type of gaming console is stored under the bed?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "PlayStation",
+    "timestamp": "2025-10-08T17:38:31.804288"
+  },
+  "de7f061b-6225-42fb-bab2-f0415aaca480@Bedroom-280193": {
+    "prompt": "What type of outdoor grill is located in the bedroom?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "a grill",
+    "timestamp": "2025-10-08T17:38:39.788949"
+  },
+  "de7f061b-6225-42fb-bab2-f0415aaca480@LivingRoom-281159": {
+    "prompt": "What type of exercise equipment is placed in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:38:47.587924"
+  },
+  "0ab03928-28d4-4dfe-883e-63047de7cc9c@Terrace-17765": {
+    "prompt": "What is the height of the fountain located on the opposite side of the terrace?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "ten metres",
+    "timestamp": "2025-10-08T17:38:55.434818"
+  },
+  "de7f5810-bcd8-4eae-889c-ea51d11640a2@KidsRoom-19185": {
+    "prompt": "What type of artwork is displayed on the floor?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Floor painting",
+    "timestamp": "2025-10-08T17:39:03.019899"
+  },
+  "de7f5810-bcd8-4eae-889c-ea51d11640a2@Library-17584": {
+    "prompt": "What type of television is mounted on the wall?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Plasma",
+    "timestamp": "2025-10-08T17:39:09.784263"
+  },
+  "de7f5810-bcd8-4eae-889c-ea51d11640a2@LivingDiningRoom-21284": {
+    "prompt": "What type of piano is situated in the corner of the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "grand piano",
+    "timestamp": "2025-10-08T17:39:18.408154"
+  },
+  "de7f5810-bcd8-4eae-889c-ea51d11640a2@MasterBedroom-18739": {
+    "prompt": "What type of office chair is located in this room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "a chair or a chair or",
+    "timestamp": "2025-10-08T17:39:26.233161"
+  },
+  "dea141ae-047d-482c-8838-2c3c0c7d80c1@Bedroom-65": {
+    "prompt": "What type of pool table is located in the bedroom?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "billiard",
+    "timestamp": "2025-10-08T17:39:33.447868"
+  },
+  "33d1a77a-47d4-49ba-b682-61a47eff9c3c@Stairwell-4815": {
+    "prompt": "What type of chandelier is hanging in the stairwell?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "Crystal",
+    "timestamp": "2025-10-08T17:39:41.393899"
+  },
+  "dea86e42-f74e-4431-adb8-95d498175751@LivingDiningRoom-10578": {
+    "prompt": "What type of musical instrument is placed next to the sofa?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "piano",
+    "timestamp": "2025-10-08T17:39:49.074756"
+  },
+  "dea86e42-f74e-4431-adb8-95d498175751@MasterBedroom-10912": {
+    "prompt": "What type of appliance is used to cook food in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "oven",
+    "timestamp": "2025-10-08T17:39:55.726725"
+  },
+  "dea86e42-f74e-4431-adb8-95d498175751@SecondBedroom-10172": {
+    "prompt": "What is the shape of the dining table in this room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "F",
+    "timestamp": "2025-10-08T17:40:02.630261"
+  },
+  "deaa4ac0-8d13-423f-930f-78fb25825e8d@Bedroom-5073": {
+    "prompt": "What type of exercise equipment is in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:40:10.674247"
+  },
+  "deaa4ac0-8d13-423f-930f-78fb25825e8d@Bedroom-5088": {
+    "prompt": "What type of outdoor furniture is situated in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "wick",
+    "timestamp": "2025-10-08T17:40:18.190151"
+  },
+  "deaa4ac0-8d13-423f-930f-78fb25825e8d@Bedroom-6214": {
+    "prompt": "What type of cooking appliance is placed in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "oven",
+    "timestamp": "2025-10-08T17:40:25.602246"
+  },
+  "deaa4ac0-8d13-423f-930f-78fb25825e8d@LivingDiningRoom-7386": {
+    "prompt": "What type of sculpture is displayed on the sideboard?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "a sculpture",
+    "timestamp": "2025-10-08T17:40:33.645529"
+  },
+  "decb93da-ff77-49c3-9cad-fbb3596d36e8@ElderlyRoom-9803": {
+    "prompt": "What type of musical instrument is on the shelf?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "har",
+    "timestamp": "2025-10-08T17:40:39.933551"
+  },
+  "decb93da-ff77-49c3-9cad-fbb3596d36e8@LivingDiningRoom-10092": {
+    "prompt": "What type of bookshelf is located in the room?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "a bookcase not",
+    "timestamp": "2025-10-08T17:40:48.933907"
+  },
+  "decb93da-ff77-49c3-9cad-fbb3596d36e8@MasterBedroom-9370": {
+    "prompt": "What type of exercise equipment is located in the master bedroom?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:40:55.733084"
+  },
+  "decb93da-ff77-49c3-9cad-fbb3596d36e8@SecondBedroom-11739": {
+    "prompt": "What type of outdoor furniture is in the scene?\nIf the question is unanswerable, please answer: 'F'",
+    "response": "wick",
+    "timestamp": "2025-10-08T17:41:04.028798"
+  }
+}

@@ -1,0 +1,37 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) slurm/latest   2) arcc/1.0
+-------------------------------------------------------------------------------
+There are messages associated with the following module(s):
+-------------------------------------------------------------------------------
+
+gcc/13.2.0:
+   WARNING: The gcc/13.2.0 module should be consider deprecated. Please
+   update libraries/applications to use versions built with gcc/14.2.0 and
+   consider re-compiling any user/project specific software. Currently the
+   only cavet is the latest version of the cuda-toolkit is not currently
+   available for gcc/14.2.0. For any questions please contact
+   arcchelp@uwyo.edu.
+
+-------------------------------------------------------------------------------
+
+/project/3dllms/melgin/conda/envs/lavis/lib/python3.8/site-packages/transformers/utils/generic.py:311: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  torch.utils._pytree._register_pytree_node(
+/project/3dllms/melgin/conda/envs/lavis/lib/python3.8/site-packages/fairscale/experimental/nn/offload.py:19: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.
+  return torch.cuda.amp.custom_fwd(orig_func)  # type: ignore
+/project/3dllms/melgin/conda/envs/lavis/lib/python3.8/site-packages/fairscale/experimental/nn/offload.py:30: FutureWarning: `torch.cuda.amp.custom_bwd(args...)` is deprecated. Please use `torch.amp.custom_bwd(args..., device_type='cuda')` instead.
+  return torch.cuda.amp.custom_bwd(orig_func)  # type: ignore
+/project/3dllms/melgin/conda/envs/lavis/lib/python3.8/site-packages/huggingface_hub/file_download.py:945: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+/cluster/medbow/project/3dllms/melgin/3D-LLM_for_UPD-3D/unified_pipeline/../3DLLM_BLIP2-base/lavis/models/eva_vit.py:498: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(cached_file, map_location="cpu")
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:09<00:09,  9.68s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:16<00:00,  7.80s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:16<00:00,  8.08s/it]
+/cluster/medbow/project/3dllms/melgin/3D-LLM_for_UPD-3D/unified_pipeline/../3DLLM_BLIP2-base/lavis/models/blip2_models/blip2.py:78: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(cached_file, map_location="cpu")
+Traceback (most recent call last):
+  File "unified_pipeline/02_run_inference.py", line 336, in <module>
+    main()
+  File "unified_pipeline/02_run_inference.py", line 250, in main
+    raise FileNotFoundError(f"Checkpoint not found: {args.checkpoint}")
+FileNotFoundError: Checkpoint not found: /project/3dllms/melgin/3D-LLM_for_UPD-3D/3DLLM_BLIP2-base/pretrain_blip2_sam_flant5xl_v2.pth

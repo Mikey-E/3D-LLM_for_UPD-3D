@@ -1,0 +1,28 @@
+==========================================
+Starting 3D-FRONT Base Model Inference (open_ended only)
+Job ID: 48742122
+Node: mbl40s-001
+Start time: Fri Dec 19 16:01:31 MST 2025
+==========================================
+Processing single category: open_ended
+======================================================================
+3D-FRONT INFERENCE
+======================================================================
+Device: cuda
+Checkpoint: /project/3dllms/melgin/3D-LLM_for_UPD-3D/3DLLM_BLIP2-base/pretrain_blip2_sam_flant5xl_v2.pth
+Processed dir: /cluster/medbow/project/3dllms/melgin/datasets/3d-grand_unzipped/3D-FRONT_processed
+Questions base: /cluster/medbow/project/3dllms/melgin/UPD-3D/upd_text/3D-FRONT
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/3dfront_inference
+
+Loading point cloud list...
+  Total point clouds: 2993
+  Processing range: 0 to 2993
+  Processing count: 2993
+  Questions per cloud: 1
+  Total inferences: 2993
+
+Loading 3D-LLM model...
+  Loading checkpoint: /project/3dllms/melgin/3D-LLM_for_UPD-3D/3DLLM_BLIP2-base/pretrain_blip2_sam_flant5xl_v2.pth
+==========================================
+End time: Fri Dec 19 16:02:28 MST 2025
+==========================================

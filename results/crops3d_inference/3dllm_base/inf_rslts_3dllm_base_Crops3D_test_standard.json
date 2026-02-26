@@ -1,0 +1,1787 @@
+{
+  "Cabbage@sl_1109_14": {
+    "prompt": "What type of pot is the succulent plant sitting in?\n\nA. Dark-colored pot\nB. White-colored pot\nC. Transparent pot\nD. Clay pot",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:20.869518"
+  },
+  "Cabbage@sl_1019_03": {
+    "prompt": "What shape are the leaves of the potted houseplant described?\n\nA. Round with serrated edges\nB. Broad, oval to lanceolate with smooth edges\nC. Needle-like and thin\nD. Heart-shaped with ribbed edges",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:21.956280"
+  },
+  "Cabbage@mvs_1019_05": {
+    "prompt": "What color are the leaves of the potted succulent?\n\nA. Dark Green\nB. Light Pink\nC. Bright Yellow\nD. Blue-Green",
+    "response": "green",
+    "timestamp": "2025-10-13T15:47:23.015235"
+  },
+  "Cabbage@mvs_907_11": {
+    "prompt": "What color is the pot that the plant is in?\n\nA. Green\nB. Yellow\nC. Red\nD. Blue",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:24.095725"
+  },
+  "Cabbage@sl_1205_01": {
+    "prompt": "What color is the pot that holds the houseplant?\n\nA. Green\nB. Dark blue\nC. Red\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:25.232532"
+  },
+  "Cabbage@sl_921_07": {
+    "prompt": "What shape is the planter for the potted plant?\n\nA. Round\nB. Square\nC. Oval\nD. Triangular",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:26.305280"
+  },
+  "Cabbage@mvs_901_14": {
+    "prompt": "What is the color of the rim of the ceramic pot?\n\nA. Beige\nB. Green\nC. Blue\nD. Pale",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:27.357144"
+  },
+  "Cabbage@mvs_1123_14": {
+    "prompt": "What color is the flower supported by the blue-gray ceramic vase?\n\nA. Yellow\nB. White\nC. Red\nD. Blue-green",
+    "response": "red",
+    "timestamp": "2025-10-13T15:47:28.506385"
+  },
+  "Cabbage@mvs_1019_09": {
+    "prompt": "What color is the pot that holds the succulent?\n\nA. Light gray-blue\nB. Dark green\nC. Bright red\nD. Matte black",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:29.572642"
+  },
+  "Cabbage@sl_907_03": {
+    "prompt": "What shape is the pot that the plant is in?\n\nA. Square\nB. Rectangular\nC. Oval\nD. Round",
+    "response": "round",
+    "timestamp": "2025-10-13T15:47:30.648771"
+  },
+  "Cabbage@sl_1205_05": {
+    "prompt": "What color is the pot that the succulent is in?\n\nA. Red\nB. Green\nC. Blue\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:31.714564"
+  },
+  "Cabbage@mvs_1019_03": {
+    "prompt": "What color is the pot that houses the indoor potted plant?\n\nA. Light green\nB. Yellow\nC. Bright red\nD. Dark blue",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:32.830571"
+  },
+  "Cabbage@sl_901_02": {
+    "prompt": "What shape is the pot that holds the bonsai-style plant?\n\nA. Square\nB. Rectangular\nC. Round\nD. Triangular",
+    "response": "round",
+    "timestamp": "2025-10-13T15:47:33.920352"
+  },
+  "Cabbage@mvs_1205_09": {
+    "prompt": "What color is the pot in which the succulent is planted?\n\nA. Blue\nB. Green\nC. Red\nD. Yellow",
+    "response": "red",
+    "timestamp": "2025-10-13T15:47:35.014509"
+  },
+  "Cabbage@sl_1019_07": {
+    "prompt": "What color are the leaves of the potted succulent?\n\nA. Red\nB. Yellow\nC. Green\nD. Blue",
+    "response": "red",
+    "timestamp": "2025-10-13T15:47:36.112709"
+  },
+  "Cabbage@sl_1019_05": {
+    "prompt": "What shape is the pot that houses the potted plant?\n\nA. Square\nB. Triangular\nC. Oval\nD. Round",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:37.258863"
+  },
+  "Cabbage@sl_1116_11": {
+    "prompt": "What shape does the succulent form with its leaves?\n\nA. Triangular shape\nB. Oval shape\nC. Square shape\nD. Circular shape",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:38.394805"
+  },
+  "Cabbage@mvs_1012_06": {
+    "prompt": "What is the shape of the leaves on the succulent?\n\nA. Linear\nB. Circular\nC. Obovate\nD. Triangular",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:39.442713"
+  },
+  "Cabbage@mvs_907_07": {
+    "prompt": "What color is the ceramic pot containing the plant? \n\nA. Blue\nB. Green\nC. Red\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:40.571072"
+  },
+  "Cabbage@sl_921_11": {
+    "prompt": "What color is the pot that the plant is growing in?\n\nA. Red\nB. Dark blue\nC. Green\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:41.676115"
+  },
+  "Cabbage@sl_1019_01": {
+    "prompt": "What type of leaf shape is described for the plant in the room?\n\nA. Heart-shaped\nB. Triangular\nC. Circular\nD. Elongated oval",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:42.827981"
+  },
+  "Cabbage@mvs_929_06": {
+    "prompt": "What color is the pot that the succulent is in? \n\nA. Dark green\nB. Bright red\nC. Blue-gray\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:43.885875"
+  },
+  "Cabbage@sl_1109_12": {
+    "prompt": "What is the color of the leaves of the potted succulent?\n\nA. Light green\nB. Yellow\nC. Dark green to blue-green\nD. Brown",
+    "response": "green",
+    "timestamp": "2025-10-13T15:47:45.032091"
+  },
+  "Cabbage@mvs_1116_07": {
+    "prompt": "What color are the horizontal bands on the ceramic pot containing the succulent?\n\nA. Blue and white\nB. Green and yellow\nC. Red and white\nD. Black and gold",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:46.170722"
+  },
+  "Cabbage@mvs_921_03": {
+    "prompt": "What color is the pot containing the small potted plant?\n\nA. Dark blue\nB. Light blue\nC. Green\nD. Yellow",
+    "response": "red",
+    "timestamp": "2025-10-13T15:47:47.388302"
+  },
+  "Cabbage@mvs_901_10": {
+    "prompt": "What color is the rim of the ceramic pot?\n\nA. Light tan\nB. Dark brown\nC. Bright red\nD. Deep blue",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:48.483366"
+  },
+  "Cabbage@sl_1103_05": {
+    "prompt": "What shape is the pot that holds the succulent?\n\nA. Square\nB. Short cylindrical\nC. Tall rectangular\nD. Flat dish",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:49.564227"
+  },
+  "Cabbage@sl_907_11": {
+    "prompt": "What shape is the pot that the plant is in?\n\nA. Square\nB. Rectangular\nC. Oval\nD. Round",
+    "response": "round",
+    "timestamp": "2025-10-13T15:47:50.647781"
+  },
+  "Cabbage@mvs_1103_05": {
+    "prompt": "What type of leaves does the potted plant have?\n\nA. Long and narrow leaves\nB. Heart-shaped yellow leaves\nC. Broad bluish-green leaves\nD. Spiky red leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:51.748457"
+  },
+  "Cabbage@mvs_901_12": {
+    "prompt": "What color is the rim of the pot holding the succulent?\n\nA. Green\nB. Red\nC. Blue\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:52.847087"
+  },
+  "Cabbage@mvs_914_12": {
+    "prompt": "What color is the rim of the pot that the houseplant is in?\n\nA. Green\nB. Blue\nC. White\nD. Red",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:53.929036"
+  },
+  "Cabbage@sl_1026_02": {
+    "prompt": "What is the shape of the leaves on the potted plant described? \n\nA. Oval and smooth\nB. Long and narrow\nC. Triangular and sharp\nD. Rounded and fan-like",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:55.053675"
+  },
+  "Cabbage@sl_921_03": {
+    "prompt": "What color is the pot that the bonsai-style plant is planted in?\n\nA. Red\nB. Dark blue\nC. Green\nD. Yellow",
+    "response": "red",
+    "timestamp": "2025-10-13T15:47:56.112615"
+  },
+  "Cabbage@mvs_1026_08": {
+    "prompt": "What color is the ceramic pot in which the succulent is planted?\n\nA. Red\nB. Green\nC. Blue\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:47:57.169151"
+  },
+  "Cabbage@sl_1109_10": {
+    "prompt": "What is the shape of the leaves on the succulent described?\n\nA. Thick and fleshy\nB. Round and flat\nC. Long and thin\nD. Pointed and sharp",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:58.294555"
+  },
+  "Cabbage@mvs_929_10": {
+    "prompt": "What shape is the pot that the succulent is planted in?\n\nA. Cylindrical\nB. Oval\nC. Square\nD. Triangular",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:47:59.400770"
+  },
+  "Cabbage@mvs_1205_01": {
+    "prompt": "What color are the petals of the bloom on the potted plant?\n\nA. Green\nB. Blue-gray\nC. Yellow\nD. Red",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:00.503049"
+  },
+  "Cabbage@mvs_1019_11": {
+    "prompt": "What color is the ceramic pot holding the succulent plant?\n\nA. Blue\nB. Green\nC. Red\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:01.548181"
+  },
+  "Cabbage@sl_1026_08": {
+    "prompt": "What type of plant is described in the room?\n\nA. A flowering cactus\nB. A fern\nC. A potted succulent\nD. A palm tree",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:02.685622"
+  },
+  "Cabbage@mvs_907_13": {
+    "prompt": "What color is the ceramic pot containing the succulent?\n\nA. Blue\nB. Green\nC. Red\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:03.781900"
+  },
+  "Cabbage@mvs_1005_11": {
+    "prompt": "What type of plant is described in the room?\n\nA. A flowering cactus\nB. A large fern\nC. A small succulent\nD. A tall palm tree",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:04.842192"
+  },
+  "Cabbage@mvs_901_06": {
+    "prompt": "What color is the pot containing the succulent?\n\nA. Red\nB. Green\nC. Yellow\nD. Blue",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:05.891910"
+  },
+  "Cabbage@sl_1109_08": {
+    "prompt": "What color is the pot that holds the succulent plant?\n\nA. Green\nB. Brown\nC. Dark Blue\nD. Red",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:06.942302"
+  },
+  "Cabbage@mvs_929_14": {
+    "prompt": "What color is the rim of the ceramic pot holding the plant?\n\nA. Dark blue\nB. Brown\nC. Green\nD. Light blue",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:08.045474"
+  },
+  "Cabbage@sl_907_01": {
+    "prompt": "What shape do the leaves of the succulent have?\n\nA. Dense rosette and pointed\nB. Long and thin\nC. Flat and wide\nD. Rounded and smooth",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:09.240931"
+  },
+  "Cabbage@sl_1026_10": {
+    "prompt": "What shape does the green succulent's leaves create as they are arranged?\n\nA. A compact, flower-like cluster\nB. A straight line\nC. A spiral formation\nD. A triangular shape",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:10.275012"
+  },
+  "Cabbage@sl_901_10": {
+    "prompt": "What color is the glaze of the pot that holds the bonsai tree?\n\nA. Light Brown\nB. Matte White\nC. Bright Red\nD. Dark Blue-Black",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:11.363115"
+  },
+  "Cabbage@mvs_1012_12": {
+    "prompt": "What is the shape of the pot that the succulent is in?\n\nA. Triangular\nB. Cylindrical or square\nC. Oval\nD. Hexagonal",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:12.456228"
+  },
+  "Cabbage@mvs_1109_02": {
+    "prompt": "What type of container is the succulent displayed in?\n\nA. A rectangular planter\nB. A square box\nC. A cylindrical container\nD. A hanging basket",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:13.476246"
+  },
+  "Cabbage@sl_901_04": {
+    "prompt": "What color is the pot that holds the plant?\n\nA. Light blue\nB. White\nC. Green\nD. Dark blue",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:14.532482"
+  },
+  "Cabbage@mvs_1116_01": {
+    "prompt": "What color is the cylindrical pot in which the potted plant is kept?\n\nA. Light green\nB. White\nC. Dark blue\nD. Purple",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:15.606785"
+  },
+  "Cabbage@mvs_901_08": {
+    "prompt": "What color is the ceramic pot that the succulent is planted in?\n\nA. Blue\nB. Green\nC. Tan\nD. Red",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:16.648290"
+  },
+  "Cabbage@sl_1109_06": {
+    "prompt": "What type of plant is described in the room?\n\nA. A flowering plant\nB. A cactus\nC. A fern\nD. A potted succulent",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:17.703251"
+  },
+  "Cabbage@mvs_914_04": {
+    "prompt": "What color is the rim of the pot that holds the money plant?\n\nA. Green\nB. Yellow\nC. Red\nD. Blue",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:18.727316"
+  },
+  "Cabbage@sl_1019_13": {
+    "prompt": "What type of plant is described in the room?\n\nA. Cactus with spiky leaves\nB. Fern with feathery fronds\nC. Rubber plant with broad, glossy dark-green leaves\nD. Bonsai tree with small leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:19.759755"
+  },
+  "Cabbage@sl_1026_12": {
+    "prompt": "What shape does the arrangement of the succulent leaves form?\n\nA. A layered crown shape\nB. A flat disk shape\nC. A spiral shape\nD. A vertical column shape",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:20.841844"
+  },
+  "Cabbage@mvs_1103_03": {
+    "prompt": "What color is the pot that holds the succulent?\n\nA. Light blue\nB. Dark blue\nC. Green\nD. Brown",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:21.891220"
+  },
+  "Cabbage@sl_1103_13": {
+    "prompt": "What shape are the leaves of the succulent?\n\nA. Circular\nB. Needle-like\nC. Broad and fleshy\nD. Pointy and thin",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:22.913829"
+  },
+  "Cabbage@sl_907_05": {
+    "prompt": "What color is the pot that the plant is in?\n\nA. Blue\nB. Green\nC. Brown\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:23.965039"
+  },
+  "Cotton@116": {
+    "prompt": "What is the color of the branch described in the room?\n\nA. Green\nB. Yellow\nC. Brown\nD. White",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:25.062554"
+  },
+  "Cotton@14": {
+    "prompt": "What color are the centers of the blossoms on the bonsai-style tree?\n\nA. White\nB. Brown\nC. Green\nD. Pink",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:26.265932"
+  },
+  "Cotton@62": {
+    "prompt": "What color are the tiny fluffy buds on the shrub?\n\nA. Red\nB. Blue\nC. Yellow\nD. White",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:27.295393"
+  },
+  "Cotton@126": {
+    "prompt": "What type of plant is described in the room?  \n\nA. Deciduous sapling\nB. Aconite\nC. Evergreen tree\nD. Cactus",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:28.321819"
+  },
+  "Cotton@16": {
+    "prompt": "What color are the blossoms of the small flowering tree?\n\nA. Pink\nB. Yellow\nC. White\nD. Red",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:29.344653"
+  },
+  "Cotton@113": {
+    "prompt": "What type of blossoms are found on the slender brown flowering branch?\n\nA. Yellow blossoms\nB. Red blossoms\nC. White blossoms\nD. Pink blossoms",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:30.405782"
+  },
+  "Cotton@27": {
+    "prompt": "What characteristic feature is present at the base of the cotton plant?\n\nA. Soft flowers\nB. Clusters of cotton bolls\nC. Small leaves\nD. Green stems",
+    "response": "stool",
+    "timestamp": "2025-10-13T15:48:31.580728"
+  },
+  "Cotton@92": {
+    "prompt": "What color are the blossoms on the flowering branch?\n\nA. Pink\nB. Yellow\nC. Blue\nD. White",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:32.604816"
+  },
+  "Cotton@198": {
+    "prompt": "What color are the blossoms on the sapling?\n\nA. White\nB. Yellow\nC. Red\nD. Blue",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:33.687611"
+  },
+  "Cotton@63": {
+    "prompt": "What type of plant is described in the room?\n\nA. A flower with large petals\nB. A tall tree\nC. A small sapling\nD. A bush with thick leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:34.713229"
+  },
+  "Cotton@120": {
+    "prompt": "What type of plant is described in the room?\n\nA. Corn plant\nB. Wheat plant\nC. Soybean plant\nD. Cotton plant",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:35.750659"
+  },
+  "Cotton@81": {
+    "prompt": "What color are the flowers on the branch?\n\nA. Blue\nB. White\nC. Yellow\nD. Red",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:36.818639"
+  },
+  "Cotton@136": {
+    "prompt": "What characteristic is most prominent at the upper portion of the cotton plant described?\n\nA. Vibrant yellow flowers\nB. Large dark green leaves\nC. A thick woody stem\nD. Clusters of fluffy white cotton bolls",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:37.947726"
+  },
+  "Cotton@26": {
+    "prompt": "What color are the blossoms on the branch?\n\nA. White\nB. Yellow\nC. Red\nD. Pink",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:39.059124"
+  },
+  "Cotton@112": {
+    "prompt": "What type of blossoms are found along the slender brown branch?\n\nA. Bluebells\nB. Fluffy catkins\nC. Red roses\nD. Sunflowers",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:40.118007"
+  },
+  "Cotton@2": {
+    "prompt": "What is the color of the bolls on the cotton plant described?\n\nA. Green\nB. Brown\nC. Yellow\nD. White",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:41.195427"
+  },
+  "Cotton@21": {
+    "prompt": "What type of plant is described as having multi-stemmed structure and white fluffy blossoms?\n\nA. A flowering tree\nB. A palm plant\nC. A cotton shrub\nD. A fern",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:42.276544"
+  },
+  "Cotton@173": {
+    "prompt": "What color are the cotton bolls on the cotton plant?\n\nA. White\nB. Brown\nC. Blue\nD. Green",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:43.299726"
+  },
+  "Cotton@107": {
+    "prompt": "What color are the blossoms on the flowering tree described?\n\nA. Red\nB. White\nC. Yellow\nD. Blue",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:44.357457"
+  },
+  "Cotton@22": {
+    "prompt": "What shape does the dried cotton plant branch with two stems form?\n\nA. A curved, spray-like arrangement\nB. A circular shape\nC. A straight line\nD. A zigzag pattern",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:45.473246"
+  },
+  "Cotton@115": {
+    "prompt": "What color are the blossoms on the stem described?\n\nA. Red\nB. White\nC. Blue\nD. Yellow",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:46.547128"
+  },
+  "Cotton@159": {
+    "prompt": "What kind of base is the bonsai-like flowering tree rooted in?\n\nA. A mossy base\nB. A sandy base\nC. A rocky base\nD. A clay base",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:48:47.756992"
+  },
+  "Cotton@153": {
+    "prompt": "What type of blossoms are found on the tall, slender brown plant stem?\n\nA. White fluffy blossoms\nB. Yellow fluffy blossoms\nC. Red fluffy blossoms\nD. Blue fluffy blossoms",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:48.888089"
+  },
+  "Cotton@88": {
+    "prompt": "What type of plant feature is present on the slender brown stems?\n\nA. Dense root ball in soil\nB. Large colorful flowers\nC. Thick trunk\nD. Sparse green leaves",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:49.935231"
+  },
+  "Cotton@9": {
+    "prompt": "What type of plant is described as having a tall, slender trunk, green leaves, and clusters of white fluffy bolls along its branches?\n\nA. A Cotton Tree\nB. A Flowering Shrub\nC. An Oak Tree\nD. A Pine Tree",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:51.055114"
+  },
+  "Cotton@72": {
+    "prompt": "What color are the blossoms on the sapling?\n\nA. Red\nB. White\nC. Yellow\nD. Blue",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:52.114031"
+  },
+  "Cotton@25": {
+    "prompt": "What feature do the blossoms on the branch predominantly have?\n\nA. They grow in clusters of three\nB. They are all yellow in color\nC. They have a five-petal structure\nD. They produce a fruity scent",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:53.272794"
+  },
+  "Cotton@158": {
+    "prompt": "What color are the petals of the flowers on the branch?\n\nA. Red\nB. Blue\nC. White\nD. Yellow",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:54.394638"
+  },
+  "Cotton@180": {
+    "prompt": "What color are the leaves of the sapling?\n\nA. Green\nB. Brown\nC. Yellow\nD. Red",
+    "response": "white",
+    "timestamp": "2025-10-13T15:48:55.480550"
+  },
+  "Cotton@149": {
+    "prompt": "What type of plant is described?\n\nA. A small leafless shrub or young tree\nB. A large flowering tree\nC. A climbing vine\nD. A tall grass",
+    "response": "stool",
+    "timestamp": "2025-10-13T15:48:56.575992"
+  },
+  "Cotton@125": {
+    "prompt": "What color are the centers of some of the blossoms on the flowering branch?\n\nA. Yellow\nB. Blue\nC. Pink\nD. Red",
+    "response": "red",
+    "timestamp": "2025-10-13T15:48:57.605001"
+  },
+  "Cotton@51": {
+    "prompt": "What type of plant is described in the room?\n\nA. A small tree\nB. A large succulent\nC. A flowering vine\nD. A multi-branched shrub",
+    "response": "stool",
+    "timestamp": "2025-10-13T15:48:58.750885"
+  },
+  "Cotton@67": {
+    "prompt": "What type of plant structure is primarily described in the room?\n\nA. A bush with thick foliage\nB. A slender stem with delicate branches\nC. A flowering vine\nD. A tree with a trunk",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:48:59.839607"
+  },
+  "Cotton@127": {
+    "prompt": "What type of flowers are found on the branch?\n\nA. Red roses\nB. Blue daisies\nC. White blossoms\nD. Yellow tulips",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:00.940614"
+  },
+  "Cotton@11": {
+    "prompt": "What is the color of the petals on the blossoms?\n\nA. Blue\nB. Red\nC. White\nD. Yellow",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:02.059955"
+  },
+  "Cotton@137": {
+    "prompt": "What color are the flowers or seed pods at the top of the plant?\n\nA. Blue\nB. Red\nC. White\nD. Yellow",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:03.136793"
+  },
+  "Cotton@78": {
+    "prompt": "What type of plant is described in the room?\n\nA. A bush with red flowers\nB. A slender sapling with white blossoms\nC. A tall tree with thick branches\nD. A ground cover plant",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:04.285175"
+  },
+  "Cotton@6": {
+    "prompt": "What type of plant is described in the room?\n\nA. A cactus with spiky needles\nB. A flowering shrub in a round pot\nC. A tall palm tree with green leaves\nD. A small potted tree with white blossoms",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:05.465684"
+  },
+  "Cotton@188": {
+    "prompt": "What type of plant is described in the room?\n\nA. A tree sapling\nB. A flower bush\nC. A grassy plant\nD. A palm tree",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:06.547620"
+  },
+  "Cotton@79": {
+    "prompt": "What type of plant is described in the room?\n\nA. A bonsai-like deciduous shrub\nB. A small fern\nC. A flowering cactus\nD. A tall palm tree",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:07.673737"
+  },
+  "Cotton@133": {
+    "prompt": "What color are the blossoms on the sapling?\n\nA. Red\nB. White\nC. Yellow\nD. Blue",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:08.770118"
+  },
+  "Cotton@197": {
+    "prompt": "What is the main feature of the plant described?\n\nA. It has a light brown trunk that splits into two main branches\nB. It has a thick, dark bark with no branches\nC. It is a large tree with broad canopy\nD. It only has green leaves without any flowers",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:09.949712"
+  },
+  "Cotton@176": {
+    "prompt": "What shape is the planter in which the slender tree or shrub is planted?\n\nA. Circle\nB. Triangle\nC. Rectangle\nD. Square",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:11.062796"
+  },
+  "Cotton@160": {
+    "prompt": "What type of plant is described in the room?\n\nA. A small sapling with white blossoms\nB. A shrub with thick branches\nC. A large oak tree\nD. A flowering vine",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:12.118359"
+  },
+  "Cotton@65": {
+    "prompt": "What type of tree is described in the room?\n\nA. A coniferous tree with needle-like leaves\nB. A large oak tree with broad leaves\nC. A small, slender tree with fluffy white blossoms\nD. A palm tree with long fronds",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:13.233947"
+  },
+  "Cotton@100": {
+    "prompt": "What color are the blossoms on the sapling?\n\nA. Pink\nB. White\nC. Yellow\nD. Blue",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:14.271061"
+  },
+  "Cotton@19": {
+    "prompt": "What is located at the bottom of the cotton plant stem?\n\nA. A smooth rock\nB. A single large flower\nC. A pointed spike\nD. A tangled root cluster",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:49:15.526928"
+  },
+  "Cotton@3": {
+    "prompt": "What color is the snow coating the tree's branches?\n\nA. Blue\nB. White\nC. Green\nD. Brown",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:16.584094"
+  },
+  "Cotton@75": {
+    "prompt": "What color are the clusters of flowers on the cotton plant?\n\nA. White\nB. Brown\nC. Green\nD. Yellow",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:17.615193"
+  },
+  "Cotton@145": {
+    "prompt": "What type of plant is described in the room?\n\nA. A large tree with wide branches\nB. A bush with thick foliage\nC. A flowering plant with vibrant petals\nD. An upright sapling with a thin trunk",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:18.748556"
+  },
+  "Cotton@168": {
+    "prompt": "What color are the blossoms on the flowering stem?\n\nA. White\nB. Red\nC. Yellow\nD. Blue",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:19.845052"
+  },
+  "Cotton@15": {
+    "prompt": "What type of blossoms are found on the tall, slender brown branch?\n\nA. Red fluffy blossoms\nB. Blue flat blossoms\nC. Large yellow blossoms\nD. Small white fluffy blossoms",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:20.907046"
+  },
+  "Cotton@122": {
+    "prompt": "What color are the cotton bolls on the plant?\n\nA. White\nB. Yellow\nC. Green\nD. Brown",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:21.941649"
+  },
+  "Maize@1-111": {
+    "prompt": "What is the color of the tassel at the top of the maize plant?\n\nA. Green\nB. Pale Brown\nC. Dark Brown\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:23.035273"
+  },
+  "Maize@3-28": {
+    "prompt": "What type of plant is described in the room?\n\nA. A potted plant with lance-shaped leaves\nB. A succulent\nC. A flowering shrub\nD. A cactus",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:24.083429"
+  },
+  "Maize@2-34": {
+    "prompt": "What type of plant is described in the room?\n\nA. A flowering shrub\nB. A tall cactus\nC. A houseplant with palm-like leaves\nD. A small herb",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:25.221833"
+  },
+  "Maize@3-49": {
+    "prompt": "What shape do the leaves of the potted plant resemble?\n\nA. Circular\nB. Lance-shaped\nC. Square\nD. Triangular",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:26.250476"
+  },
+  "Maize@2-70": {
+    "prompt": "What is the shape of the leaves on the potted plant described?\n\nA. Long and narrow\nB. Round and broad\nC. Heart-shaped\nD. Oval",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:27.336954"
+  },
+  "Maize@3-55": {
+    "prompt": "What type of pot is the plant potted in?\n\nA. Square pot\nB. Dark round pot\nC. Tall cylindrical pot\nD. Shallow rectangular pot",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:28.420702"
+  },
+  "Maize@3-26": {
+    "prompt": "What is the shape of the leaves on the tall green plant?\n\nA. Round and fluffy\nB. Short and needle-like\nC. Broad and flat\nD. Long and strap-like",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:29.608669"
+  },
+  "Maize@2-13": {
+    "prompt": "What is the shape of the pot in which the seedling is planted?\n\nA. Triangular\nB. Square\nC. Rectangular\nD. Round",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:30.679344"
+  },
+  "Maize@3-21": {
+    "prompt": "What type of plant is described in the room?\n\nA. Flowering plant with colorful blooms\nB. Succulent plant with thick fleshy leaves\nC. Potted plant with a single slender stem and long narrow leaves\nD. Climbing vine with broad leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:31.732931"
+  },
+  "Maize@3-18": {
+    "prompt": "What is the shape of the leaves of the plant described?\n\nA. Long and narrow\nB. Round and broad\nC. Flat and wide\nD. Short and oval",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:32.859939"
+  },
+  "Maize@2-109": {
+    "prompt": "What type of pot is the plant in?\n\nA. Dark plastic pot\nB. Wooden pot\nC. Ceramic pot\nD. Metallic pot",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:33.894815"
+  },
+  "Maize@1-118": {
+    "prompt": "What is the color of the seed panicle at the top of the plant?\n\nA. Green\nB. Brownish\nC. Yellow\nD. Red",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:34.977711"
+  },
+  "Maize@3-42": {
+    "prompt": "What color is the pot that the plant is potted in?\n\nA. Dark-blue\nB. Green\nC. Red\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:36.111510"
+  },
+  "Maize@1-24": {
+    "prompt": "What color are the leaves of the potted plant?\n\nA. Yellow\nB. Red\nC. Green\nD. Blue",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:37.193469"
+  },
+  "Maize@1-51": {
+    "prompt": "What is the color of the leaves of the maize plant described?\n\nA. Yellow\nB. Mid-to-dark green\nC. Light green\nD. Brown",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:38.292527"
+  },
+  "Maize@1-68": {
+    "prompt": "What color are the leaves of the sapling?\n\nA. Brown\nB. Green\nC. Yellow\nD. Red",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:39.402055"
+  },
+  "Maize@2-101": {
+    "prompt": "What color are the leaves of the tall, slender plant described?\n\nA. Yellow\nB. Green\nC. Blue\nD. Red",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:40.532143"
+  },
+  "Maize@3-19": {
+    "prompt": "What is the shape of the leaves on the potted plant?\n\nA. Lance-shaped\nB. Round and broad\nC. Heart-shaped\nD. Oval",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:41.657713"
+  },
+  "Maize@2-148": {
+    "prompt": "What is the texture of the leaves mentioned in the description?\n\nA. Smooth\nB. Velvety\nC. Rough\nD. Brushy",
+    "response": "ridged",
+    "timestamp": "2025-10-13T15:49:42.870926"
+  },
+  "Maize@2-9": {
+    "prompt": "What shape are the leaves of the potted plant described?\n\nA. Round\nB. Oval\nC. Lance-shaped\nD. Heart-shaped",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:44.062996"
+  },
+  "Maize@2-122": {
+    "prompt": "What shape do the leaves of the plant take as they extend from the central stem?\n\nA. Arching, V-like cluster\nB. Circular cluster\nC. Straight line\nD. Spiral formation",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:45.124409"
+  },
+  "Maize@1-122": {
+    "prompt": "What shape are the leaves of the plant described?\n\nA. Round\nB. Oval\nC. Lance-shaped\nD. Heart-shaped",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:46.224447"
+  },
+  "Maize@3-10": {
+    "prompt": "What type of plant is described in the room?\n\nA. A bushy shrub with thick leaves\nB. A small cactus in a pot\nC. A flowering plant with bright petals\nD. A tall potted plant with arching leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:47.319369"
+  },
+  "Maize@2-77": {
+    "prompt": "What color is the pot that holds the potted plant?\n\nA. Dark Blue\nB. Red\nC. Green\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:48.371355"
+  },
+  "Maize@2-140": {
+    "prompt": "What shape do the leaves of the plant resemble?\n\nA. Round\nB. Heart-shaped\nC. Circular\nD. Lanceolate",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:49.466890"
+  },
+  "Maize@2-126": {
+    "prompt": "What type of container is the plant in?\n\nA. Square pot\nB. Round pot\nC. Rectangular pot\nD. Hanging basket",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:50.550497"
+  },
+  "Maize@3-36": {
+    "prompt": "What type of plant is described in the room?\n\nA. A tall tree with thick branches\nB. A flowering shrub with wide leaves\nC. A small potted plant with a slender stem\nD. A succulent with rounded leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:51.649224"
+  },
+  "Maize@3-15": {
+    "prompt": "What type of container is the plant potted in?\n\nA. A square blue pot\nB. A tall cylindrical vase\nC. A large rectangular pot\nD. A small round brown pot",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:52.771700"
+  },
+  "Maize@3-60": {
+    "prompt": "What shape does the pot of the houseplant have?\n\nA. Round\nB. Square\nC. Rectangular\nD. Oval",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:53.888472"
+  },
+  "Maize@2-17": {
+    "prompt": "What shape are the leaves of the houseplant described?\n\nA. Round and wide\nB. Oval and flat\nC. Lance-shaped\nD. Star-shaped",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:54.941220"
+  },
+  "Maize@2-32": {
+    "prompt": "What color is the pot that holds the houseplant?\n\nA. Red\nB. Yellow\nC. Blue\nD. Green",
+    "response": "white",
+    "timestamp": "2025-10-13T15:49:56.024144"
+  },
+  "Maize@2-116": {
+    "prompt": "What type of plant is described in the room?\n\nA. A cactus with spines\nB. A houseplant with arching leaves\nC. A flowering shrub\nD. A tall tree with thick trunk",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:57.232762"
+  },
+  "Maize@1-120": {
+    "prompt": "What type of plant is described in the room?\n\nA. A cannabis plant\nB. A fruit-bearing tree\nC. A flowering shrub\nD. A grass-like plant",
+    "response": "red",
+    "timestamp": "2025-10-13T15:49:58.370938"
+  },
+  "Maize@3-40": {
+    "prompt": "What is the shape of the leaves on the houseplant?\n\nA. Round and fluffy\nB. Short and wide\nC. Oval and smooth\nD. Long and lance-shaped",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:49:59.461382"
+  },
+  "Maize@3-43": {
+    "prompt": "What type of leaves does the described plant have?\n\nA. Long and arching\nB. Round and thick\nC. Short and pointy\nD. Flat and wide",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:00.591408"
+  },
+  "Maize@2-31": {
+    "prompt": "What is the shape of the leaves on the plant described?\n\nA. Oval-shaped\nB. Heart-shaped\nC. Circular-shaped\nD. Lance-shaped",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:01.733961"
+  },
+  "Maize@3-38": {
+    "prompt": "What type of plant is described in the room?\n\nA. A tall, slender green plant with arching leaves\nB. A bushy shrub with wide leaves\nC. A flowering cactus with spines\nD. A small succulent in a square pot",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:02.799256"
+  },
+  "Maize@2-28": {
+    "prompt": "What shape is formed by the leaves at the top of the potted plant?\n\nA. A circle\nB. A rectangle\nC. A square\nD. A triangle",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:04.026688"
+  },
+  "Maize@2-24": {
+    "prompt": "What type of plant is described in the room?\n\nA. A tall, slender green plant with long, narrow leaves\nB. A short bushy plant with wide leaves\nC. A flowering plant with thick stems\nD. A succulent with rounded leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:05.120570"
+  },
+  "Maize@2-67": {
+    "prompt": "What type of leaves does the houseplant have?\n\nA. Lance-shaped leaves\nB. Round leaves\nC. Heart-shaped leaves\nD. Oval leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:06.232369"
+  },
+  "Maize@2-64": {
+    "prompt": "What is the shape of the pot that houses the plant?\n\nA. Square-shaped ceramic pot\nB. Light-colored round ceramic pot\nC. Tall, rectangular pot\nD. Deep, oval pot",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:07.296817"
+  },
+  "Maize@3-54": {
+    "prompt": "What type of growth is visible at the top of the plant?\n\nA. A tuft of new growth\nB. A cluster of flowers\nC. A wide, flat leaf\nD. A long vine",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:08.483957"
+  },
+  "Maize@2-66": {
+    "prompt": "What type of pot is the plant in?\n\nA. Square light pot\nB. Oval white pot\nC. Rectangular black pot\nD. Round dark pot",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:09.616657"
+  },
+  "Maize@3-7": {
+    "prompt": "What color is the pot that holds the houseplant?\n\nA. Blue\nB. Red\nC. Green\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:10.721968"
+  },
+  "Maize@2-65": {
+    "prompt": "What type of pot is the plant in?\n\nA. Square terracotta pot\nB. Dark round pot\nC. Clear plastic pot\nD. White ceramic pot",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:11.873248"
+  },
+  "Maize@2-88": {
+    "prompt": "What color is the pot that contains the tall green plant?\n\nA. Red\nB. Blue\nC. Green\nD. Brown",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:13.026079"
+  },
+  "Maize@2-108": {
+    "prompt": "What color are the leaves of the plant described?\n\nA. Blue\nB. Purple\nC. Green\nD. Red",
+    "response": "red",
+    "timestamp": "2025-10-13T15:50:14.111506"
+  },
+  "Maize@1-78": {
+    "prompt": "What type of leaves does the plant sapling described have?\n\nA. Round leaves\nB. Triangular leaves\nC. Lance-shaped leaves\nD. Broad leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:15.167879"
+  },
+  "Maize@2-39": {
+    "prompt": "What color is the rim of the pot holding the small potted plant?\n\nA. Brown\nB. Red\nC. Green\nD. Blue",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:16.289015"
+  },
+  "Maize@2-50": {
+    "prompt": "What type of pot is the plant sitting in?\n\nA. Round blue ceramic pot\nB. Square red ceramic pot\nC. Oval white ceramic pot\nD. Rectangular brown wooden pot",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:17.351471"
+  },
+  "Maize@3-50": {
+    "prompt": "What shape is the pot of the plant?\n\nA. Cube\nB. Pyramid\nC. Rectangular\nD. Cylindrical",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:18.512689"
+  },
+  "Maize@2-128": {
+    "prompt": "What type of plant is described in the room?\n\nA. A flowering shrub\nB. A small potted tree\nC. A grass plant\nD. A potted indoor plant",
+    "response": "stool",
+    "timestamp": "2025-10-13T15:50:19.677700"
+  },
+  "Maize@2-137": {
+    "prompt": "What shape are the leaves of the potted plant described?\n\nA. Round\nB. Lance-shaped\nC. Heart-shaped\nD. Oval",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:20.825058"
+  },
+  "Maize@2-141": {
+    "prompt": "What type of design does the pot of the houseplant feature?\n\nA. A blue pattern\nB. Stripes\nC. Floral patterns\nD. Geometric shapes",
+    "response": "slat",
+    "timestamp": "2025-10-13T15:50:22.108738"
+  },
+  "Maize@2-29": {
+    "prompt": "What shape are the leaves of the houseplant described?\n\nA. Round\nB. Oval\nC. Lance-shaped\nD. Triangular",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:23.256424"
+  },
+  "Maize@1-60": {
+    "prompt": "What color are the veins of the maize leaves?\n\nA. Dark green\nB. Yellow\nC. White\nD. Light green",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:24.394371"
+  },
+  "Maize@1-22": {
+    "prompt": "What is the shape of the top extension of the plant sculpture?\n\nA. Curved\nB. Flat\nC. Straight\nD. Pointed",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:25.495544"
+  },
+  "Maize@2-33": {
+    "prompt": "What color is the rim of the pot that the plant is in?\n\nA. Blue\nB. Red\nC. Green\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:26.545769"
+  },
+  "Maize@3-27": {
+    "prompt": "What shape do the leaves of the potted plant have?\n\nA. Round and broad\nB. Sword-shaped\nC. Heart-shaped\nD. Oval-shaped",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:27.625760"
+  },
+  "Maize@3-37": {
+    "prompt": "What is the shape of the leaves of the indoor potted plant described?\n\nA. Long and glossy\nB. Round and flat\nC. Short and spiky\nD. Wide and droopy",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:28.812885"
+  },
+  "Maize@1-113": {
+    "prompt": "What is the characteristic feature of the grass plant described?\n\nA. It has numerous flowers blooming at the base\nB. It has a branched panicle of tiny seed heads at the top\nC. It is growing in a pot filled with water\nD. It has broad oval leaves instead of lanceolate leaves",
+    "response": "rectangular shape",
+    "timestamp": "2025-10-13T15:50:29.906792"
+  },
+  "Maize@2-11": {
+    "prompt": "What type of fronds does the potted plant have?\n\nA. Wide, flat leaves\nB. Thick, succulent leaves\nC. Short, round leaves\nD. Long, arching palm-like fronds",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:30.985729"
+  },
+  "Maize@1-50": {
+    "prompt": "What characteristic describes the new growth at the top of the maize plant?\n\nA. It forms a cluster of narrow upright leaves\nB. It consists of wide, flat leaves pointing outward\nC. It is fully developed with thick, sturdy stalks\nD. It produces flowers in a blooming structure",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:50:32.333539"
+  },
+  "Maize@1-123": {
+    "prompt": "What is the color of the inflorescence at the top of the corn plant?  \n\nA. Dark green\nB. Pale brown\nC. Bright yellow\nD. Reddish orange",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:33.440127"
+  },
+  "Maize@2-21": {
+    "prompt": "What shape is the pot that the plant is in?\n\nA. Round\nB. Rectangular\nC. Square\nD. Oval",
+    "response": "round",
+    "timestamp": "2025-10-13T15:50:34.581579"
+  },
+  "Maize@2-107": {
+    "prompt": "What color is the pot in which the plant is potted?\n\nA. Dark brown\nB. Green\nC. Yellow\nD. Black",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:35.668723"
+  },
+  "Maize@2-114": {
+    "prompt": "What color is the stem of the sapling?\n\nA. Dark Green\nB. Pale Yellow-Green\nC. Bright Red\nD. Deep Brown",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:36.822933"
+  },
+  "Maize@1-106": {
+    "prompt": "What is the color of the tassel-like inflorescence at the top of the maize plant?\n\nA. Green\nB. Yellow\nC. Brownish\nD. Red",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:37.925434"
+  },
+  "Potato@5-19-P281-2-a": {
+    "prompt": "What type of leaves does the plant exhibit?\n\nA. Needle-like leaves\nB. Rounded leaves\nC. Linear leaves\nD. Ovate leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:39.003342"
+  },
+  "Potato@5-21-P104-3-a": {
+    "prompt": "What is the color variation of the leaves on the plant described?\n\nA. Only dark green\nB. A mix of light to dark green\nC. Only light green\nD. All leaves are yellow",
+    "response": "red",
+    "timestamp": "2025-10-13T15:50:40.098413"
+  },
+  "Potato@5-11-P255-3-a": {
+    "prompt": "What type of plant is described in the room?\n\nA. A flowering shrub\nB. A palm-like plant\nC. A cactus\nD. A fern",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:41.242677"
+  },
+  "Potato@5-14-P117-3-a": {
+    "prompt": "What type of leaves are described on the plant stem?\n\nA. Heart-shaped leaves with wavy edges\nB. Circular leaves with smooth edges\nC. Narrow leaves with a glossy texture\nD. Oval-to-lanceolate leaves with serrated margins",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:42.353250"
+  },
+  "Potato@5-13-P015-2-a": {
+    "prompt": "What characteristic describes the leaves of the green plant?\n\nA. They have pointed tips and serrated margins\nB. They are round and smooth to the touch\nC. They are tall and bushy\nD. They are thin and sticky",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:43.446821"
+  },
+  "Potato@5-23-P999-7-a": {
+    "prompt": "What is the characteristic feature of the leaves on the herb plant described?\n\nA. They are broad and heart-shaped\nB. They have a dull texture and are light green\nC. They are elongated to oval with serrated edges\nD. They are round and sparsely arranged",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:44.678131"
+  },
+  "Potato@5-20-P043-1-a": {
+    "prompt": "What characteristic is notable about the leaves of the plant described?\n\nA. The leaves are all the same size and shade of green\nB. The leaves are exclusively light green without any brown edges\nC. The leaves have broad, serrated edges and vary in size and shade\nD. The leaves are round and smooth without any veins",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:45.832726"
+  },
+  "Potato@5-11-P279-3-a": {
+    "prompt": "What shape are the leaves of the plant described?\n\nA. Circular\nB. Triangular\nC. Lanceolate to oval-elliptic\nD. Rectangular",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:47.047690"
+  },
+  "Potato@5-21-P104-4-a": {
+    "prompt": "What color are the leaflets at the tip of the stem?\n\nA. Yellow\nB. Dark green\nC. Brown\nD. Light lime",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:48.170247"
+  },
+  "Potato@5-20-P060-3-a": {
+    "prompt": "What type of leaf arrangement is described in the foliage?\n\nA. Pinnate arrangement of small leaflets\nB. Opposite arrangement of leaves\nC. Whorled arrangement of leaves\nD. Rosette arrangement of leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:49.285362"
+  },
+  "Potato@5-11-P290-3-a": {
+    "prompt": "What is the color range of the leaves on the plant described?\n\nA. From purple to blue\nB. From yellow to dark brown\nC. From light lime to dark green\nD. From red to orange",
+    "response": "red",
+    "timestamp": "2025-10-13T15:50:50.486601"
+  },
+  "Potato@5-23-P999-2-a": {
+    "prompt": "What is the arrangement of the leaves on the plant stem described?\n\nA. The leaves are arranged in a clustered formation at the bottom of the stem\nB. The leaves are arranged in a spiral pattern around the stem\nC. The leaves are arranged alternately along the length of the stem\nD. The leaves are arranged symmetrically on opposite sides of the stem",
+    "response": "on top of",
+    "timestamp": "2025-10-13T15:50:51.780016"
+  },
+  "Potato@5-11-P281-1-a": {
+    "prompt": "What type of leaves does the young plant sapling have?\n\nA. Round fleshy leaves with no veins\nB. Needle-like leaves with smooth edges\nC. Long thin leaves with a waxy texture\nD. Broad oval leaves with visible veins",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:52.904758"
+  },
+  "Potato@5-23-P997-1-a": {
+    "prompt": "What type of leaves does the slender green plant bear?\n\nA. Elongated, oval to lanceolate leaves\nB. Round, broad leaves\nC. Needle-like leaves\nD. Heart-shaped leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:54.039436"
+  },
+  "Potato@5-14-P112-1-a": {
+    "prompt": "What shape are the leaves on the plant stem described?\n\nA. Circular\nB. Triangular\nC. Rectangular\nD. Elongated oval to lanceolate",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:55.207864"
+  },
+  "Potato@5-13-P046-3-a": {
+    "prompt": "What type of leaves does the plant have?\n\nA. Broad, heart-shaped leaves\nB. Needle-like leaves\nC. Alternately arranged oval-to-lanceolate leaves\nD. Ruffled, frilly leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:56.305199"
+  },
+  "Potato@5-21-P104-2-a": {
+    "prompt": "What type of plant is described as having a tall slender trunk and a crown of feathery fronds?\n\nA. Palm\nB. Fern\nC. Cactus\nD. Oak",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:57.440767"
+  },
+  "Potato@5-11-P104-2-a": {
+    "prompt": "What color variation is present in the leaves of the plant described?\n\nA. Only light green leaves\nB. Only dark green leaves\nC. Color variations from light lime to dark green\nD. Only brownish leaves",
+    "response": "white",
+    "timestamp": "2025-10-13T15:50:58.579864"
+  },
+  "Potato@5-23-P997-2-a": {
+    "prompt": "What type of plant is described in the room?\n\nA. Cactus\nB. Small palm\nC. Fern\nD. Succulent",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:50:59.667828"
+  },
+  "Potato@5-23-P998-9-a": {
+    "prompt": "What is the characteristic of the plant's leaves?\n\nA. They are all the same shade of green\nB. They vary in color and texture\nC. They have a vertical growth pattern\nD. They are exclusively round in shape",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:00.857802"
+  },
+  "Potato@5-20-P002-2-a": {
+    "prompt": "What is the shape of the leaves on the plant described?\n\nA. Round with serrated edges\nB. Heart-shaped with wavy edges\nC. Elongated oval with smooth margins\nD. Square with jagged tips",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:02.015134"
+  },
+  "Potato@5-13-P098-1-a": {
+    "prompt": "What color variations can be observed in the leaves of the described plant?\n\nA. Only dark green leaves\nB. Red and purple leaves\nC. Light to dark green leaves with yellowish tinges\nD. Only light green leaves",
+    "response": "red",
+    "timestamp": "2025-10-13T15:51:03.116503"
+  },
+  "Potato@5-21-P142-1-a": {
+    "prompt": "What type of foliage is primarily present on the slender sapling described?\n\nA. Large fan-shaped leaves\nB. Round and smooth leaves\nC. Needle-like leaves\nD. Oval to lanceolate leaves",
+    "response": "red",
+    "timestamp": "2025-10-13T15:51:04.310720"
+  },
+  "Potato@5-19-P279-1-a": {
+    "prompt": "What is the arrangement of the leaves on the green plant stem described?\n\nA. Leaves are clustered at the base only\nB. Leaves are arranged in a circular pattern around the stem\nC. Leaves grow only at the top of the stem\nD. Leaves are arranged along the length of the stem",
+    "response": "4",
+    "timestamp": "2025-10-13T15:51:05.502397"
+  },
+  "Potato@5-14-P113-3-a": {
+    "prompt": "What is the color of the new growth at the tip of the plant?\n\nA. Dark green\nB. Medium green\nC. Brown-green\nD. Light lime",
+    "response": "grey",
+    "timestamp": "2025-10-13T15:51:06.633081"
+  },
+  "Potato@5-11-P281-2-a": {
+    "prompt": "What is the characteristic shape of the leaves on the described plant?  \n\nA. Circular\nB. Oval to elliptic\nC. Heart-shaped\nD. Triangular",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:07.723821"
+  },
+  "Potato@5-11-P285-2-a": {
+    "prompt": "What type of leaf arrangement is primarily observed in the plant described?\n\nA. Simple leaves without serration\nB. Alternating whorled leaves\nC. Pinnate leaves with small leaflets\nD. Needle-like leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:08.851795"
+  },
+  "Potato@5-20-P045-3-a": {
+    "prompt": "What is the shape of the leaves on the plant stem?\n\nA. Circular\nB. Heart-shaped\nC. Triangular\nD. Lanceolate to ovate",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:10.077286"
+  },
+  "Potato@5-23-P998-7-a": {
+    "prompt": "What color are the leaves of the plant mentioned in the description?\n\nA. Dark green\nB. Bright yellow\nC. Pale lime-green\nD. Deep blue",
+    "response": "red",
+    "timestamp": "2025-10-13T15:51:11.176791"
+  },
+  "Potato@5-13-P002-2-a": {
+    "prompt": "What shape are the leaves of the plant described?\n\nA. Circular\nB. Round and broad\nC. Heart-shaped\nD. Elongated and lanceolate",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:12.279996"
+  },
+  "Potato@5-20-P015-2-a": {
+    "prompt": "What is the shape of the leaves on the plant described?\n\nA. Oval to lanceolate with serrated margins\nB. Round with smooth edges\nC. Square with jagged edges\nD. Triangular with no visible veins",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:13.368742"
+  },
+  "Potato@5-11-P294-3-a": {
+    "prompt": "What type of leaves can be found on the green plant stem?\n\nA. Long, linear, red-tipped leaves\nB. Large, round, smooth leaves\nC. Small, oval, serrated leaves\nD. Thick, waxy, purple leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:14.510864"
+  },
+  "Potato@5-13-P068-3-a": {
+    "prompt": "What type of plant structure is described with a slender central stem and multiple lobed, serrated leaves?\n\nA. A flower bouquet\nB. A herbaceous plant branch\nC. A shrub branch\nD. A fern frond",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:15.603107"
+  },
+  "Potato@5-19-P281-1-a": {
+    "prompt": "What color is the new growth at the tip of the sapling?\n\nA. Dark green\nB. Lighter green\nC. Yellow\nD. Brown",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:16.700058"
+  },
+  "Potato@5-20-P149-3-a": {
+    "prompt": "What type of plant structure is described in the room?\n\nA. A flower with bright petals\nB. A fern-like plant with elongated leaves\nC. A bush with dense foliage\nD. A cactus with spines",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:17.897868"
+  },
+  "Potato@5-13-P043-2-a": {
+    "prompt": "What is the shape of the leaves described in the room?\n\nA. Broad oval-to-lanceolate\nB. Circular\nC. Needle-like\nD. Triangular",
+    "response": "rectangle",
+    "timestamp": "2025-10-13T15:51:19.008922"
+  },
+  "Rapeseed@29": {
+    "prompt": "What type of leaves does the plant in the pot have?\n\nA. Broad and serrated\nB. Thin and smooth\nC. Long and needle-like\nD. Round and waxy",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:20.145568"
+  },
+  "Rapeseed@115": {
+    "prompt": "What color is the pot that contains the plant?\n\nA. Green\nB. Yellow\nC. Red\nD. Blue",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:21.227245"
+  },
+  "Rapeseed@70": {
+    "prompt": "What type of container is the houseplant growing in?\n\nA. A dark, textured pot\nB. A ceramic vase\nC. A plastic cup\nD. A metal bucket",
+    "response": "yes",
+    "timestamp": "2025-10-13T15:51:22.393216"
+  },
+  "Rapeseed@33": {
+    "prompt": "What type of container is used for the plant in the description?\n\nA. Round, dark pot\nB. Square pot\nC. Wooden planter\nD. Ceramic vase",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:23.581151"
+  },
+  "Rapeseed@31": {
+    "prompt": "What shape is the pot that contains the potted green plant?\n\nA. Hexagonal\nB. Oval\nC. Square\nD. Rectangular",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:24.788016"
+  },
+  "Rapeseed@129": {
+    "prompt": "What shape does the stem of the plant create as it forks?\n\nA. Circle\nB. Square\nC. X\nD. Y",
+    "response": "rectangle",
+    "timestamp": "2025-10-13T15:51:25.906673"
+  },
+  "Rapeseed@20": {
+    "prompt": "What type of container is described in the text?\n\nA. A dark cylindrical metal container\nB. A rectangular container\nC. A glass bowl\nD. A woven basket",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:27.055361"
+  },
+  "Rapeseed@91": {
+    "prompt": "What color is the pot that the houseplant is in?\n\nA. Light green\nB. Dark blue\nC. White\nD. Red",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:28.263057"
+  },
+  "Rapeseed@24": {
+    "prompt": "What color is the cylindrical ceramic pot that holds the houseplant?\n\nA. Red\nB. Dark blue\nC. Light green\nD. Black",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:29.447303"
+  },
+  "Rapeseed@37": {
+    "prompt": "What distinctive feature does the potted plant showcase that contrasts with the pot it is in?\n\nA. A wooden stand underneath the pot\nB. Dark-colored flowers blooming\nC. A square-shaped pot\nD. Arching leaves over the rim of the pot",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:30.635961"
+  },
+  "Rapeseed@63": {
+    "prompt": "What color is the pot that the houseplant is in?\n\nA. Dark blue\nB. Brown\nC. Green\nD. White",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:31.793273"
+  },
+  "Rapeseed@11": {
+    "prompt": "What type of plant is described in the room?\n\nA. A large flowering shrub\nB. A small bonsai-like plant\nC. A fruit tree\nD. A tall cactus",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:32.875741"
+  },
+  "Rapeseed@135": {
+    "prompt": "What color is the pot holding the plant?\n\nA. Green\nB. Pink\nC. Dark Blue\nD. White",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:34.003638"
+  },
+  "Rapeseed@107": {
+    "prompt": "What type of plant is described in the room?\n\nA. A flowering shrub\nB. A small tree with a thick trunk\nC. A succulent with spiky leaves\nD. A potted green houseplant",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:35.090954"
+  },
+  "Rapeseed@116": {
+    "prompt": "What color is the pot of the plant described?\n\nA. Red\nB. Blue\nC. Green\nD. Yellow",
+    "response": "red",
+    "timestamp": "2025-10-13T15:51:36.294905"
+  },
+  "Rapeseed@169": {
+    "prompt": "What type of plant is described in the room?\n\nA. A tall cactus with spines\nB. A potted green leafy plant with a bushy canopy\nC. A flowering vine with colorful blossoms\nD. A small shrub with needle-like leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:37.422856"
+  },
+  "Rapeseed@58": {
+    "prompt": "What color is the ceramic pot holding the plant?\n\nA. Green\nB. Red\nC. Yellow\nD. Dark Blue",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:38.502292"
+  },
+  "Rapeseed@25": {
+    "prompt": "What type of leaves does the houseplant have?\n\nA. Small, round leaves\nB. Needle-like leaves\nC. Broad, lobed leaves and fern-like, pinnate fronds\nD. Long, thin leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:39.587010"
+  },
+  "Rapeseed@168": {
+    "prompt": "What color is the pot that holds the houseplant?\n\nA. Green\nB. Light brown\nC. Dark blue\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:40.720096"
+  },
+  "Rapeseed@83": {
+    "prompt": "What does the dark blue cylindrical plastic vessel resemble when viewed from a specific angle?\n\nA. A drinking cup with a lid and straw\nB. A cardboard box\nC. A wooden chair\nD. A metal toolbox",
+    "response": "black trash can",
+    "timestamp": "2025-10-13T15:51:42.154429"
+  },
+  "Rapeseed@127": {
+    "prompt": "What color is the pot that the potted plant is in?\n\nA. Dark blue\nB. Light blue\nC. Bright green\nD. Pale pink",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:43.335971"
+  },
+  "Rapeseed@79": {
+    "prompt": "What color is the cylindrical plant pot?\n\nA. Dark blue\nB. Light green\nC. Bright red\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:44.447181"
+  },
+  "Rapeseed@122": {
+    "prompt": "What is the shape of the plant pot described?\n\nA. Square\nB. Rectangular\nC. Triangular\nD. Cylindrical",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:45.586178"
+  },
+  "Rapeseed@8": {
+    "prompt": "What is the shape of the pot that contains the potted plant?\n\nA. Square and flat\nB. Wide and round\nC. Tall and cylindrical\nD. Short and rectangular",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:46.763211"
+  },
+  "Rapeseed@82": {
+    "prompt": "What color is the rim of the plant pot?\n\nA. Red\nB. Dark\nC. Light\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:47.883715"
+  },
+  "Rapeseed@95": {
+    "prompt": "What shape is the pot that contains the small green plant?\n\nA. Square\nB. Rectangular\nC. Triangular\nD. Cylindrical",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:49.002954"
+  },
+  "Rapeseed@61": {
+    "prompt": "What color is the pot that the plant is growing in?\n\nA. Dark Blue\nB. Red\nC. Green\nD. White",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:50.073074"
+  },
+  "Rapeseed@93": {
+    "prompt": "What color are the leaves of the potted plant?\n\nA. Bright green\nB. Dark green\nC. Yellow\nD. Brown",
+    "response": "red",
+    "timestamp": "2025-10-13T15:51:51.144718"
+  },
+  "Rapeseed@147": {
+    "prompt": "What color is the plant pot described?\n\nA. Dark blue\nB. Light blue\nC. Green\nD. Brown",
+    "response": "red",
+    "timestamp": "2025-10-13T15:51:52.213853"
+  },
+  "Rapeseed@128": {
+    "prompt": "What is the overall appearance of the plant described?\n\nA. It features large flowers and thick stems\nB. It has a tall trunk with broad leaves\nC. It has a compact canopy and slender stems\nD. It has a wide base with no visible leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:53.471436"
+  },
+  "Rapeseed@119": {
+    "prompt": "What color is the pot containing the small green plant?\n\nA. Blue\nB. Green\nC. Pink\nD. Yellow",
+    "response": "red",
+    "timestamp": "2025-10-13T15:51:54.586050"
+  },
+  "Rapeseed@112": {
+    "prompt": "What color are the leaves of the potted plant?\n\nA. Dark green\nB. Yellow\nC. Bright green\nD. Dark brown",
+    "response": "green",
+    "timestamp": "2025-10-13T15:51:55.734120"
+  },
+  "Rapeseed@21": {
+    "prompt": "What is the shape of the pot that the plant is in?\n\nA. Square and flat\nB. Short and rectangular\nC. Wide and oval\nD. Tall and cylindrical",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:56.812251"
+  },
+  "Rapeseed@109": {
+    "prompt": "What color is the pot that the potted plant is in?\n\nA. Brown\nB. Gray-blue\nC. White\nD. Black",
+    "response": "white",
+    "timestamp": "2025-10-13T15:51:57.918823"
+  },
+  "Rapeseed@142": {
+    "prompt": "What shape is the pot that the indoor potted plant is in?\n\nA. Square\nB. Shallow and round\nC. Tall and cylindrical\nD. Flat and rectangular",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:51:59.031700"
+  },
+  "Rapeseed@96": {
+    "prompt": "What color is the pot holding the houseplant?\n\nA. Red\nB. Dark Blue\nC. Green\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:00.063701"
+  },
+  "Rapeseed@161": {
+    "prompt": "What color is the pot that the plant is in?\n\nA. Dark blue with a light rim\nB. Bright red with a dark rim\nC. Light green with a heavy rim\nD. Black with a glossy finish",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:01.164349"
+  },
+  "Rapeseed@123": {
+    "prompt": "What color is the plant pot described in the room?\n\nA. Dark navy blue\nB. Light blue\nC. Green\nD. Brown",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:02.241724"
+  },
+  "Rapeseed@102": {
+    "prompt": "What is the color of the pot that the potted fern is in?\n\nA. Light blue\nB. Green\nC. Dark blue-gray\nD. Brown",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:03.271973"
+  },
+  "Rapeseed@13": {
+    "prompt": "What type of container is the potted plant sitting in? \n\nA. A plastic planter\nB. A glass vase\nC. A metal bucket\nD. A tall dark-blue ceramic pot",
+    "response": "yes",
+    "timestamp": "2025-10-13T15:52:04.340524"
+  },
+  "Rapeseed@92": {
+    "prompt": "What color is the finish of the pot that holds the potted plant?\n\nA. Red and white stripes\nB. Clear glass\nC. Solid black\nD. Blue-gray with a speckled finish",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:05.378835"
+  },
+  "Rapeseed@40": {
+    "prompt": "What color is the pot of the plant described?\n\nA. Gray\nB. Brown\nC. Black\nD. White",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:06.447252"
+  },
+  "Rapeseed@41": {
+    "prompt": "What type of container is used to hold the leafy green plant in the still-life?\n\nA. Tall light-gray cylindrical pot\nB. Mason jar\nC. Short tumbler\nD. Stone bust",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:07.579695"
+  },
+  "Rapeseed@113": {
+    "prompt": "What color is the plant pot described?\n\nA. Dark gray\nB. White\nC. Bright green\nD. Light gray",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:08.653345"
+  },
+  "Rapeseed@108": {
+    "prompt": "What color is the pot that holds the houseplant?\n\nA. Light Green\nB. Dark Blue\nC. Bright Red\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:09.683665"
+  },
+  "Rice@77": {
+    "prompt": "What shape do the leaves of the potted plant resemble? \n\nA. Chairs\nB. Vases\nC. Swords\nD. Cubes",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:10.749083"
+  },
+  "Rice@1": {
+    "prompt": "What color is the rim of the pot holding the ornamental plant?\n\nA. Dark blue\nB. Light-colored\nC. Green\nD. Brown",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:11.790144"
+  },
+  "Rice@62": {
+    "prompt": "What is the shape of the leaves of the potted plant?\n\nA. Round and broad\nB. Long and narrow\nC. Small and oval\nD. Flat and square",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:12.844327"
+  },
+  "Rice@3": {
+    "prompt": "What color are the tips of the leaves on the potted plant?\n\nA. Green\nB. Yellow\nC. Red\nD. Brown",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:13.920273"
+  },
+  "Rice@20": {
+    "prompt": "What color is the pot that the potted plant sits in?\n\nA. Red\nB. Yellow\nC. Green\nD. Blue",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:15.043088"
+  },
+  "Rice@74": {
+    "prompt": "What color is the pot that holds the potted plant?\n\nA. Green\nB. Black\nC. Tan\nD. Dark blue",
+    "response": "green",
+    "timestamp": "2025-10-13T15:52:16.124385"
+  },
+  "Rice@19": {
+    "prompt": "What color is the pot that the houseplant is sitting in?\n\nA. Dark green ceramic\nB. Bright red ceramic\nC. Light ceramic\nD. Dark blue ceramic",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:17.154466"
+  },
+  "Rice@26": {
+    "prompt": "What color is the pot that holds the potted plant?\n\nA. Blue\nB. Green\nC. Red\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:18.257370"
+  },
+  "Rice@13": {
+    "prompt": "What type of leaves does the potted plant have?\n\nA. Round and broad leaves\nB. Heart-shaped leaves\nC. Short and oval leaves\nD. Long, slender, arching leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:19.318987"
+  },
+  "Rice@7": {
+    "prompt": "What type of pot does the ornamental potted plant sit in?\n\nA. A square pot\nB. A dark cylindrical pot\nC. A shallow tray\nD. A textured pot",
+    "response": "round",
+    "timestamp": "2025-10-13T15:52:20.500587"
+  },
+  "Rice@46": {
+    "prompt": "What color is the pot in which the potted plant is planted?\n\nA. Black\nB. Green\nC. Brown\nD. Dark blue with a light rim",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:21.574692"
+  },
+  "Rice@52": {
+    "prompt": "What color is the pot containing the indoor potted plant?\n\nA. Light green\nB. White\nC. Brown\nD. Dark blue",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:22.677846"
+  },
+  "Rice@41": {
+    "prompt": "What color is the pot of the potted plant described?\n\nA. Red\nB. Green\nC. Dark-blue\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:23.804086"
+  },
+  "Rice@84": {
+    "prompt": "What is the shape of the pot in which the plant is planted?\n\nA. Square\nB. Rectangular\nC. Triangular\nD. Cylindrical",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:24.887067"
+  },
+  "Rice@6": {
+    "prompt": "What is the shape of the leaves on the houseplant described?\n\nA. Round\nB. Heart-shaped\nC. Lance-shaped\nD. Oval",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:26.034381"
+  },
+  "Rice@59": {
+    "prompt": "What shape is the pot that holds the green plant?\n\nA. Round\nB. Rectangular\nC. Square\nD. Oval",
+    "response": "round",
+    "timestamp": "2025-10-13T15:52:27.153866"
+  },
+  "Rice@4": {
+    "prompt": "What type of leaves does the potted plant have?\n\nA. Long and slender, sword-like leaves\nB. Round and broad leaves\nC. Oval-shaped leaves\nD. Sticky, hairy leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:28.282290"
+  },
+  "Rice@8": {
+    "prompt": "What color is the pot that the grass-like plant is in?\n\nA. Dark blue\nB. Bright red\nC. Dark green\nD. Light yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:29.423233"
+  },
+  "Rice@48": {
+    "prompt": "What shape is the pot that holds the potted plant?\n\nA. Rectangular\nB. Square\nC. Cylindrical\nD. Oval",
+    "response": "round",
+    "timestamp": "2025-10-13T15:52:30.531493"
+  },
+  "Rice@54": {
+    "prompt": "What type of pot is the plant sitting in?\n\nA. Red ceramic pot\nB. Yellow metal pot\nC. Green plastic pot\nD. Blue ceramic pot",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:31.621908"
+  },
+  "Rice@2": {
+    "prompt": "What type of leaves does the houseplant display?\n\nA. Round and broad leaves\nB. Tall and slender sword-shaped leaves\nC. Small and oval leaves\nD. Heart-shaped leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:32.744947"
+  },
+  "Rice@37": {
+    "prompt": "What color is the rim of the pot where the plant is situated?\n\nA. Dark blue\nB. Green\nC. Black\nD. Light",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:33.819305"
+  },
+  "Rice@45": {
+    "prompt": "What color is the pot that the plant is in?\n\nA. Green\nB. Brown\nC. Light blue\nD. Dark blue",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:34.947045"
+  },
+  "Rice@35": {
+    "prompt": "What shape does the potted plant's foliage create?\n\nA. A spear-like silhouette\nB. A flat surface\nC. A rounded canopy\nD. A bushy form",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:36.061383"
+  },
+  "Rice@18": {
+    "prompt": "What is the shape of the leaves on the houseplant mentioned in the description?\n\nA. Round and broad\nB. Short and spiky\nC. Long and arching\nD. Flat and wide",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:37.195087"
+  },
+  "Rice@72": {
+    "prompt": "What color is the ceramic pot that the potted plant is in?\n\nA. Dark blue\nB. Light beige\nC. Green\nD. Brown",
+    "response": "white",
+    "timestamp": "2025-10-13T15:52:38.348539"
+  },
+  "Tomato@8-22_20-28": {
+    "prompt": "What type of leaf arrangement is described?\n\nA. Simple leaves arranged in a spiral pattern\nB. Opposite leaves growing in pairs on the stem\nC. Whorled leaves encircling the stem\nD. Pinnate, compound leaves with numerous small leaflets",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:39.464498"
+  },
+  "Tomato@10-5_1-1": {
+    "prompt": "What is the appearance of the leaves on the plant described?\n\nA. Finely divided into numerous small leaflets\nB. Solid and broad leaves\nC. Thick and waxy leaves\nD. Entirely round leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:40.697984"
+  },
+  "Tomato@8-13_20-28": {
+    "prompt": "What is the overall appearance of the plant described? \n\nA. It displays a feathery, lace-like frond\nB. It features a dense, bushy appearance\nC. It has thick, solid stems with broad leaves\nD. It is characterized by large, flat leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:41.877535"
+  },
+  "Tomato@8-22_30-4": {
+    "prompt": "What feature of the plant's leaves makes them appear pinnate from some angles?\n\nA. Deeply lobed structure\nB. Numerous leaflets\nC. Serrated edges\nD. Woody brown stem",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:43.029675"
+  },
+  "Tomato@8-13_1-55": {
+    "prompt": "What type of plant described has slender woody stems?\n\nA. Cactus\nB. Orchid\nC. Palm\nD. Fern",
+    "response": "red stool",
+    "timestamp": "2025-10-13T15:52:44.201664"
+  },
+  "Tomato@8-22_10-3": {
+    "prompt": "What is the shape of the leaves on the tree branch described?\n\nA. Circular\nB. Broad and flat\nC. Feathery\nD. Needle-like",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:45.332712"
+  },
+  "Tomato@11-2_35-22": {
+    "prompt": "What is the shape of the plant as described?\n\nA. Upright and cylindrical\nB. Tall and thin\nC. Wide and flat\nD. Slightly drooping and bushy",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:46.451366"
+  },
+  "Tomato@8-31_10-3": {
+    "prompt": "What type of trunk does the small tree have?\n\nA. Green and flexible\nB. Thin and smooth\nC. Brown and woody\nD. Short and spiny",
+    "response": "brown",
+    "timestamp": "2025-10-13T15:52:47.675975"
+  },
+  "Tomato@10-5_30-52": {
+    "prompt": "What is the shape of the leaves on the plant described?\n\nA. Round and flat\nB. Pinnate and palmately lobed\nC. Triangular and sharp\nD. Narrow and straight",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:48.757750"
+  },
+  "Tomato@8-10_10-53": {
+    "prompt": "What type of leaves does the shrub have?\n\nA. Broad, palmately lobed leaves\nB. Needle-like leaves\nC. Thin, elongated leaves\nD. Small, oval leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:49.855999"
+  },
+  "Tomato@8-28_30-52": {
+    "prompt": "What type of plant features slender woody stems with deeply lobed, serrated leaves?\n\nA. A cactus\nB. A green leafy plant\nC. A succulent\nD. A flowering shrub",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:50.962321"
+  },
+  "Tomato@8-22_35-22": {
+    "prompt": "What is the characteristic shape of the canopy of the described tree or shrub?\n\nA. Short and bushy\nB. Dense and round\nC. Tall and narrow\nD. Spreading and lacy",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:52.052046"
+  },
+  "Tomato@9-3_2-1": {
+    "prompt": "What is the appearance of the leaves on the described branch?\n\nA. They are large and broad, giving a wide shape to the branch\nB. They are small and have a fern-like appearance\nC. They are needle-like and arranged in clusters\nD. They are thick and waxy, covering the branch completely",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:53.342716"
+  },
+  "Tomato@8-25_1-55": {
+    "prompt": "What characteristic of the tree allows it to appear feathery and multi-branching?\n\nA. The dense, bright green foliage\nB. The slender brown trunk\nC. The small evergreen nature\nD. The spreading branches",
+    "response": "red",
+    "timestamp": "2025-10-13T15:52:54.464748"
+  },
+  "Tomato@9-3_20-28": {
+    "prompt": "What is the arrangement of the branches of the plant described?\n\nA. The branches are straight and upright\nB. The branches are curled\nC. The branches are arching\nD. The branches are completely horizontal",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:52:55.747291"
+  },
+  "Tomato@8-28_10-53": {
+    "prompt": "What type of plant is described as having a thin brown trunk with multiple slender, branching stems and dense clusters of green leaves with serrated margins?\n\nA. A large oak tree\nB. A cacti\nC. A small tree or shrub\nD. A flowering vine",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:56.844740"
+  },
+  "Tomato@9-6_1-55": {
+    "prompt": "What is the shape and color of the trunk of the tree described?\n\nA. Gnarled and yellow\nB. Thick and green\nC. Short and black\nD. Slender and brown",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:57.953416"
+  },
+  "Tomato@9-3_10-3": {
+    "prompt": "What type of plant is described in the text?\n\nA. A tree with a broad canopy and twisting branches\nB. A vine with a creeping growth pattern\nC. A densely foliated shrub with a single stem\nD. A small flowering plant with delicate leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:52:59.037483"
+  },
+  "Tomato@8-31_20-28": {
+    "prompt": "What type of tree is described in the information?\n\nA. Coniferous tree\nB. Deciduous tree\nC. Evergreen tree\nD. Palm tree",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:00.188945"
+  },
+  "Tomato@8-25_30-52": {
+    "prompt": "What type of appearance do the leaflets of the green woody branch have?\n\nA. Grass-like appearance\nB. Flower-like appearance\nC. Cactus-like appearance\nD. Fern-like appearance",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:01.377719"
+  },
+  "Tomato@11-2_30-4": {
+    "prompt": "What color are the new growth tips of the climbing plant described?\n\nA. Dark green\nB. Lime green\nC. Yellow\nD. Red",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:02.617316"
+  },
+  "Tomato@9-14_10-3": {
+    "prompt": "What type of leaves does the tree have?\n\nA. Broad, flat leaves\nB. Thick, waxy leaves\nC. Needle-like leaves\nD. Finely divided, pinnate leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:03.776359"
+  },
+  "Tomato@11-2_1-1": {
+    "prompt": "What is the characteristic shape of the plant described?\n\nA. It has a wide, flat canopy like an umbrella\nB. It resembles a cactus with spines\nC. It has a central stem with arching fronds\nD. It is low and bushy without a defined shape",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:04.912200"
+  },
+  "Tomato@8-28_20-28": {
+    "prompt": "What is the primary characteristic of the foliage of the described shrub or tree?\n\nA. It is made up of large, broad leaves\nB. It features only a few thick, waxy leaves\nC. It has needle-like leaves\nD. It consists of multiple small pinnate leaflets",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:06.110986"
+  },
+  "Tomato@8-25_1-1": {
+    "prompt": "What type of leaves are described as being on the plant branch?\n\nA. Small, smooth leaves with pointed tips\nB. Broad, deeply lobed leaves with jagged edges\nC. Needle-like leaves with a waxy surface\nD. Heart-shaped leaves with a glossy finish",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:07.200846"
+  },
+  "Wheat@79": {
+    "prompt": "What is the texture of the leaves on the potted shrub described?\n\nA. Smooth texture\nB. Glossy texture\nC. Rough texture\nD. Pointillistic texture",
+    "response": "tan",
+    "timestamp": "2025-10-13T15:53:08.517978"
+  },
+  "Wheat@145": {
+    "prompt": "What type of plant is described in the room?\n\nA. Cactus\nB. Fern\nC. Palm tree\nD. Bamboo",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:09.646803"
+  },
+  "Wheat@91": {
+    "prompt": "What color are the leaves of the potted plant?\n\nA. Blue\nB. Yellow\nC. Red\nD. Dark to light green",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:10.876712"
+  },
+  "Wheat@116": {
+    "prompt": "What type of plant is described in the room?\n\nA. Cactus\nB. Bamboo\nC. Fern\nD. Orchid",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:12.195018"
+  },
+  "Wheat@6": {
+    "prompt": "What type of plant is described in the room?\n\nA. A cactus with thick, spiny arms\nB. A bamboo-like plant with slender green stalks\nC. A flowering shrub with large blossoms\nD. A tree with broad, flat leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:13.317676"
+  },
+  "Wheat@11": {
+    "prompt": "What type of plant is described in the room?\n\nA. A tall, bamboo-like plant\nB. A flowering shrub\nC. A small succulent\nD. An ornamental grass",
+    "response": "stool",
+    "timestamp": "2025-10-13T15:53:14.420329"
+  },
+  "Wheat@34": {
+    "prompt": "What type of container is the houseplant situated in?\n\nA. Round pot\nB. High cylindrical vase\nC. Square box\nD. Low rectangular planter",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:15.536644"
+  },
+  "Wheat@127": {
+    "prompt": "What is the arrangement of the bamboo stalks described in the room?\n\nA. They are scattered on the floor\nB. They are placed in a large vase\nC. They are hanging from the ceiling\nD. They are clustered in a simple container",
+    "response": "2",
+    "timestamp": "2025-10-13T15:53:16.793751"
+  },
+  "Wheat@39": {
+    "prompt": "What is the structure of the trunk of the plant described?\n\nA. It is thin and fragile\nB. It is sturdy and brown\nC. It is short and bushy\nD. It is straight and green",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:18.013051"
+  },
+  "Wheat@107": {
+    "prompt": "What type of plant is described?\n\nA. A bushy houseplant\nB. A flowering shrub\nC. A tree with thick bark\nD. A cacti species",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:19.090922"
+  },
+  "Wheat@122": {
+    "prompt": "What is the shape of the leaves of the potted plant described?\n\nA. Round and broad\nB. Oval and flat\nC. Short and wide\nD. Tall and slender",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:20.324988"
+  },
+  "Wheat@52": {
+    "prompt": "What characteristic does the green potted plant display along its tall, slender stems?  \n\nA. Thick, round leaves\nB. Wide, flat leaves\nC. Narrow, elongated leaves\nD. Short, spiky leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:21.454231"
+  },
+  "Wheat@96": {
+    "prompt": "What is the primary color of the trunk of the potted plant?\n\nA. Brown\nB. Green\nC. Yellow\nD. Red",
+    "response": "brown",
+    "timestamp": "2025-10-13T15:53:22.544634"
+  },
+  "Wheat@26": {
+    "prompt": "What is the position of the log in the described setting?\n\nA. It is lying horizontally\nB. It is leaning against a wall\nC. It is standing upright\nD. It is hanging from a branch",
+    "response": "on wall",
+    "timestamp": "2025-10-13T15:53:23.855331"
+  },
+  "Wheat@88": {
+    "prompt": "What type of plant is described in the room?\n\nA. A flowering plant with large petals\nB. A potted fern with slender leaves\nC. A tree with a thick trunk\nD. A cactus with spines",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:24.972217"
+  },
+  "Wheat@25": {
+    "prompt": "What color are the tiny leaves of the plant described?\n\nA. Red\nB. Brown\nC. Yellow\nD. Green",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:26.075911"
+  },
+  "Wheat@115": {
+    "prompt": "What color is the pot that holds the bamboo plant? \n\nA. Dark-colored\nB. Blue\nC. Red\nD. Light-colored",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:27.154842"
+  },
+  "Wheat@28": {
+    "prompt": "What shape is the planter that holds the bamboo-like plant?\n\nA. Square\nB. Rectangular\nC. Circular\nD. Oval",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:28.259994"
+  },
+  "Wheat@78": {
+    "prompt": "What shape does the small potted plant resemble?\n\nA. A wide, flat ground cover\nB. A tall, straight tree\nC. A round, compact ball\nD. A bushy, palm-like silhouette",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:29.380211"
+  },
+  "Wheat@126": {
+    "prompt": "What type of plant is described in the room?\n\nA. Cactus\nB. Fern\nC. Bamboo\nD. Orchid",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:30.461740"
+  },
+  "Wheat@125": {
+    "prompt": "What type of plant is described in the room?\n\nA. Cactus with wide, flat leaves\nB. Green plant with bamboo-like stems\nC. Potted flower with colorful blooms\nD. Succulent with thick, fleshy leaves",
+    "response": "rectangular white",
+    "timestamp": "2025-10-13T15:53:31.574909"
+  },
+  "Wheat@60": {
+    "prompt": "What color are the stripes on the decorative pot of the plant?\n\nA. Green and yellow\nB. Brown and beige\nC. Blue and white\nD. Black and red",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:32.703116"
+  },
+  "Wheat@131": {
+    "prompt": "What color is the pot that holds the plant?\n\nA. Blue\nB. Green\nC. Brown\nD. Yellow",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:33.827819"
+  },
+  "Wheat@72": {
+    "prompt": "What is the primary color of the bamboo plant described?\n\nA. Blue\nB. Green\nC. Yellow\nD. Red",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:34.958188"
+  },
+  "Wheat@149": {
+    "prompt": "What color are the leaves of the plant described?\n\nA. Blue\nB. Yellow\nC. Green\nD. Red",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:36.058600"
+  },
+  "Wheat@119": {
+    "prompt": "What type of plant is described in the room?\n\nA. A cactus\nB. A succulent\nC. A small potted fern\nD. A small potted tree",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:37.189739"
+  },
+  "Wheat@21": {
+    "prompt": "What color are the leaves of the plant described?\n\nA. Light green\nB. Red\nC. Yellow\nD. Dark olive-green",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:38.360199"
+  },
+  "Wheat@84": {
+    "prompt": "What type of silhouette does the potted plant create?\n\nA. A flat, two-dimensional shape\nB. A triangular formation\nC. A cylindrical shape\nD. A bushy, tree-like silhouette",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:39.593241"
+  },
+  "Wheat@4": {
+    "prompt": "What is the shape of the leaves on the potted plant?\n\nA. Dense and feathery, narrow\nB. Round and broad\nC. Flat and wide\nD. Sharp and needle-like",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:40.725458"
+  },
+  "Wheat@109": {
+    "prompt": "What is the color of the leaves of the potted bamboo-like plant described?\n\nA. Light green\nB. Brown\nC. Yellow\nD. Dark green",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:41.807271"
+  },
+  "Wheat@89": {
+    "prompt": "What feature distinguishes the leaves of the indoor potted plant described?\n\nA. The leaves are wide and flat\nB. The leaves arch along the nodes\nC. The leaves are round and thick\nD. The leaves are short and stubby",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:43.001036"
+  },
+  "Wheat@14": {
+    "prompt": "What type of plant is described as having slender, upright stalks with long, narrow leaves? \n\nA. Cactus\nB. Fern\nC. Palm tree\nD. Bamboo-like plant",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:44.137221"
+  },
+  "Wheat@73": {
+    "prompt": "What is the primary color of the grass blades described?\n\nA. Light purple\nB. Bright yellow\nC. Deep blue\nD. Dark green",
+    "response": "red",
+    "timestamp": "2025-10-13T15:53:45.347281"
+  },
+  "Wheat@123": {
+    "prompt": "What type of plant is described in the room?\n\nA. A flowering plant\nB. A succulent\nC. A fern\nD. A cactus",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:46.536749"
+  },
+  "Wheat@102": {
+    "prompt": "What type of containers is the green bamboo-like plant potted in?\n\nA. A blue ceramic pot\nB. A plastic container\nC. A transparent glass vase\nD. A metal bucket",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:47.731991"
+  },
+  "Wheat@80": {
+    "prompt": "What type of container is the bushy green shrub rooted in?\n\nA. A ceramic vase\nB. A wooden box\nC. A brown pot\nD. A glass jar",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:48.850937"
+  },
+  "Wheat@87": {
+    "prompt": "What type of container is the plant in?\n\nA. Plastic pot\nB. Ceramic pot\nC. Metal pot\nD. Brown pot",
+    "response": "yes",
+    "timestamp": "2025-10-13T15:53:49.928940"
+  },
+  "Wheat@98": {
+    "prompt": "What shape does the green potted plant resemble due to its fronds?\n\nA. A pyramid shape with a wide base and narrow top\nB. A flat, spread-out shape similar to a pancake\nC. A cylindrical shape with no branching\nD. A bushy, tropical look typical of a palm tree",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:51.069324"
+  },
+  "Wheat@137": {
+    "prompt": "What is the color of the trunk of the potted plant described?\n\nA. Brown\nB. Green\nC. Yellow\nD. Black",
+    "response": "brown",
+    "timestamp": "2025-10-13T15:53:52.265060"
+  },
+  "Wheat@113": {
+    "prompt": "What shape are the leaves of the bamboo plant described?\n\nA. Round and broad\nB. Short and pointed\nC. Oval and flat\nD. Long and narrow",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:53.398664"
+  },
+  "Wheat@108": {
+    "prompt": "What feature describes the plant's structure?\n\nA. A long, single stem with wide, flat leaves\nB. A tall, thin base with round leaves\nC. Numerous long, narrow leaves radiating upward\nD. A compact root system with no visible leaves",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:54.595879"
+  },
+  "Wheat@7": {
+    "prompt": "What shape is the planter that the green plant is growing from?\n\nA. Round\nB. Square\nC. Rectangular\nD. Oval",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:55.797933"
+  },
+  "Wheat@42": {
+    "prompt": "What type of pot is the green potted plant housed in?\n\nA. Brown pot\nB. Blue pot\nC. Black pot\nD. White pot",
+    "response": "white",
+    "timestamp": "2025-10-13T15:53:56.878277"
+  },
+  "Wheat@92": {
+    "prompt": "What type of plant is described in the room? \n\nA. Fern\nB. Bamboo\nC. Cactus\nD. Palm",
+    "response": "rectangular",
+    "timestamp": "2025-10-13T15:53:58.047973"
+  },
+  "Wheat@15": {
+    "prompt": "What type of container is the plant situated in?\n\nA. A ceramic pot\nB. A wooden barrel\nC. A weathered metal trough\nD. A glass vase",
+    "response": "yes",
+    "timestamp": "2025-10-13T15:53:59.143838"
+  }
+}

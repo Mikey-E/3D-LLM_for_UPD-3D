@@ -1,0 +1,69 @@
+==========================================
+Crops3D Inference - FINETUNED Model
+==========================================
+Job ID: 46447377
+Node: mbl40s-002
+Start time: Thu Oct 23 22:17:36 MDT 2025
+
+Python: /project/3dllms/melgin/conda/envs/lavis/bin/python
+Conda env: lavis
+
+NVIDIA L40S, 46068 MiB, 45469 MiB
+
+Checkpoint: /project/3dllms/melgin/3D-LLM_for_UPD-3D/3DLLM_BLIP2-base/lavis/output/BLIP2/3DQA_Crops3D/20251016101/checkpoint_7.pth
+
+==========================================
+Starting Crops3D inference...
+==========================================
+======================================================================
+CROPS3D INFERENCE
+======================================================================
+Device: cuda
+Checkpoint: /project/3dllms/melgin/3D-LLM_for_UPD-3D/3DLLM_BLIP2-base/lavis/output/BLIP2/3DQA_Crops3D/20251016101/checkpoint_7.pth
+Processed dir: /cluster/medbow/project/3dllms/melgin/datasets/CEA/Crops3D_processed
+Questions base: /cluster/medbow/project/3dllms/melgin/UPD-3D/upd_text/Crops3D_gpt-5-nano
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/crops3d_inference
+
+Loading point cloud list...
+  Total point clouds: 357
+  Processing range: 0 to 357
+  Processing count: 357
+  Questions per cloud: 12
+  Total inferences: 4284
+
+Loading 3D-LLM model...
+  Loading checkpoint: /project/3dllms/melgin/3D-LLM_for_UPD-3D/3DLLM_BLIP2-base/lavis/output/BLIP2/3DQA_Crops3D/20251016101/checkpoint_7.pth
+  ✓ Model loaded successfully
+
+======================================================================
+RUNNING INFERENCE
+======================================================================
+
+======================================================================
+SAVING RESULTS
+======================================================================
+  aad_base: 357 results -> inf_rslts_3dllm_Crops3D_test_aad_base_0_357_20251023_222820.json
+  aad_additional_instruction: 357 results -> inf_rslts_3dllm_Crops3D_test_aad_additional_instruction_0_357_20251023_222820.json
+  aad_additional_option: 357 results -> inf_rslts_3dllm_Crops3D_test_aad_additional_option_0_357_20251023_222820.json
+  iasd_base: 357 results -> inf_rslts_3dllm_Crops3D_test_iasd_base_0_357_20251023_222820.json
+  iasd_additional_instruction: 357 results -> inf_rslts_3dllm_Crops3D_test_iasd_additional_instruction_0_357_20251023_222820.json
+  iasd_additional_option: 357 results -> inf_rslts_3dllm_Crops3D_test_iasd_additional_option_0_357_20251023_222820.json
+  ivqd_base: 357 results -> inf_rslts_3dllm_Crops3D_test_ivqd_base_0_357_20251023_222820.json
+  ivqd_additional_instruction: 357 results -> inf_rslts_3dllm_Crops3D_test_ivqd_additional_instruction_0_357_20251023_222820.json
+  ivqd_additional_option: 357 results -> inf_rslts_3dllm_Crops3D_test_ivqd_additional_option_0_357_20251023_222820.json
+  open_ended: 357 results -> inf_rslts_3dllm_Crops3D_test_open_ended_0_357_20251023_222820.json
+  open_ended_additional_instruction: 357 results -> inf_rslts_3dllm_Crops3D_test_open_ended_additional_instruction_0_357_20251023_222820.json
+  standard: 357 results -> inf_rslts_3dllm_Crops3D_test_standard_0_357_20251023_222820.json
+
+======================================================================
+SUMMARY
+======================================================================
+Successful: 4284
+Failed:     0
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/crops3d_inference
+
+==========================================
+✓ Inference completed successfully!
+Results saved to: results/crops3d_inference/
+End time: Thu Oct 23 22:28:21 MDT 2025
+==========================================

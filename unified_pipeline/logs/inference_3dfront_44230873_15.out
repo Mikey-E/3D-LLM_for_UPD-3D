@@ -1,0 +1,152 @@
+==========================================
+3D-FRONT Inference - Array Job 15
+==========================================
+Job ID: 44230889
+Array Task ID: 15
+Node: mbl40s-007
+Start time: Wed Oct  8 17:03:30 MDT 2025
+
+Python: /project/3dllms/melgin/conda/envs/lavis/bin/python
+Conda env: lavis
+
+NVIDIA L40S, 46068 MiB, 45469 MiB
+
+Processing point clouds 1485 to 1583
+Estimated count: 99
+Estimated questions: 99 x 12 = 1188
+
+======================================================================
+3D-FRONT INFERENCE
+======================================================================
+Device: cuda
+Checkpoint: /cluster/medbow/project/3dllms/melgin/3D-LLM_for_UPD-3D/3DLLM_BLIP2-base/pretrained_models/3D-LLM_BLIP2-FlanT5-XL_v2.pth
+Processed dir: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed
+Questions base: /cluster/medbow/project/3dllms/melgin/UPD-3D/upd_text/3D-FRONT
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/3dfront_inference
+
+Loading point cloud list...
+  Total point clouds: 2993
+  Processing range: 1485 to 1584
+  Processing count: 99
+  Questions per cloud: 12
+  Total inferences: 1188
+
+Loading 3D-LLM model...
+  ✓ Model loaded
+
+======================================================================
+RUNNING INFERENCE
+======================================================================
+  Error processing e0fc368c-92e3-4f80-8d14-c6806f6216f6@LivingDiningRoom-17615: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e0fc368c-92e3-4f80-8d14-c6806f6216f6@LivingDiningRoom-17615.pt
+  Error processing e0fc368c-92e3-4f80-8d14-c6806f6216f6@MasterBedroom-17694: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e0fc368c-92e3-4f80-8d14-c6806f6216f6@MasterBedroom-17694.pt
+  Error processing e100404c-cef5-4a29-9ac2-ad44db9fff7a@Bedroom-40071: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e100404c-cef5-4a29-9ac2-ad44db9fff7a@Bedroom-40071.pt
+  Error processing e10693e4-7276-4e98-b786-05f82ccb701d@LivingDiningRoom-5387: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e10693e4-7276-4e98-b786-05f82ccb701d@LivingDiningRoom-5387.pt
+  Error processing e10693e4-7276-4e98-b786-05f82ccb701d@SecondBedroom-5466: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e10693e4-7276-4e98-b786-05f82ccb701d@SecondBedroom-5466.pt
+  Error processing e1119a13-1dcf-46c1-88e5-d028b528b634@LivingDiningRoom-11895: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1119a13-1dcf-46c1-88e5-d028b528b634@LivingDiningRoom-11895.pt
+  Error processing e1119a13-1dcf-46c1-88e5-d028b528b634@MasterBedroom-11772: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1119a13-1dcf-46c1-88e5-d028b528b634@MasterBedroom-11772.pt
+  Error processing e1119a13-1dcf-46c1-88e5-d028b528b634@SecondBedroom-8514: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1119a13-1dcf-46c1-88e5-d028b528b634@SecondBedroom-8514.pt
+  Error processing e1119a13-1dcf-46c1-88e5-d028b528b634@SecondBedroom-8897: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1119a13-1dcf-46c1-88e5-d028b528b634@SecondBedroom-8897.pt
+  Error processing e111dcdb-094b-4adb-bcce-1db491755d7b@BedRoom-526: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e111dcdb-094b-4adb-bcce-1db491755d7b@BedRoom-526.pt
+  Error processing e111dcdb-094b-4adb-bcce-1db491755d7b@DiningRoom-69757: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e111dcdb-094b-4adb-bcce-1db491755d7b@DiningRoom-69757.pt
+  Error processing e111dcdb-094b-4adb-bcce-1db491755d7b@LivingRoom-146449: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e111dcdb-094b-4adb-bcce-1db491755d7b@LivingRoom-146449.pt
+  Error processing e120bc58-b9de-4d01-8d3c-3ef645ff025f@LivingDiningRoom-4130: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e120bc58-b9de-4d01-8d3c-3ef645ff025f@LivingDiningRoom-4130.pt
+  Error processing e120bc58-b9de-4d01-8d3c-3ef645ff025f@MasterBedroom-3995: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e120bc58-b9de-4d01-8d3c-3ef645ff025f@MasterBedroom-3995.pt
+  Error processing e12b9c22-ecdd-42f7-a94b-9bd89c018ad9@LivingDiningRoom-74331: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e12b9c22-ecdd-42f7-a94b-9bd89c018ad9@LivingDiningRoom-74331.pt
+  Error processing e12b9c22-ecdd-42f7-a94b-9bd89c018ad9@MasterBedroom-74489: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e12b9c22-ecdd-42f7-a94b-9bd89c018ad9@MasterBedroom-74489.pt
+  Error processing e14943b2-1532-4d06-8b38-9d2efb5e930c@MasterBedroom-305393: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e14943b2-1532-4d06-8b38-9d2efb5e930c@MasterBedroom-305393.pt
+  Error processing d9b1b2e5-92d5-48f2-a19e-3316fb121aec@CloakRoom-37080: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/d9b1b2e5-92d5-48f2-a19e-3316fb121aec@CloakRoom-37080.pt
+  Error processing e15876ea-c9a8-4081-a0a7-6917f6c8ab69@DiningRoom-20122: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e15876ea-c9a8-4081-a0a7-6917f6c8ab69@DiningRoom-20122.pt
+  Error processing e15876ea-c9a8-4081-a0a7-6917f6c8ab69@Library-24701: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e15876ea-c9a8-4081-a0a7-6917f6c8ab69@Library-24701.pt
+  Error processing e15876ea-c9a8-4081-a0a7-6917f6c8ab69@MasterBedroom-70447: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e15876ea-c9a8-4081-a0a7-6917f6c8ab69@MasterBedroom-70447.pt
+  Error processing e15876ea-c9a8-4081-a0a7-6917f6c8ab69@OtherRoom-37861: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e15876ea-c9a8-4081-a0a7-6917f6c8ab69@OtherRoom-37861.pt
+  Error processing e15e9791-e99e-4f81-b838-692ecd556e81@Bedroom-303113: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e15e9791-e99e-4f81-b838-692ecd556e81@Bedroom-303113.pt
+  Error processing e15e9791-e99e-4f81-b838-692ecd556e81@Bedroom-303723: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e15e9791-e99e-4f81-b838-692ecd556e81@Bedroom-303723.pt
+  Error processing e15e9791-e99e-4f81-b838-692ecd556e81@LivingRoom-304292: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e15e9791-e99e-4f81-b838-692ecd556e81@LivingRoom-304292.pt
+  Error processing e1636367-2022-4fca-9c81-de2b30baf814@LivingRoom-5831: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1636367-2022-4fca-9c81-de2b30baf814@LivingRoom-5831.pt
+  Error processing e16c4c32-c989-4e79-bb03-627edc763e44@LivingDiningRoom-49033: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e16c4c32-c989-4e79-bb03-627edc763e44@LivingDiningRoom-49033.pt
+  Error processing e16c4c32-c989-4e79-bb03-627edc763e44@MasterBedroom-10068: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e16c4c32-c989-4e79-bb03-627edc763e44@MasterBedroom-10068.pt
+  Error processing e16c4c32-c989-4e79-bb03-627edc763e44@SecondBedroom-38398: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e16c4c32-c989-4e79-bb03-627edc763e44@SecondBedroom-38398.pt
+  Error processing e16e222e-f9b3-41eb-983f-b6173f84c35a@Bedroom-2005: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e16e222e-f9b3-41eb-983f-b6173f84c35a@Bedroom-2005.pt
+  Error processing e16e222e-f9b3-41eb-983f-b6173f84c35a@LivingDiningRoom-1255: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e16e222e-f9b3-41eb-983f-b6173f84c35a@LivingDiningRoom-1255.pt
+  Error processing e16e222e-f9b3-41eb-983f-b6173f84c35a@MasterBedroom-3805: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e16e222e-f9b3-41eb-983f-b6173f84c35a@MasterBedroom-3805.pt
+  Error processing e172a11a-28f8-4474-a7f3-4d28c198cf35@BedRoom-63651: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e172a11a-28f8-4474-a7f3-4d28c198cf35@BedRoom-63651.pt
+  Error processing e172a11a-28f8-4474-a7f3-4d28c198cf35@Library-42991: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e172a11a-28f8-4474-a7f3-4d28c198cf35@Library-42991.pt
+  Error processing e172a11a-28f8-4474-a7f3-4d28c198cf35@LivingRoom-5831: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e172a11a-28f8-4474-a7f3-4d28c198cf35@LivingRoom-5831.pt
+  Error processing e17688ea-b908-4ea5-9133-2137c282e8b1@LivingDiningRoom-515: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e17688ea-b908-4ea5-9133-2137c282e8b1@LivingDiningRoom-515.pt
+  Error processing e17688ea-b908-4ea5-9133-2137c282e8b1@MasterBedroom-30521: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e17688ea-b908-4ea5-9133-2137c282e8b1@MasterBedroom-30521.pt
+  Error processing e19d78e4-6fbf-4e68-9ad9-e12d1edfabf4@LivingDiningRoom-3981: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e19d78e4-6fbf-4e68-9ad9-e12d1edfabf4@LivingDiningRoom-3981.pt
+  Error processing e19d78e4-6fbf-4e68-9ad9-e12d1edfabf4@MasterBedroom-232442: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e19d78e4-6fbf-4e68-9ad9-e12d1edfabf4@MasterBedroom-232442.pt
+  Error processing e1a47007-0e07-4b9c-b7c1-f288eff46f37@Bedroom-1164: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1a47007-0e07-4b9c-b7c1-f288eff46f37@Bedroom-1164.pt
+  Error processing e1a47007-0e07-4b9c-b7c1-f288eff46f37@Library-2111: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1a47007-0e07-4b9c-b7c1-f288eff46f37@Library-2111.pt
+  Error processing e1a47007-0e07-4b9c-b7c1-f288eff46f37@LivingRoom-1809: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1a47007-0e07-4b9c-b7c1-f288eff46f37@LivingRoom-1809.pt
+  Error processing e1a47007-0e07-4b9c-b7c1-f288eff46f37@MasterBedroom-861: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1a47007-0e07-4b9c-b7c1-f288eff46f37@MasterBedroom-861.pt
+  Error processing 1faf3c99-1efe-4d6f-8e1d-296bc17cbff9@StorageRoom-410: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/1faf3c99-1efe-4d6f-8e1d-296bc17cbff9@StorageRoom-410.pt
+  Error processing e1a4a544-4918-42d9-b659-c332e05335fa@Bedroom-33792: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1a4a544-4918-42d9-b659-c332e05335fa@Bedroom-33792.pt
+  Error processing e1a4a544-4918-42d9-b659-c332e05335fa@LivingRoom-33448: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1a4a544-4918-42d9-b659-c332e05335fa@LivingRoom-33448.pt
+  Error processing e1ade7a0-9d88-4394-b0ca-7ac957e7facb@Bedroom-3130: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1ade7a0-9d88-4394-b0ca-7ac957e7facb@Bedroom-3130.pt
+  Error processing e1ade7a0-9d88-4394-b0ca-7ac957e7facb@Library-2611: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1ade7a0-9d88-4394-b0ca-7ac957e7facb@Library-2611.pt
+  Error processing e1ade7a0-9d88-4394-b0ca-7ac957e7facb@LivingDiningRoom-4587: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1ade7a0-9d88-4394-b0ca-7ac957e7facb@LivingDiningRoom-4587.pt
+  Error processing e1b50a25-5422-4307-8b9c-24ad0bb8d8bc@LivingDiningRoom-25562: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1b50a25-5422-4307-8b9c-24ad0bb8d8bc@LivingDiningRoom-25562.pt
+  Error processing e1b50a25-5422-4307-8b9c-24ad0bb8d8bc@MasterBedroom-24635: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1b50a25-5422-4307-8b9c-24ad0bb8d8bc@MasterBedroom-24635.pt
+  Error processing 03cd0e8a-1d94-4228-9d66-e01101830526@SecondBedroom-11377: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/03cd0e8a-1d94-4228-9d66-e01101830526@SecondBedroom-11377.pt
+  Error processing e1beeab5-1299-4241-95ed-2843243e9a2b@ElderlyRoom-3259: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1beeab5-1299-4241-95ed-2843243e9a2b@ElderlyRoom-3259.pt
+  Error processing e1beeab5-1299-4241-95ed-2843243e9a2b@KidsRoom-335: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1beeab5-1299-4241-95ed-2843243e9a2b@KidsRoom-335.pt
+  Error processing e1beeab5-1299-4241-95ed-2843243e9a2b@MasterBedroom-1199: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1beeab5-1299-4241-95ed-2843243e9a2b@MasterBedroom-1199.pt
+  Error processing e1c6b002-7d08-437d-8981-9642be46f5c0@LivingDiningRoom-6151: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1c6b002-7d08-437d-8981-9642be46f5c0@LivingDiningRoom-6151.pt
+  Error processing e1c6b002-7d08-437d-8981-9642be46f5c0@MasterBedroom-6296: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1c6b002-7d08-437d-8981-9642be46f5c0@MasterBedroom-6296.pt
+  Error processing e1c6b002-7d08-437d-8981-9642be46f5c0@SecondBedroom-6249: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1c6b002-7d08-437d-8981-9642be46f5c0@SecondBedroom-6249.pt
+  Error processing e1c89bbb-0337-46b7-ac45-21e17ae29d91@LivingDiningRoom-34906: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1c89bbb-0337-46b7-ac45-21e17ae29d91@LivingDiningRoom-34906.pt
+  Error processing e1c89bbb-0337-46b7-ac45-21e17ae29d91@MasterBedroom-33650: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1c89bbb-0337-46b7-ac45-21e17ae29d91@MasterBedroom-33650.pt
+  Error processing e1c89bbb-0337-46b7-ac45-21e17ae29d91@SecondBedroom-34464: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1c89bbb-0337-46b7-ac45-21e17ae29d91@SecondBedroom-34464.pt
+  Error processing e1d1eb29-7078-4ab7-9428-6ced49369bf9@Bedroom-1070: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1d1eb29-7078-4ab7-9428-6ced49369bf9@Bedroom-1070.pt
+  Error processing e1d1eb29-7078-4ab7-9428-6ced49369bf9@Bedroom-1469: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1d1eb29-7078-4ab7-9428-6ced49369bf9@Bedroom-1469.pt
+  Error processing e1d1eb29-7078-4ab7-9428-6ced49369bf9@LivingDiningRoom-1482: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1d1eb29-7078-4ab7-9428-6ced49369bf9@LivingDiningRoom-1482.pt
+  Error processing d65507af-393d-47c1-9cc5-aa68c6d2365d@DiningRoom-2240: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/d65507af-393d-47c1-9cc5-aa68c6d2365d@DiningRoom-2240.pt
+  Error processing e1d87fdc-c05f-4cca-8b11-c7d002fbc36b@LivingRoom-28092: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1d87fdc-c05f-4cca-8b11-c7d002fbc36b@LivingRoom-28092.pt
+  Error processing e1d87fdc-c05f-4cca-8b11-c7d002fbc36b@MasterBedroom-28111: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1d87fdc-c05f-4cca-8b11-c7d002fbc36b@MasterBedroom-28111.pt
+  Error processing e1db6b8d-a61e-42fa-afd7-5e55bcf305c4@DiningRoom-1379: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1db6b8d-a61e-42fa-afd7-5e55bcf305c4@DiningRoom-1379.pt
+  Error processing e1db6b8d-a61e-42fa-afd7-5e55bcf305c4@KidsRoom-101528: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1db6b8d-a61e-42fa-afd7-5e55bcf305c4@KidsRoom-101528.pt
+  Error processing e1db6b8d-a61e-42fa-afd7-5e55bcf305c4@LivingRoom-213550: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1db6b8d-a61e-42fa-afd7-5e55bcf305c4@LivingRoom-213550.pt
+  Error processing e1db6b8d-a61e-42fa-afd7-5e55bcf305c4@MasterBedroom-14865: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1db6b8d-a61e-42fa-afd7-5e55bcf305c4@MasterBedroom-14865.pt
+  Error processing e1b50a25-5422-4307-8b9c-24ad0bb8d8bc@SecondBedroom-24878: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e1b50a25-5422-4307-8b9c-24ad0bb8d8bc@SecondBedroom-24878.pt
+  Error processing e204b7e3-c59c-4368-a61a-d8035e7ea06c@Bedroom-9661: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e204b7e3-c59c-4368-a61a-d8035e7ea06c@Bedroom-9661.pt
+  Error processing e204b7e3-c59c-4368-a61a-d8035e7ea06c@KidsRoom-6754: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e204b7e3-c59c-4368-a61a-d8035e7ea06c@KidsRoom-6754.pt
+  Error processing e204b7e3-c59c-4368-a61a-d8035e7ea06c@LivingDiningRoom-9241: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e204b7e3-c59c-4368-a61a-d8035e7ea06c@LivingDiningRoom-9241.pt
+  Error processing e20789bf-a507-404d-8a44-0eb2e1bf8410@LivingRoom-33726: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e20789bf-a507-404d-8a44-0eb2e1bf8410@LivingRoom-33726.pt
+  Error processing e2104869-2823-4736-9e92-bc25fd7c9502@LivingRoom-39485: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2104869-2823-4736-9e92-bc25fd7c9502@LivingRoom-39485.pt
+  Error processing e2104869-2823-4736-9e92-bc25fd7c9502@MasterBedroom-38443: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2104869-2823-4736-9e92-bc25fd7c9502@MasterBedroom-38443.pt
+  Error processing e2232752-01e2-4276-8abe-4314243d9b13@LivingDiningRoom-1573: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2232752-01e2-4276-8abe-4314243d9b13@LivingDiningRoom-1573.pt
+  Error processing e2232752-01e2-4276-8abe-4314243d9b13@MasterBedroom-3822: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2232752-01e2-4276-8abe-4314243d9b13@MasterBedroom-3822.pt
+  Error processing e2232752-01e2-4276-8abe-4314243d9b13@SecondBedroom-8154: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2232752-01e2-4276-8abe-4314243d9b13@SecondBedroom-8154.pt
+  Error processing e22c70fa-8427-4337-bf22-23496bd5a0a4@LivingDiningRoom-12442: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e22c70fa-8427-4337-bf22-23496bd5a0a4@LivingDiningRoom-12442.pt
+  Error processing e22c70fa-8427-4337-bf22-23496bd5a0a4@MasterBedroom-11557: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e22c70fa-8427-4337-bf22-23496bd5a0a4@MasterBedroom-11557.pt
+  Error processing e22c70fa-8427-4337-bf22-23496bd5a0a4@SecondBedroom-11456: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e22c70fa-8427-4337-bf22-23496bd5a0a4@SecondBedroom-11456.pt
+  Error processing e249a0e2-e0ef-4af4-81ab-945e6973e53f@LivingDiningRoom-1991: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e249a0e2-e0ef-4af4-81ab-945e6973e53f@LivingDiningRoom-1991.pt
+  Error processing e264eaef-b6d4-49b0-8876-9a64a629b8c6@Bedroom-113166: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e264eaef-b6d4-49b0-8876-9a64a629b8c6@Bedroom-113166.pt
+  Error processing e27ef0ee-1cd3-41b5-8472-b4000520fa37@Bedroom-518: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e27ef0ee-1cd3-41b5-8472-b4000520fa37@Bedroom-518.pt
+  Error processing e2959e3e-5835-49a7-b26e-1e7ed7c136b3@Bedroom-9816: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2959e3e-5835-49a7-b26e-1e7ed7c136b3@Bedroom-9816.pt
+  Error processing e2959e3e-5835-49a7-b26e-1e7ed7c136b3@Bedroom-9835: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2959e3e-5835-49a7-b26e-1e7ed7c136b3@Bedroom-9835.pt
+  Error processing e2959e3e-5835-49a7-b26e-1e7ed7c136b3@DiningRoom-9791: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2959e3e-5835-49a7-b26e-1e7ed7c136b3@DiningRoom-9791.pt
+  Error processing e2bae01c-2956-4025-8b86-7a8592b9e831@LivingRoom-4321: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2bae01c-2956-4025-8b86-7a8592b9e831@LivingRoom-4321.pt
+  Error processing e2bae01c-2956-4025-8b86-7a8592b9e831@MasterBedroom-29555: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2bae01c-2956-4025-8b86-7a8592b9e831@MasterBedroom-29555.pt
+  Error processing e2bae01c-2956-4025-8b86-7a8592b9e831@SecondBedroom-6082: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2bae01c-2956-4025-8b86-7a8592b9e831@SecondBedroom-6082.pt
+  Error processing e2c21ee1-02d6-400e-86ec-cd4c39505f68@LivingDiningRoom-1917: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2c21ee1-02d6-400e-86ec-cd4c39505f68@LivingDiningRoom-1917.pt
+  Error processing e2c21ee1-02d6-400e-86ec-cd4c39505f68@MasterBedroom-620: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2c21ee1-02d6-400e-86ec-cd4c39505f68@MasterBedroom-620.pt
+  Error processing e2c21ee1-02d6-400e-86ec-cd4c39505f68@SecondBedroom-1898: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2c21ee1-02d6-400e-86ec-cd4c39505f68@SecondBedroom-1898.pt
+  Error processing e2c54d64-ce34-4ace-a9ad-a79407cd383a@Bedroom-583: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2c54d64-ce34-4ace-a9ad-a79407cd383a@Bedroom-583.pt
+  Error processing e2c54d64-ce34-4ace-a9ad-a79407cd383a@Bedroom-647: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2c54d64-ce34-4ace-a9ad-a79407cd383a@Bedroom-647.pt
+  Error processing e2c54d64-ce34-4ace-a9ad-a79407cd383a@LivingDiningRoom-277: Features not found: /cluster/medbow/project/3dllms/melgin/datasets/3D-FRONT_processed/e2c54d64-ce34-4ace-a9ad-a79407cd383a@LivingDiningRoom-277.pt
+
+======================================================================
+SAVING RESULTS
+======================================================================
+
+======================================================================
+SUMMARY
+======================================================================
+Successful: 0
+Failed:     99
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/3dfront_inference
+
+End time: Wed Oct  8 17:04:20 MDT 2025
+==========================================

@@ -1,0 +1,37 @@
+==========================================
+GIW529 Finetuned Model Inference
+==========================================
+Job ID: 48625031
+Start time: Sat Dec  6 15:32:38 MST 2025
+==========================================
+
+✓ Conda environment activated: lavis
+
+Running GIW529 finetuned model inference...
+Checkpoint: checkpoint_9.pth (final epoch)
+Dataset: GIW529 test set (150 scenes)
+Questions: 12 categories per scene
+
+======================================================================
+GIW529 INFERENCE
+======================================================================
+Device: cuda
+Checkpoint: /cluster/medbow/project/3dllms/melgin/3D-LLM_for_UPD-3D/3DLLM_BLIP2-base/lavis/output/BLIP2/3DQA_GIW529/20251206132/checkpoint_9.pth
+Processed dir: /project/3dllms/melgin/datasets/GIW/giw529_processed_for_3dllm
+Questions base: /project/3dllms/melgin/UPD-3D/upd_text/GIW529_gpt-5-nano
+Output dir: /project/3dllms/melgin/3D-LLM_for_UPD-3D/results/giw529_inference
+
+Loading point cloud list...
+  Total point clouds: 151
+  Processing range: 0 to 150
+  Processing count: 150
+  Questions per cloud: 12
+  Total inferences: 1800
+
+Loading 3D-LLM model...
+  Loading checkpoint: /cluster/medbow/project/3dllms/melgin/3D-LLM_for_UPD-3D/3DLLM_BLIP2-base/lavis/output/BLIP2/3DQA_GIW529/20251206132/checkpoint_9.pth
+  ✓ Model loaded successfully
+
+======================================================================
+RUNNING INFERENCE
+======================================================================

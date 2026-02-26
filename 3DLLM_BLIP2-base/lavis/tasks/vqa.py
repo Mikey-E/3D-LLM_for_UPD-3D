@@ -110,10 +110,16 @@ class VQATask(BaseTask):
         return pred_qa_pairs
 
     def after_evaluation(self, val_result, split_name, epoch):
+        # Handle epoch being either int or string (e.g., "best")
+        if isinstance(epoch, str):
+            filename = f"{split_name}_{epoch}_vqa_result"
+        else:
+            filename = f"{split_name}_{epoch}_vqa_result"
+        
         result_file = self.save_result(
             val_result,
             result_dir=registry.get_path("result_dir"),
-            filename=f"{split_name}_%d_vqa_result" % epoch,
+            filename=filename,
             remove_duplicate="question_id",
         )
 

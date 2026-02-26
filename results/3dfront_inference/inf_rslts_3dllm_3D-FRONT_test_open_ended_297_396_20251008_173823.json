@@ -1,0 +1,497 @@
+{
+  "c84945ea-5844-42e4-9049-3685b127bd22@MasterBedroom-1369": {
+    "prompt": "What type of coffee machine is in the kitchen?",
+    "response": "espresso",
+    "timestamp": "2025-10-08T17:28:51.292052"
+  },
+  "c84945ea-5844-42e4-9049-3685b127bd22@SecondBedroom-1905": {
+    "prompt": "What type of fountain is installed in the room?",
+    "response": "a water fountain",
+    "timestamp": "2025-10-08T17:28:57.966015"
+  },
+  "c8621bef-4c86-4a76-bce5-75170d72245c@DiningRoom-517": {
+    "prompt": "What type of exercise equipment is used in this room?",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:29:03.826574"
+  },
+  "c8655cd6-29b6-4c61-b2e5-a0c7a6bc0c95@KidsRoom-6940": {
+    "prompt": "What type of exercise equipment is located in the room?",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:29:08.344654"
+  },
+  "c8655cd6-29b6-4c61-b2e5-a0c7a6bc0c95@LivingDiningRoom-3232": {
+    "prompt": "What type of musical instrument is positioned in the corner of the room?",
+    "response": "drum",
+    "timestamp": "2025-10-08T17:29:13.998730"
+  },
+  "c8655cd6-29b6-4c61-b2e5-a0c7a6bc0c95@MasterBedroom-7277": {
+    "prompt": "What type of bookshelf is located on the opposite wall?",
+    "response": "bookcase",
+    "timestamp": "2025-10-08T17:29:18.653894"
+  },
+  "c8655cd6-29b6-4c61-b2e5-a0c7a6bc0c95@SecondBedroom-6425": {
+    "prompt": "What type of flooring is used for the kitchen?",
+    "response": "laminate",
+    "timestamp": "2025-10-08T17:29:26.011048"
+  },
+  "c86a7968-7227-498d-8d53-5424d094ff17@LivingDiningRoom-1389": {
+    "prompt": "What type of artwork is displayed on the walls?",
+    "response": "paintings",
+    "timestamp": "2025-10-08T17:29:31.164349"
+  },
+  "c86a7968-7227-498d-8d53-5424d094ff17@MasterBedroom-395": {
+    "prompt": "What type of outdoor sports equipment is stored in the room?",
+    "response": "golf clubs",
+    "timestamp": "2025-10-08T17:29:37.109704"
+  },
+  "c86a7968-7227-498d-8d53-5424d094ff17@SecondBedroom-492": {
+    "prompt": "What is the shape of the chandelier hanging from the ceiling?",
+    "response": "t",
+    "timestamp": "2025-10-08T17:29:43.376353"
+  },
+  "069c71a1-a02a-4c6c-8e46-8dd66ab4ed5f@BedRoom-258528": {
+    "prompt": "What type of outdoor sculpture is displayed outside the bedroom window?",
+    "response": "ur",
+    "timestamp": "2025-10-08T17:29:47.971025"
+  },
+  "c86e33d4-c966-449f-ade0-2d61f930b22d@Bedroom-6853": {
+    "prompt": "What type of rug is placed in the center of the room?",
+    "response": "area rugn",
+    "timestamp": "2025-10-08T17:29:55.017577"
+  },
+  "c86e33d4-c966-449f-ade0-2d61f930b22d@Bedroom-6910": {
+    "prompt": "What type of outdoor grill is situated next to the house?",
+    "response": "charcoal grill",
+    "timestamp": "2025-10-08T17:30:01.021627"
+  },
+  "c86e33d4-c966-449f-ade0-2d61f930b22d@Bedroom-6929": {
+    "prompt": "What type of mountain is depicted in the artwork on the wall?",
+    "response": "a mountain",
+    "timestamp": "2025-10-08T17:30:07.797509"
+  },
+  "c86e33d4-c966-449f-ade0-2d61f930b22d@Bedroom-6979": {
+    "prompt": "What type of outdoor sculpture is located in the garden area adjacent to the bedroom?",
+    "response": "ur",
+    "timestamp": "2025-10-08T17:30:14.392515"
+  },
+  "c86e33d4-c966-449f-ade0-2d61f930b22d@LivingDiningRoom-6812": {
+    "prompt": "What type of refrigerator is located in the room?",
+    "response": "mini",
+    "timestamp": "2025-10-08T17:30:18.943556"
+  },
+  "c879334b-3498-4b77-bedb-97a6b0f63790@LivingDiningRoom-17558": {
+    "prompt": "What type of aquarium is located in the room?",
+    "response": "a fish tank",
+    "timestamp": "2025-10-08T17:30:25.120492"
+  },
+  "c879334b-3498-4b77-bedb-97a6b0f63790@MasterBedroom-8283": {
+    "prompt": "What type of ceiling fan is installed in the room?",
+    "response": "bladeless",
+    "timestamp": "2025-10-08T17:30:30.385987"
+  },
+  "c879334b-3498-4b77-bedb-97a6b0f63790@SecondBedroom-5349": {
+    "prompt": "What kind of artwork is hanging on the walls?",
+    "response": "paintings",
+    "timestamp": "2025-10-08T17:30:35.350365"
+  },
+  "c8819e35-7f93-40de-98b0-3e62db618e8e@Library-18950": {
+    "prompt": "What shape is the garden bench outside the library?",
+    "response": "o",
+    "timestamp": "2025-10-08T17:30:41.812096"
+  },
+  "c8819e35-7f93-40de-98b0-3e62db618e8e@LivingDiningRoom-7681": {
+    "prompt": "What size is the swimming pool adjacent to the living room?",
+    "response": "",
+    "timestamp": "2025-10-08T17:30:49.078521"
+  },
+  "c8819e35-7f93-40de-98b0-3e62db618e8e@MasterBedroom-7747": {
+    "prompt": "What type of outdoor equipment is stored in the room?",
+    "response": "camping",
+    "timestamp": "2025-10-08T17:30:52.970669"
+  },
+  "c8819e35-7f93-40de-98b0-3e62db618e8e@SecondBedroom-7807": {
+    "prompt": "What type of exercise equipment is available in the scene?",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:30:58.446686"
+  },
+  "c8c4c66c-3c76-4769-a6ad-7865288c72c3@DiningRoom-2974": {
+    "prompt": "What type of floor tiles are used in the room?",
+    "response": "ceramic",
+    "timestamp": "2025-10-08T17:31:05.303795"
+  },
+  "c8c4c66c-3c76-4769-a6ad-7865288c72c3@LivingRoom-19043": {
+    "prompt": "What type of rug is underneath the coffee table?",
+    "response": "striped rug",
+    "timestamp": "2025-10-08T17:31:12.894296"
+  },
+  "c8d23532-0629-40d8-a3bd-00891e4c5dc2@DiningRoom-89532": {
+    "prompt": "What type of play equipment is located in the room?",
+    "response": "a slide",
+    "timestamp": "2025-10-08T17:31:19.657393"
+  },
+  "c8d23532-0629-40d8-a3bd-00891e4c5dc2@Hallway-86325": {
+    "prompt": "What type of outdoor furniture is placed near the entrance?",
+    "response": "bench",
+    "timestamp": "2025-10-08T17:31:26.251014"
+  },
+  "c8d23532-0629-40d8-a3bd-00891e4c5dc2@Library-124610": {
+    "prompt": "What type of rug is beneath the dining table?",
+    "response": "runner",
+    "timestamp": "2025-10-08T17:31:31.694094"
+  },
+  "c8d23532-0629-40d8-a3bd-00891e4c5dc2@LivingRoom-6028": {
+    "prompt": "What artwork is hanging on the wall?",
+    "response": "lithograph",
+    "timestamp": "2025-10-08T17:31:37.909068"
+  },
+  "c8d23532-0629-40d8-a3bd-00891e4c5dc2@MasterBedroom-6069": {
+    "prompt": "What type of office desk is in the room?",
+    "response": "computer desk",
+    "timestamp": "2025-10-08T17:31:43.417750"
+  },
+  "c8e63ae0-4ac0-46ff-a019-a4cbb19d01a8@Bedroom-2908": {
+    "prompt": "What shape is the coffee table in the room?",
+    "response": "rectangular",
+    "timestamp": "2025-10-08T17:31:50.036431"
+  },
+  "c8e63ae0-4ac0-46ff-a019-a4cbb19d01a8@LivingDiningRoom-3132": {
+    "prompt": "What type of rug is placed under the main seating area?",
+    "response": "area rug",
+    "timestamp": "2025-10-08T17:31:56.594577"
+  },
+  "c8f05c13-5267-410a-b1aa-8701b9b4bdd5@Bedroom-81765": {
+    "prompt": "What type of artwork is displayed on the floor?",
+    "response": "sculpture",
+    "timestamp": "2025-10-08T17:32:02.695663"
+  },
+  "c8f05c13-5267-410a-b1aa-8701b9b4bdd5@LivingDiningRoom-9815": {
+    "prompt": "What texture does the wall behind the TV stand have?",
+    "response": "textured",
+    "timestamp": "2025-10-08T17:32:07.400045"
+  },
+  "c69e0c9d-9bec-44ec-9ced-73935534013a@KidsRoom-3031": {
+    "prompt": "What type of outdoor grill is located in the KidsRoom?",
+    "response": "bb",
+    "timestamp": "2025-10-08T17:32:11.721459"
+  },
+  "c9267e87-f13d-4328-8178-efd6b11eca38@Library-31037": {
+    "prompt": "What material is the coffee table made of?",
+    "response": "wood",
+    "timestamp": "2025-10-08T17:32:18.421750"
+  },
+  "c9267e87-f13d-4328-8178-efd6b11eca38@LivingDiningRoom-33417": {
+    "prompt": "What is the capacity of the refrigerator in the kitchen?",
+    "response": "a refrigerator",
+    "timestamp": "2025-10-08T17:32:23.478867"
+  },
+  "c9267e87-f13d-4328-8178-efd6b11eca38@MasterBedroom-34106": {
+    "prompt": "What type of outdoor grill is used for barbecuing in the room?",
+    "response": "charcoal grill",
+    "timestamp": "2025-10-08T17:32:29.712290"
+  },
+  "c9297532-14a7-4736-a0f4-1f14a527e93d@CloakRoom-9818": {
+    "prompt": "What type of industrial equipment is located in this room?",
+    "response": "a machine",
+    "timestamp": "2025-10-08T17:32:34.593811"
+  },
+  "c9297532-14a7-4736-a0f4-1f14a527e93d@DiningRoom-20750": {
+    "prompt": "What type of antique clock is in the room?",
+    "response": "chim",
+    "timestamp": "2025-10-08T17:32:39.867735"
+  },
+  "c9297532-14a7-4736-a0f4-1f14a527e93d@KidsRoom-12245": {
+    "prompt": "What type of outdoor grill is located in the room?",
+    "response": "charcoal grill",
+    "timestamp": "2025-10-08T17:32:45.609418"
+  },
+  "c9297532-14a7-4736-a0f4-1f14a527e93d@Library-12232": {
+    "prompt": "What is the size and weight of the marble sculpture in the corner of the room?",
+    "response": "a foot",
+    "timestamp": "2025-10-08T17:32:51.232710"
+  },
+  "c9297532-14a7-4736-a0f4-1f14a527e93d@LivingRoom-14036": {
+    "prompt": "What type of rug is in the scene?",
+    "response": "rug",
+    "timestamp": "2025-10-08T17:32:57.774771"
+  },
+  "c9297532-14a7-4736-a0f4-1f14a527e93d@MasterBedroom-18277": {
+    "prompt": "What type of chandelier is hanging from the ceiling?",
+    "response": "crystal",
+    "timestamp": "2025-10-08T17:33:03.609156"
+  },
+  "c9297532-14a7-4736-a0f4-1f14a527e93d@SecondBedroom-12565": {
+    "prompt": "What type of artwork hangs on the walls?",
+    "response": "paintings",
+    "timestamp": "2025-10-08T17:33:08.661226"
+  },
+  "c964fbed-8a87-4882-9aad-7d59d885219a@Library-4062": {
+    "prompt": "What type of outdoor grill is located near the library?",
+    "response": "charcoal grill",
+    "timestamp": "2025-10-08T17:33:13.490973"
+  },
+  "c964fbed-8a87-4882-9aad-7d59d885219a@LivingDiningRoom-2980": {
+    "prompt": "What type of rug is placed underneath the coffee table?",
+    "response": "area rug",
+    "timestamp": "2025-10-08T17:33:19.784071"
+  },
+  "c964fbed-8a87-4882-9aad-7d59d885219a@MasterBedroom-7782": {
+    "prompt": "What type of sports equipment is stored under the bed?",
+    "response": "tennis rack",
+    "timestamp": "2025-10-08T17:33:25.284903"
+  },
+  "c964fbed-8a87-4882-9aad-7d59d885219a@SecondBedroom-4683": {
+    "prompt": "What kind of exercise equipment is in the room?",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:33:31.671589"
+  },
+  "c96ff0e6-088b-4629-9a1d-2b0937506ffe@ElderlyRoom-6633": {
+    "prompt": "What is the size of the swimming pool in the backyard?",
+    "response": "",
+    "timestamp": "2025-10-08T17:33:37.271153"
+  },
+  "c96ff0e6-088b-4629-9a1d-2b0937506ffe@LivingDiningRoom-13545": {
+    "prompt": "What type of artwork is hung on the walls?",
+    "response": "paintings",
+    "timestamp": "2025-10-08T17:33:43.857433"
+  },
+  "c96ff0e6-088b-4629-9a1d-2b0937506ffe@MasterBedroom-13810": {
+    "prompt": "What type of outdoor furniture is in the scene?",
+    "response": "chairs",
+    "timestamp": "2025-10-08T17:33:48.435021"
+  },
+  "c97214f1-0589-477c-a149-7c793665a10a@LivingDiningRoom-5313": {
+    "prompt": "What type of musical instrument is stored in the room?",
+    "response": "har",
+    "timestamp": "2025-10-08T17:33:54.902690"
+  },
+  "c97214f1-0589-477c-a149-7c793665a10a@MasterBedroom-535": {
+    "prompt": "What type of flooring material is used in the room?",
+    "response": "wood",
+    "timestamp": "2025-10-08T17:33:59.289610"
+  },
+  "c97214f1-0589-477c-a149-7c793665a10a@SecondBedroom-3516": {
+    "prompt": "What type of decorative fountain is positioned in the center of the room?",
+    "response": "ur",
+    "timestamp": "2025-10-08T17:34:05.756019"
+  },
+  "105a0ab1-bc85-4f18-961c-a745382f89fb@BedRoom-7545": {
+    "prompt": "What is the height of the bookshelf in the corner of the room?",
+    "response": "5 f",
+    "timestamp": "2025-10-08T17:34:11.676884"
+  },
+  "c9728255-479b-46e2-bf94-a3fc902dd516@Library-39529": {
+    "prompt": "What color is the chandelier hanging in the center of the room?",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:18.177057"
+  },
+  "c9728255-479b-46e2-bf94-a3fc902dd516@LivingDiningRoom-149676": {
+    "prompt": "What type of sports equipment is hidden in the closet?",
+    "response": "racque",
+    "timestamp": "2025-10-08T17:34:22.811368"
+  },
+  "c9728255-479b-46e2-bf94-a3fc902dd516@MasterBedroom-42363": {
+    "prompt": "What type of outdoor furniture is in the room?",
+    "response": "wick",
+    "timestamp": "2025-10-08T17:34:29.071529"
+  },
+  "c9728255-479b-46e2-bf94-a3fc902dd516@SecondBedroom-41206": {
+    "prompt": "What color is the bicycle in the corner of the room?",
+    "response": "",
+    "timestamp": "2025-10-08T17:34:34.924744"
+  },
+  "c97329ac-7b59-419e-add5-b398d7fff12f@Bedroom-59869": {
+    "prompt": "What type of oven is installed in the kitchen?",
+    "response": "electric",
+    "timestamp": "2025-10-08T17:34:40.710303"
+  },
+  "c97329ac-7b59-419e-add5-b398d7fff12f@LivingDiningRoom-58808": {
+    "prompt": "What type of painting is displayed on the wall?",
+    "response": "oil",
+    "timestamp": "2025-10-08T17:34:47.027812"
+  },
+  "c97329ac-7b59-419e-add5-b398d7fff12f@MasterBedroom-57019": {
+    "prompt": "What type of exercise equipment is found in the room?",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:34:53.036405"
+  },
+  "c992fea1-7f87-4397-aa40-ca8e0e30a936@LivingDiningRoom-35855": {
+    "prompt": "What type of outdoor furniture is included in the scene?",
+    "response": "chairs",
+    "timestamp": "2025-10-08T17:34:58.223598"
+  },
+  "c992fea1-7f87-4397-aa40-ca8e0e30a936@MasterBedroom-44999": {
+    "prompt": "What kind of piano is in the room?",
+    "response": "upright",
+    "timestamp": "2025-10-08T17:35:05.031304"
+  },
+  "c99f6564-2c07-4733-86c5-7d1712c3deac@Bedroom-1971": {
+    "prompt": "What type of vehicle is parked outside the bedroom?",
+    "response": "car",
+    "timestamp": "2025-10-08T17:35:11.786656"
+  },
+  "c99f6564-2c07-4733-86c5-7d1712c3deac@LivingDiningRoom-1552": {
+    "prompt": "What type of musical instrument is in the room?",
+    "response": "har",
+    "timestamp": "2025-10-08T17:35:17.542422"
+  },
+  "c9b3ee78-9e2f-4634-b5fd-b7a0686a511f@Bedroom-1738": {
+    "prompt": "What materials were used to construct the main ceiling beam?",
+    "response": "wood",
+    "timestamp": "2025-10-08T17:35:23.145744"
+  },
+  "c9b3ee78-9e2f-4634-b5fd-b7a0686a511f@Bedroom-2336": {
+    "prompt": "What type of sculpture is placed in this bedroom?",
+    "response": "a statue",
+    "timestamp": "2025-10-08T17:35:30.884924"
+  },
+  "c9b3ee78-9e2f-4634-b5fd-b7a0686a511f@LivingDiningRoom-1801": {
+    "prompt": "What type of rug is placed under the dining table?",
+    "response": "placemat",
+    "timestamp": "2025-10-08T17:35:35.795335"
+  },
+  "c9b4f975-0f17-4718-bf05-a05a450a3c48@KidsRoom-51209": {
+    "prompt": "What type of sports equipment is stored in the room?",
+    "response": "tennis",
+    "timestamp": "2025-10-08T17:35:41.470723"
+  },
+  "c9b4f975-0f17-4718-bf05-a05a450a3c48@MasterBedroom-61232": {
+    "prompt": "What type of garden tools are stored in the room?",
+    "response": "garden rak",
+    "timestamp": "2025-10-08T17:35:46.869944"
+  },
+  "c9b4f975-0f17-4718-bf05-a05a450a3c48@SecondBedroom-61181": {
+    "prompt": "What type of musical instrument is placed in the room?",
+    "response": "drum",
+    "timestamp": "2025-10-08T17:35:54.186662"
+  },
+  "c9b9c9fe-5175-4ee6-863b-31beb0cb9a13@Bedroom-33611": {
+    "prompt": "What type of outdoor fountain is installed outside the bedroom?",
+    "response": "pond",
+    "timestamp": "2025-10-08T17:36:01.303410"
+  },
+  "c9b9c9fe-5175-4ee6-863b-31beb0cb9a13@Bedroom-34903": {
+    "prompt": "What type of artwork is displayed on the wall?",
+    "response": "Painting",
+    "timestamp": "2025-10-08T17:36:08.293006"
+  },
+  "c9b9c9fe-5175-4ee6-863b-31beb0cb9a13@LivingRoom-35854": {
+    "prompt": "What type of chandelier is hanging from the ceiling?",
+    "response": "crystal",
+    "timestamp": "2025-10-08T17:36:14.063076"
+  },
+  "c9bdf08a-2b29-419b-9a3e-8452b6cc9dd9@Bedroom-6679": {
+    "prompt": "What type of sports equipment is stored in the room?",
+    "response": "tennis",
+    "timestamp": "2025-10-08T17:36:19.716140"
+  },
+  "c9bdf08a-2b29-419b-9a3e-8452b6cc9dd9@LivingRoom-611": {
+    "prompt": "What type of bed is in the living room?",
+    "response": "sofa",
+    "timestamp": "2025-10-08T17:36:25.963808"
+  },
+  "0f039b8c-53ee-47cb-b4c9-58ba9a0141b9@CloakRoom-855": {
+    "prompt": "What is the size of the dining table in this space?",
+    "response": "",
+    "timestamp": "2025-10-08T17:36:31.127970"
+  },
+  "c9d609a1-e748-4728-8249-4962bcfb4cbe@ElderlyRoom-5831": {
+    "prompt": "What type of garden furniture is located in the room?",
+    "response": "chairs",
+    "timestamp": "2025-10-08T17:36:37.204648"
+  },
+  "c9d609a1-e748-4728-8249-4962bcfb4cbe@MasterBedroom-142065": {
+    "prompt": "What type of artwork is hanging on the wall?",
+    "response": "painting",
+    "timestamp": "2025-10-08T17:36:43.403098"
+  },
+  "c6204cb0-883e-4821-8456-2db1c1eb4b68@MasterBedroom-12123": {
+    "prompt": "What type of sculpture is displayed on the dressing table?",
+    "response": "ur",
+    "timestamp": "2025-10-08T17:36:50.564764"
+  },
+  "c15251b8-f844-46be-9d3e-9302dc494945@SecondBedroom-13488": {
+    "prompt": "What type of exercise equipment is located in the room?",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:36:56.892629"
+  },
+  "c9d609a1-e748-4728-8249-4962bcfb4cbe@SecondBedroom-130923": {
+    "prompt": "What artwork is displayed above the bed?",
+    "response": "a painting",
+    "timestamp": "2025-10-08T17:37:01.743738"
+  },
+  "c9f4fd26-ed80-456b-bd39-2ea247d90ded@Bedroom-272": {
+    "prompt": "What is the shape of the bookshelf?",
+    "response": "square",
+    "timestamp": "2025-10-08T17:37:06.872344"
+  },
+  "c9f4fd26-ed80-456b-bd39-2ea247d90ded@LivingDiningRoom-1174": {
+    "prompt": "What type of fireplace is installed in the living room?",
+    "response": "gas",
+    "timestamp": "2025-10-08T17:37:12.155581"
+  },
+  "c9fed96c-3e39-49cf-99f3-4d236d010478@Bedroom-1705": {
+    "prompt": "What type of exercise equipment is placed in this bedroom?",
+    "response": "elli",
+    "timestamp": "2025-10-08T17:37:17.855157"
+  },
+  "c9fed96c-3e39-49cf-99f3-4d236d010478@Bedroom-6801": {
+    "prompt": "What type of coffee machine is situated in this bedroom?",
+    "response": "a coffee maker",
+    "timestamp": "2025-10-08T17:37:22.088019"
+  },
+  "c9fed96c-3e39-49cf-99f3-4d236d010478@Bedroom-6984": {
+    "prompt": "What type of outdoor grill is used for cooking in this bedroom?",
+    "response": "charcoal",
+    "timestamp": "2025-10-08T17:37:27.023029"
+  },
+  "c9fed96c-3e39-49cf-99f3-4d236d010478@LivingDiningRoom-6848": {
+    "prompt": "What type of garden tools are stored in the room?",
+    "response": "garden rak",
+    "timestamp": "2025-10-08T17:37:32.131741"
+  },
+  "ca0bdaff-4e3a-4677-a328-cfab693b37c4@Bedroom-1965": {
+    "prompt": "What food items are stored in the kitchen nearby?",
+    "response": "bread",
+    "timestamp": "2025-10-08T17:37:36.505660"
+  },
+  "ca0bdaff-4e3a-4677-a328-cfab693b37c4@CloakRoom-8945": {
+    "prompt": "What type of artwork is displayed on the walls?",
+    "response": "paintings",
+    "timestamp": "2025-10-08T17:37:42.701864"
+  },
+  "ca0bdaff-4e3a-4677-a328-cfab693b37c4@Library-2594": {
+    "prompt": "What type of fireplace is installed in the library?",
+    "response": "gas",
+    "timestamp": "2025-10-08T17:37:47.560691"
+  },
+  "ca0bdaff-4e3a-4677-a328-cfab693b37c4@LivingRoom-14784": {
+    "prompt": "What type of kitchen appliances are located in the living room?",
+    "response": "television",
+    "timestamp": "2025-10-08T17:37:53.044266"
+  },
+  "ca0bdaff-4e3a-4677-a328-cfab693b37c4@MasterBedroom-9302": {
+    "prompt": "What type of fridge is located in the master bedroom?",
+    "response": "mini",
+    "timestamp": "2025-10-08T17:37:59.667344"
+  },
+  "ca0bdaff-4e3a-4677-a328-cfab693b37c4@SecondBedroom-10352": {
+    "prompt": "What type of outdoor fountain is positioned in the garden?",
+    "response": "pond",
+    "timestamp": "2025-10-08T17:38:05.672136"
+  },
+  "ca12fa31-b995-4419-b689-08564e9237c7@KidsRoom-2699": {
+    "prompt": "What type of outdoor grill is used for cooking in the scene?",
+    "response": "charcoal grill",
+    "timestamp": "2025-10-08T17:38:10.859254"
+  },
+  "ca12fa31-b995-4419-b689-08564e9237c7@Library-32907": {
+    "prompt": "What type of flooring is used in the kitchen?",
+    "response": "laminate",
+    "timestamp": "2025-10-08T17:38:17.374351"
+  },
+  "ca12fa31-b995-4419-b689-08564e9237c7@LivingDiningRoom-8738": {
+    "prompt": "What type of rug is placed in front of the coffee table?",
+    "response": "area rug",
+    "timestamp": "2025-10-08T17:38:23.241516"
+  }
+}
